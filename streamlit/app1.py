@@ -69,14 +69,22 @@ with tab1:
     c1, c2 = st.columns(2)
     
     with c1:
-        # Chart 1: Daily Traffic Volume Trend
+        # Chart 1: Clean Stacked Area Chart for Daily Airport Movement Volume
         if not daily_df.empty and 'FLIGHT_DATE' in daily_df.columns:
-            fig1 = px.line(daily_df, x='FLIGHT_DATE', y='FLIGHT_COUNT' if 'FLIGHT_COUNT' in daily_df.columns else daily_df.columns[1],
-                           title="📈 Daily Airport Movement Volume", markers=True, template="plotly_white")
+            if 'AIRPORT_ICAO' in daily_df.columns and 'FLIGHT_COUNT' in daily_df.columns:
+                fig1 = px.area(daily_df, x='FLIGHT_DATE', y='FLIGHT_COUNT', color='AIRPORT_ICAO',
+                               title="📈 Daily Airport Movement Volume by Hub", template="plotly_white")
+            elif 'FLIGHT_COUNT' in daily_df.columns:
+                fig1 = px.area(daily_df, x='FLIGHT_DATE', y='FLIGHT_COUNT',
+                               title="📈 Daily Total Airport Movement Volume", template="plotly_white")
+            else:
+                agg_df = daily_df.groupby('FLIGHT_DATE').size().reset_index(name='FLIGHT_COUNT')
+                fig1 = px.area(agg_df, x='FLIGHT_DATE', y='FLIGHT_COUNT', title="📈 Daily Airport Movement Volume", template="plotly_white")
         else:
             dates = pd.date_range(start="2026-10-20", periods=7)
-            fig1 = px.line(x=dates, y=[195, 210, 205, 225, 240, 230, 215], title="📈 Daily Airport Movement Volume", markers=True, template="plotly_white")
-        fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20))
+            fig1 = px.area(x=dates, y=[195, 210, 205, 225, 240, 230, 215], title="📈 Daily Airport Movement Volume", template="plotly_white")
+        
+        fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20), hovermode="x unified")
         st.plotly_chart(fig1, use_container_width=True)
 
     with c2:
@@ -162,7 +170,7 @@ with tab4:
     with c2:
         # Chart 2: On-Time Performance / Delay Risk by Carrier
         carriers = ['Air France', 'Lufthansa', 'EasyJet', 'Delta', 'Emirates']
-        delay_risk = [4.2, 3.1, 7.8, 2.5, 1.9] # avg delay mins
+        delay_risk = [4.2, 3.1, 7.8, 2.5, 1.9]
         fig8 = px.bar(x=carriers, y=delay_risk, title="⚠️ Average Departure Delay Risk by Carrier (Mins)",
                       labels={'x': 'Carrier', 'y': 'Avg Delay (Minutes)'}, template="plotly_white", color=delay_risk, color_continuous_scale="Reds")
         fig8.update_layout(margin=dict(l=20, r=20, t=40, b=20))
