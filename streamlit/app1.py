@@ -4,8 +4,8 @@ AeroPulse: Executive & Operations Intelligence Suite
 Role-based airport analytics platform powered by Snowflake BACKFILL schema.
 Roles: Executive Director, Ground Operations, Network Planner, Commercial Director.
 
-Run with:
-    streamlit run streamlit/app.py
+Run locally with:
+    python -m streamlit run streamlit/app1.py
 """
 
 import os
@@ -45,17 +45,24 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-# ── Snowflake Connection ──────────────────────────────────────────────
+# ── Snowflake Connection Helper ────────────────────────────────────────
+def get_secret(key: str, default: str = "") -> str:
+    """Helper to fetch secrets from st.secrets first, then fall back to os.environ."""
+    if key in st.secrets:
+        return str(st.secrets[key])
+    return os.environ.get(key, default)
+
+
 @st.cache_resource
 def get_connection():
     return snowflake.connector.connect(
-        account=os.environ["SNOWFLAKE_ACCOUNT"],
-        user=os.environ["SNOWFLAKE_USER"],
-        password=os.environ["SNOWFLAKE_PASSWORD"],
-        warehouse=os.environ["SNOWFLAKE_WAREHOUSE"],
-        database=os.environ["SNOWFLAKE_DATABASE"],
-        schema="BACKFILL",
-        role=os.environ.get("SNOWFLAKE_ROLE", "ACCOUNTADMIN"),
+        account=get_secret("SNOWFLAKE_ACCOUNT"),
+        user=get_secret("SNOWFLAKE_USER"),
+        password=get_secret("SNOWFLAKE_PASSWORD"),
+        warehouse=get_secret("SNOWFLAKE_WAREHOUSE"),
+        database=get_secret("SNOWFLAKE_DATABASE", "AIRLINE_ANALYTICS"),
+        schema=get_secret("SNOWFLAKE_SCHEMA", "BACKFILL"),
+        role=get_secret("SNOWFLAKE_ROLE", "ACCOUNTADMIN"),
         login_timeout=120,
         network_timeout=120,
     )
@@ -332,6 +339,7 @@ with tab_commercial:
     my_airlines = airline_df[airline_df["airport_icao"] == selected].copy()
 
     if not my_airlines.empty:
+    
         total_flights = my_airlines["flights"].sum()
         my_airlines["share_pct"] = round(my_airlines["flights"] * 100 / total_flights, 1)
         top5 = my_airlines.head(5)
@@ -368,21 +376,4 @@ with tab_commercial:
             st.dataframe(display_df, use_container_width=True, hide_index=True)
 
             # HHI Calculation
-            hhi = int((my_airlines["share_pct"] ** 2).sum())
-            st.markdown(f"**Herfindahl-Hirschman Index (HHI):** `{hhi}`")
-            if hhi > 2500:
-                st.caption("🔴 Highly Concentrated Market (High single-airline vulnerability)")
-            elif hhi > 1500:
-                st.caption("🟡 Moderately Concentrated Market")
-            else:
-                st.caption("🟢 Competitive Market Structure")
-    else:
-        st.warning("No airline traffic data available for this airport.")
-
-# ── Footer ────────────────────────────────────────────────────────────
-st.divider()
-st.caption(
-    "AeroPulse Executive Intelligence Suite | "
-    "Architecture: Apache Airflow → Snowflake → dbt → Streamlit | "
-    "Confidential — Internal Airport Operations Use Only"
-)
+            hhi = int((my_airlines["share_pct"] ** 2
