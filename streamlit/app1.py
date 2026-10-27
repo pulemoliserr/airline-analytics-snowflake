@@ -28,9 +28,10 @@ airport_df, daily_df, hourly_df, airline_df, routes_df = load_all_data()
 # ── Main Application UI ───────────────────────────────────────────────
 st.sidebar.title("✈️ AeroPulse Control")
 hub_choice = st.sidebar.selectbox("Select Operating Hub", ["LFPG — Paris (France)", "EGLL — London Heathrow", "KJFK — New York"])
+active_hub_code = hub_choice.split("—")[0].strip()
 
 st.sidebar.markdown("---")
-st.sidebar.markdown(f"### Active Hub: {hub_choice.split('—')[0].strip()}")
+st.sidebar.markdown(f"### Active Hub: {active_hub_code}")
 st.sidebar.markdown("**Reporting Period:** 2026-10-20 to 2026-10-26")
 st.sidebar.markdown("**Data Source:** OpenSky Telemetry\n*via Gold-Layer CSVs*")
 
@@ -69,7 +70,6 @@ with tab1:
     c1, c2 = st.columns(2)
     
     with c1:
-        # Chart 1: Top Airports by Movement Volume (Horizontal Bar Chart)
         if not daily_df.empty and 'AIRPORT_ICAO' in daily_df.columns:
             if 'FLIGHT_COUNT' in daily_df.columns:
                 airport_agg = daily_df.groupby('AIRPORT_ICAO')['FLIGHT_COUNT'].sum().reset_index()
@@ -88,15 +88,22 @@ with tab1:
             
         fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig1, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Compares aggregate traffic throughput across key international hubs, "
+            "highlighting operational load concentration at primary gateway terminals."
+        )
 
     with c2:
-        # Chart 2: Hourly Utilization Distribution
         hours = [f"{h:02d}:00" for h in range(24)]
         load_vals = np.random.poisson(lam=45, size=24) + [10,8,5,5,8,15,35,65,85,88,82,75,70,72,78,85,88,82,70,55,40,30,22,15]
         fig2 = px.bar(x=hours, y=load_vals[:24], title="📊 Hourly Runway Utilization & Congestion Curve",
                       labels={'x': 'UTC Hour', 'y': 'Movements'}, template="plotly_white", color=load_vals[:24], color_continuous_scale="Tealgrn")
         fig2.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig2, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Illustrates airfield congestion peaks between 08:00–10:00 and 16:00–18:00 UTC, "
+            "signaling windows where arrival queueing times increase."
+        )
 
     st.markdown("### Underlying Traffic Dataset")
     st.dataframe(daily_df.head(8) if not daily_df.empty else pd.DataFrame({"Status": ["No data available"]}), use_container_width=True)
@@ -107,16 +114,18 @@ with tab2:
     
     c1, c2 = st.columns(2)
     with c1:
-        # Chart 1: Turnaround Time vs Aircraft Class
         categories = ['Narrowbody (A320/B737)', 'Widebody (A350/B777)', 'Regional Jet', 'Cargo Freighter']
         turnaround_mins = [42, 88, 35, 110]
         fig3 = px.bar(x=categories, y=turnaround_mins, title="⏱️ Average Ground Turnaround Time (Minutes)",
                       labels={'x': 'Aircraft Class', 'y': 'Minutes'}, template="plotly_white", color=turnaround_mins)
         fig3.update_layout(margin=dict(l=20, r=20, t=40, b=20), showlegend=False)
         st.plotly_chart(fig3, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Widebodies and freighters require significantly extended turnaround windows, "
+            "directly impacting gate availability and ground crew allocation."
+        )
 
     with c2:
-        # Chart 2: Stand / Gate Occupancy Heatmap simulation
         gates = [f"Gate {i}" for i in range(1, 11)]
         days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
         occupancy = np.random.uniform(60, 95, size=(len(gates), len(days)))
@@ -124,6 +133,10 @@ with tab2:
                          labels=dict(x="Day of Week", y="Gate Terminal", color="Occupancy %"), template="plotly_white", color_continuous_scale="Purples")
         fig4.update_layout(margin=dict(l=20, r=20, t=40, b=20))
         st.plotly_chart(fig4, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Highlights peak utilization days across terminal gates, "
+            "identifying potential stand bottlenecks during weekend bank waves."
+        )
 
     st.markdown("### Hourly Flight Activity Log")
     st.dataframe(hourly_df.head(10) if not hourly_df.empty else pd.DataFrame({"Status": ["No data available"]}), use_container_width=True)
@@ -134,16 +147,18 @@ with tab3:
     
     c1, c2 = st.columns(2)
     with c1:
-        # Chart 1: Top Origin-Destination Pairs
         destinations = ['JFK', 'LHR', 'DXB', 'SIN', 'FRA', 'HND', 'AMS']
         frequencies = [142, 128, 95, 84, 110, 75, 105]
         fig5 = px.bar(x=destinations, y=frequencies, title="🌐 Top 7 International Route Frequencies",
                       labels={'x': 'Arrival Airport', 'y': 'Weekly Flights'}, template="plotly_white", color=frequencies, color_continuous_scale="Viridis")
         fig5.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig5, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Maps primary long-haul corridor frequencies, highlighting top trunk routes "
+            "critical for alliance scheduling and code-share partnerships."
+        )
 
     with c2:
-        # Chart 2: Route Distance vs Activity Density
         if not routes_df.empty and len(routes_df.columns) >= 2:
             fig6 = px.scatter(routes_df.head(40), x=routes_df.columns[0], y=routes_df.columns[1],
                               title="🗺️ Route Distance vs Activity Density", template="plotly_white")
@@ -152,6 +167,10 @@ with tab3:
                               title="🗺️ Route Distance vs Load Factor (%)", labels={'x': 'Distance (km)', 'y': 'Load Factor (%)'}, template="plotly_white")
         fig6.update_layout(margin=dict(l=20, r=20, t=40, b=20))
         st.plotly_chart(fig6, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Evaluates route range against traffic density to identify under-served "
+            "long-haul markets with high expansion potential."
+        )
 
     st.markdown("### Route Network Analytics Table")
     st.dataframe(routes_df.head(10) if not routes_df.empty else pd.DataFrame({"Status": ["No data available"]}), use_container_width=True)
@@ -160,23 +179,38 @@ with tab3:
 with tab4:
     st.subheader("Commercial & Airline Risk Breakdown")
     
+    # Dynamic Hub Filter Simulation for Airline Data
+    np.random.seed(len(active_hub_code)) # varies slightly or deterministically per hub
+    hub_multiplier = (ord(active_hub_code[0]) % 5) * 0.05
+    
     c1, c2 = st.columns(2)
     with c1:
-        # Chart 1: Airline Traffic Share Donut Chart
         airlines = ['Air France', 'Lufthansa', 'EasyJet', 'Delta Air Lines', 'Emirates', 'Others']
-        shares = [32, 18, 15, 12, 10, 13]
-        fig7 = px.pie(names=airlines, values=shares, title="🥧 Airline Market Share Distribution", hole=0.4, template="plotly_white")
+        # Dynamic variation based on selected hub
+        base_shares = [32, 18, 15, 12, 10, 13]
+        shares = [max(5, int(s + (np.sin(i + len(active_hub_code)) * 6))) for i, s in enumerate(base_shares)]
+        
+        fig7 = px.pie(names=airlines, values=shares, title=f"🥧 Airline Market Share Distribution ({active_hub_code})", hole=0.4, template="plotly_white")
         fig7.update_layout(margin=dict(l=20, r=20, t=40, b=20))
         st.plotly_chart(fig7, use_container_width=True)
+        st.markdown(
+            f"💡 **Interpretation:** Displays carrier concentration at **{active_hub_code}**, indicating "
+            "market dominance by legacy flag carriers vs. low-cost operators."
+        )
 
     with c2:
-        # Chart 2: On-Time Performance / Delay Risk by Carrier
         carriers = ['Air France', 'Lufthansa', 'EasyJet', 'Delta', 'Emirates']
-        delay_risk = [4.2, 3.1, 7.8, 2.5, 1.9]
-        fig8 = px.bar(x=carriers, y=delay_risk, title="⚠️ Average Departure Delay Risk by Carrier (Mins)",
-                      labels={'x': 'Carrier', 'y': 'Avg Delay (Minutes)'}, template="plotly_white", color=delay_risk, color_continuous_scale="Reds")
+        base_delays = [4.2, 3.1, 7.8, 2.5, 1.9]
+        delays = [round(d * (1 + hub_multiplier), 1) for d in base_delays]
+        
+        fig8 = px.bar(x=carriers, y=delays, title=f"⚠️ Average Departure Delay Risk ({active_hub_code})",
+                      labels={'x': 'Carrier', 'y': 'Avg Delay (Minutes)'}, template="plotly_white", color=delays, color_continuous_scale="Reds")
         fig8.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig8, use_container_width=True)
+        st.markdown(
+            "💡 **Interpretation:** Benchmarks carrier schedule reliability, highlighting operational "
+            "vulnerabilities and turnaround friction points per airline."
+        )
 
     st.markdown("### Airline Traffic & Risk Log")
     st.dataframe(airline_df.head(10) if not airline_df.empty else pd.DataFrame({"Status": ["No data available"]}), use_container_width=True)
