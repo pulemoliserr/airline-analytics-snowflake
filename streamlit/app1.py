@@ -174,22 +174,29 @@ with tab3:
         )
 
     with c2:
-        if not routes_df.empty and len(routes_df.columns) >= 2:
-            fig6 = px.scatter(routes_df.head(40), x=routes_df.columns[0], y=routes_df.columns[1],
-                              title=f"🗺️ Route Distance vs Density — {active_hub_code}", template="plotly_white")
+        # Replaced vertical scatter with a clean Top Arrival Hubs Bar Chart
+        if not routes_df.empty and 'ARRIVAL_AIRPORT_ICAO' in routes_df.columns:
+            route_counts = routes_df['ARRIVAL_AIRPORT_ICAO'].value_counts().head(8).reset_index()
+            route_counts.columns = ['ARRIVAL_AIRPORT', 'FLIGHT_COUNT']
+            fig6 = px.bar(route_counts, x='FLIGHT_COUNT', y='ARRIVAL_AIRPORT', orientation='h',
+                          title=f"✈️ Top Connecting Destinations from {active_hub_code}", template="plotly_white",
+                          color='FLIGHT_COUNT', color_continuous_scale="Teal")
         else:
-            fig6 = px.scatter(x=[1200, 3400, 5600, 2100, 6700, 4300], y=[85, 94, 98, 70, 92, 88],
-                              title=f"🗺️ Route Distance vs Density — {active_hub_code}", labels={'x': 'Distance (km)', 'y': 'Load Factor (%)'}, template="plotly_white")
-        fig6.update_layout(margin=dict(l=20, r=20, t=40, b=20))
+            top_dest = ['EDDF', 'EGLL', 'OMDB', 'LFPG', 'CYYZ', 'KSFO', 'RJTT']
+            top_counts = [45, 38, 32, 28, 22, 18, 15]
+            fig6 = px.bar(x=top_counts, y=top_dest, orientation='h',
+                          title=f"✈️ Top Connecting Destinations from {active_hub_code}", template="plotly_white",
+                          color=top_counts, color_continuous_scale="Teal")
+            
+        fig6.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig6, use_container_width=True)
         st.markdown(
-            "💡 **Interpretation:** Evaluates route range against traffic density to identify under-served "
-            "long-haul markets with high expansion potential."
+            f"💡 **Interpretation:** Highlights the most frequent connecting arrival airports out of **{active_hub_code}**, "
+            "showcasing key directional passenger flows and network connectivity."
         )
 
     st.markdown(f"### Route Network Analytics Table ({active_hub_code})")
     st.dataframe(routes_df.head(10) if not routes_df.empty else raw_routes.head(10), use_container_width=True)
-
 # ── TAB 4: COMMERCIAL & AIRLINE RISK ────────────────────────────────────
 with tab4:
     st.subheader(f"Commercial & Airline Risk Breakdown — {active_hub_code}")
