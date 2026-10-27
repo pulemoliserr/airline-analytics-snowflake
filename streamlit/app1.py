@@ -375,5 +375,14 @@ with tab_commercial:
             )
             st.dataframe(display_df, use_container_width=True, hide_index=True)
 
-            # HHI Calculation
-            hhi = int((my_airlines["share_pct"] ** 2
+            # HHI Calculation (Fixed parentheses)
+            hhi = int((my_airlines["share_pct"] ** 2).sum())
+            st.markdown(f"**Herfindahl-Hirschman Index (HHI):** `{hhi}`")
+            if hhi > 2500:
+                st.caption("🔴 Highly Concentrated Market (High single-airline vulnerability)")
+            elif hhi > 1500:
+                st.caption("🟡 Moderately Concentrated Market")
+            else:
+                st.caption("🟢 Competitive Market Structure")
+    else:
+        st.warning("No airline traffic data available for this airport.")
