@@ -86,23 +86,28 @@ with tab1:
     c1, c2 = st.columns(2)
     
     with c1:
-        # Realistic Traffic Volume Distribution across Hubs
+        # Fully dynamic hub volume scaling & active highlighting
         hubs_list = ['EGLL (London)', 'LFPG (Paris)', 'KJFK (New York)', 'OMDB (Dubai)', 'RJTT (Tokyo)', 'YSSY (Sydney)']
-        base_volumes = [1420, 1310, 1250, 1100, 980, 850]
-        # Shift slightly based on active hub selection
-        hub_idx = next((i for i, h in enumerate(hubs_list) if active_hub_code in h), 0)
-        base_volumes[hub_idx] += 350
-        
-        df_hub_vol = pd.DataFrame({'Hub': hubs_list, 'Volume': base_volumes}).sort_values('Volume', ascending=True)
+        volumes_map = {
+            'EGLL (London)': 1420 if active_hub_code == 'EGLL' else 1150,
+            'LFPG (Paris)': 1310 if active_hub_code == 'LFPG' else 1100,
+            'KJFK (New York)': 1550 if active_hub_code == 'KJFK' else 1200,
+            'OMDB (Dubai)': 1100 if active_hub_code == 'OMDB' else 950,
+            'RJTT (Tokyo)': 980 if active_hub_code == 'RJTT' else 850,
+            'YSSY (Sydney)': 850 if active_hub_code == 'YSSY' else 720
+        }
+        df_hub_vol = pd.DataFrame({'Hub': list(volumes_map.keys()), 'Volume': list(volumes_map.values())})
+        df_hub_vol['Is_Active'] = df_hub_vol['Hub'].str.contains(active_hub_code)
+        df_hub_vol = df_hub_vol.sort_values('Volume', ascending=True)
         
         fig1 = px.bar(df_hub_vol, x='Volume', y='Hub', orientation='h',
-                      title="🏢 Total Weekly Traffic Volume by Major Hub", template="plotly_white",
-                      color='Volume', color_continuous_scale="Blues")
-        fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
+                      title=f"🏢 Weekly Traffic Volume (Active Focus: {active_hub_code})", template="plotly_white",
+                      color='Is_Active', color_discrete_map={True: '#FF4B4B', False: '#1f77b4'})
+        fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20), showlegend=False)
         st.plotly_chart(fig1, use_container_width=True)
         st.markdown(
-            "💡 **Interpretation:** Compares weekly traffic throughput across global gateway hubs, "
-            "highlighting operational load concentration and relative airspace demand."
+            f"💡 **Interpretation:** Highlights throughput for **{active_hub_code}** against global gateway peers, "
+            "showcasing comparative airspace demand and capacity share."
         )
 
     with c2:
@@ -115,7 +120,7 @@ with tab1:
         st.plotly_chart(fig2, use_container_width=True)
         st.markdown(
             f"💡 **Interpretation:** Illustrates airfield congestion peaks for **{active_hub_code}**, "
-            "signaling critical rush windows where departure/arrival queueing times spike."
+            "signaling critical rush windows where arrival queueing times spike."
         )
 
     st.markdown(f"### Underlying Traffic Dataset ({active_hub_code})")
@@ -160,19 +165,30 @@ with tab3:
     
     c1, c2 = st.columns(2)
     with c1:
-        destinations = ['JFK', 'LHR', 'DXB', 'SIN', 'FRA', 'HND', 'AMS']
-        frequencies = [142, 128, 95, 84, 110, 75, 105]
-        fig5 = px.bar(x=destinations, y=frequencies, title=f"🌐 Top Route Frequencies — {active_hub_code}",
-                      labels={'x': 'Arrival Airport', 'y': 'Weekly Flights'}, template="plotly_white", color=frequencies, color_continuous_scale="Viridis")
+        # Fully reactive Top Route Frequencies bar chart based on selected hub
+        if active_hub_code == "KJFK":
+            route_dest = ['LHR (London)', 'CDG (Paris)', 'LAX (Los Angeles)', 'DXB (Dubai)', 'FRA (Frankfurt)', 'FCO (Rome)', 'MEX (Mexico City)']
+            route_freqs = [142, 118, 95, 84, 78, 65, 54]
+        elif active_hub_code == "EGLL":
+            route_dest = ['JFK (New York)', 'DXB (Dubai)', 'JNB (Johannesburg)', 'AMS (Amsterdam)', 'FRA (Frankfurt)', 'SIN (Singapore)', 'DOH (Doha)']
+            route_freqs = [165, 120, 105, 95, 88, 75, 68]
+        else: # LFPG
+            route_dest = ['JFK (New York)', 'LHR (London)', 'DXB (Dubai)', 'YUL (Montreal)', 'FCO (Rome)', 'MAD (Madrid)', 'ATL (Atlanta)']
+            route_freqs = [135, 125, 110, 92, 80, 74, 62]
+
+        df_routes_bar = pd.DataFrame({'Destination': route_dest, 'Frequency': route_freqs}).sort_values('Frequency', ascending=True)
+        fig5 = px.bar(df_routes_bar, x='Frequency', y='Destination', orientation='h',
+                      title=f"🌐 Top Route Frequencies from {active_hub_code}", template="plotly_white",
+                      color='Frequency', color_continuous_scale="Viridis")
         fig5.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig5, use_container_width=True)
         st.markdown(
-            "💡 **Interpretation:** Maps primary long-haul corridor frequencies, highlighting top trunk routes "
-            "critical for alliance scheduling and code-share partnerships."
+            f"💡 **Interpretation:** Maps primary long-haul corridor frequencies out of **{active_hub_code}**, "
+            "highlighting top trunk routes critical for alliance scheduling and code-share partnerships."
         )
 
     with c2:
-        # Dynamic realistic connecting destination frequencies based on selected hub
+        # Connecting Destinations Horizontal Bar Chart
         if active_hub_code == "KJFK":
             dest_airports = ['KLAX (Los Angeles)', 'EGLL (London)', 'LFPG (Paris)', 'KMIA (Miami)', 'KSFO (San Francisco)', 'CYYZ (Toronto)', 'KBOS (Boston)']
             dest_counts = [156, 128, 112, 95, 88, 76, 64]
