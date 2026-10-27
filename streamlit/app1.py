@@ -69,22 +69,24 @@ with tab1:
     c1, c2 = st.columns(2)
     
     with c1:
-        # Chart 1: Clean Stacked Area Chart for Daily Airport Movement Volume
-        if not daily_df.empty and 'FLIGHT_DATE' in daily_df.columns:
-            if 'AIRPORT_ICAO' in daily_df.columns and 'FLIGHT_COUNT' in daily_df.columns:
-                fig1 = px.area(daily_df, x='FLIGHT_DATE', y='FLIGHT_COUNT', color='AIRPORT_ICAO',
-                               title="📈 Daily Airport Movement Volume by Hub", template="plotly_white")
-            elif 'FLIGHT_COUNT' in daily_df.columns:
-                fig1 = px.area(daily_df, x='FLIGHT_DATE', y='FLIGHT_COUNT',
-                               title="📈 Daily Total Airport Movement Volume", template="plotly_white")
+        # Chart 1: Top Airports by Movement Volume (Horizontal Bar Chart)
+        if not daily_df.empty and 'AIRPORT_ICAO' in daily_df.columns:
+            if 'FLIGHT_COUNT' in daily_df.columns:
+                airport_agg = daily_df.groupby('AIRPORT_ICAO')['FLIGHT_COUNT'].sum().reset_index()
             else:
-                agg_df = daily_df.groupby('FLIGHT_DATE').size().reset_index(name='FLIGHT_COUNT')
-                fig1 = px.area(agg_df, x='FLIGHT_DATE', y='FLIGHT_COUNT', title="📈 Daily Airport Movement Volume", template="plotly_white")
+                airport_agg = daily_df.groupby('AIRPORT_ICAO').size().reset_index(name='FLIGHT_COUNT')
+            airport_agg = airport_agg.sort_values(by='FLIGHT_COUNT', ascending=True)
+            fig1 = px.bar(airport_agg, x='FLIGHT_COUNT', y='AIRPORT_ICAO', orientation='h',
+                          title="🏢 Total Traffic Volume by Airport Hub", template="plotly_white",
+                          color='FLIGHT_COUNT', color_continuous_scale="Blues")
         else:
-            dates = pd.date_range(start="2026-10-20", periods=7)
-            fig1 = px.area(x=dates, y=[195, 210, 205, 225, 240, 230, 215], title="📈 Daily Airport Movement Volume", template="plotly_white")
-        
-        fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20), hovermode="x unified")
+            sample_airports = ['OMDB', 'EGLL', 'KJFK', 'LFPG', 'YSSY', 'RJTT']
+            sample_counts = [240, 310, 380, 420, 290, 350]
+            fig1 = px.bar(x=sample_counts, y=sample_airports, orientation='h',
+                          title="🏢 Total Traffic Volume by Airport Hub", template="plotly_white",
+                          color=sample_counts, color_continuous_scale="Blues")
+            
+        fig1.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig1, use_container_width=True)
 
     with c2:
@@ -92,8 +94,8 @@ with tab1:
         hours = [f"{h:02d}:00" for h in range(24)]
         load_vals = np.random.poisson(lam=45, size=24) + [10,8,5,5,8,15,35,65,85,88,82,75,70,72,78,85,88,82,70,55,40,30,22,15]
         fig2 = px.bar(x=hours, y=load_vals[:24], title="📊 Hourly Runway Utilization & Congestion Curve",
-                      labels={'x': 'UTC Hour', 'y': 'Movements'}, template="plotly_white")
-        fig2.update_layout(margin=dict(l=20, r=20, t=40, b=20))
+                      labels={'x': 'UTC Hour', 'y': 'Movements'}, template="plotly_white", color=load_vals[:24], color_continuous_scale="Tealgrn")
+        fig2.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig2, use_container_width=True)
 
     st.markdown("### Underlying Traffic Dataset")
@@ -110,7 +112,7 @@ with tab2:
         turnaround_mins = [42, 88, 35, 110]
         fig3 = px.bar(x=categories, y=turnaround_mins, title="⏱️ Average Ground Turnaround Time (Minutes)",
                       labels={'x': 'Aircraft Class', 'y': 'Minutes'}, template="plotly_white", color=turnaround_mins)
-        fig3.update_layout(margin=dict(l=20, r=20, t=40, b=20))
+        fig3.update_layout(margin=dict(l=20, r=20, t=40, b=20), showlegend=False)
         st.plotly_chart(fig3, use_container_width=True)
 
     with c2:
@@ -119,7 +121,7 @@ with tab2:
         days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
         occupancy = np.random.uniform(60, 95, size=(len(gates), len(days)))
         fig4 = px.imshow(occupancy, x=days, y=gates, title="🔥 Gate Occupancy Rate (%) Heatmap",
-                         labels=dict(x="Day of Week", y="Gate Terminal", color="Occupancy %"), template="plotly_white")
+                         labels=dict(x="Day of Week", y="Gate Terminal", color="Occupancy %"), template="plotly_white", color_continuous_scale="Purples")
         fig4.update_layout(margin=dict(l=20, r=20, t=40, b=20))
         st.plotly_chart(fig4, use_container_width=True)
 
@@ -136,12 +138,12 @@ with tab3:
         destinations = ['JFK', 'LHR', 'DXB', 'SIN', 'FRA', 'HND', 'AMS']
         frequencies = [142, 128, 95, 84, 110, 75, 105]
         fig5 = px.bar(x=destinations, y=frequencies, title="🌐 Top 7 International Route Frequencies",
-                      labels={'x': 'Arrival Airport', 'y': 'Weekly Flights'}, template="plotly_white", color=frequencies)
-        fig5.update_layout(margin=dict(l=20, r=20, t=40, b=20))
+                      labels={'x': 'Arrival Airport', 'y': 'Weekly Flights'}, template="plotly_white", color=frequencies, color_continuous_scale="Viridis")
+        fig5.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig5, use_container_width=True)
 
     with c2:
-        # Chart 2: Route Distance vs Passenger Yield / Density
+        # Chart 2: Route Distance vs Activity Density
         if not routes_df.empty and len(routes_df.columns) >= 2:
             fig6 = px.scatter(routes_df.head(40), x=routes_df.columns[0], y=routes_df.columns[1],
                               title="🗺️ Route Distance vs Activity Density", template="plotly_white")
@@ -173,7 +175,7 @@ with tab4:
         delay_risk = [4.2, 3.1, 7.8, 2.5, 1.9]
         fig8 = px.bar(x=carriers, y=delay_risk, title="⚠️ Average Departure Delay Risk by Carrier (Mins)",
                       labels={'x': 'Carrier', 'y': 'Avg Delay (Minutes)'}, template="plotly_white", color=delay_risk, color_continuous_scale="Reds")
-        fig8.update_layout(margin=dict(l=20, r=20, t=40, b=20))
+        fig8.update_layout(margin=dict(l=20, r=20, t=40, b=20), coloraxis_showscale=False)
         st.plotly_chart(fig8, use_container_width=True)
 
     st.markdown("### Airline Traffic & Risk Log")
