@@ -1,0 +1,1991 @@
+FLIGHT_DATE,DEPARTURE_HOUR_UTC,AIRPORT_ICAO,FLIGHT_DIRECTION,FLIGHT_COUNT,AVG_DURATION_MIN,DEPARTURE_HOUR_LOCAL,AIRPORT_NAME,CITY,COUNTRY,TIMEZONE
+2026-10-25,9,LFPG,arrival,32,107.3125,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,10,LFPG,departure,46,245.5,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,8,LFPG,arrival,40,200.6,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,11,OMDB,departure,24,324.25,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,11,EGLL,departure,42,342.0,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,22,KJFK,arrival,28,163.535714,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,3,KJFK,departure,17,249.941176,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,14,KJFK,departure,34,178.323529,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,15,LFPG,departure,29,127.551724,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,12,LFPG,departure,55,221.872727,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,23,RJTT,departure,45,129.111111,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,13,LFPG,arrival,25,100.52,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,17,OMDB,arrival,17,310.117647,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,21,OMDB,arrival,21,233.714286,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,20,EGLL,departure,31,242.032258,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,16,LFPG,arrival,28,164.857143,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,21,YSSY,departure,23,167.695652,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,0,OMDB,arrival,14,411.142857,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,1,OMDB,departure,6,213.333333,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,3,RJTT,arrival,39,106.051282,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,13,KJFK,arrival,29,213.482759,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,15,LFPG,departure,32,170.9375,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,10,KJFK,arrival,38,185.842105,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,0,RJTT,departure,43,201.186047,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,7,EGLL,departure,27,187.333333,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,18,EGLL,departure,31,75.419355,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,8,OMDB,departure,10,227.6,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,5,EGLL,arrival,55,206.727273,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,1,RJTT,arrival,49,108.44898,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,16,EGLL,arrival,30,264.2,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,17,LFPG,departure,26,194.576923,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,6,LFPG,departure,33,118.121212,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,16,KJFK,arrival,35,233.142857,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,9,EGLL,departure,40,316.225,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,15,LFPG,departure,21,211.190476,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,16,EGLL,departure,42,300.452381,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,8,EGLL,arrival,20,283.1,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,0,YSSY,departure,33,298.151515,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,14,LFPG,arrival,37,200.297297,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,21,YSSY,departure,17,67.529412,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,15,KJFK,arrival,40,225.85,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,20,LFPG,arrival,8,514.0,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,6,EGLL,arrival,42,263.357143,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,7,YSSY,departure,29,73.275862,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,0,RJTT,arrival,53,150.377358,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,16,KJFK,arrival,30,175.9,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,17,EGLL,departure,42,253.857143,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,10,YSSY,departure,14,239.571429,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,22,KJFK,arrival,20,295.55,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,22,OMDB,arrival,12,242.25,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,3,RJTT,arrival,37,96.243243,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,0,RJTT,arrival,51,132.843137,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,11,EGLL,departure,44,302.136364,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,23,KJFK,departure,36,289.333333,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,2,OMDB,departure,9,177.111111,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,9,RJTT,arrival,33,97.545455,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,11,LFPG,departure,49,231.265306,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,15,LFPG,arrival,41,199.0,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,2,LFPG,departure,30,96.233333,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,9,KJFK,arrival,28,382.785714,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,17,LFPG,arrival,40,147.55,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,15,EGLL,departure,44,286.090909,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,10,EGLL,departure,41,286.853659,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,14,LFPG,arrival,32,127.4375,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,18,LFPG,departure,37,149.27027,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,16,EGLL,arrival,28,135.642857,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,3,OMDB,departure,17,279.117647,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,4,OMDB,departure,29,318.448276,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,15,EGLL,arrival,41,223.658537,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,23,YSSY,arrival,30,152.166667,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,0,KJFK,arrival,24,172.958333,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,15,KJFK,arrival,1,540.0,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,13,KJFK,arrival,27,227.407407,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,8,RJTT,departure,36,177.666667,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,12,EGLL,arrival,25,152.56,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,21,YSSY,departure,29,116.758621,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,6,YSSY,departure,19,93.947368,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,1,RJTT,departure,50,184.98,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,11,RJTT,departure,38,119.736842,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,7,OMDB,departure,23,255.521739,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,10,EGLL,departure,43,311.976744,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,12,RJTT,departure,22,215.227273,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,19,LFPG,departure,48,122.125,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,15,EGLL,arrival,42,254.02381,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,7,LFPG,departure,35,140.371429,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,20,YSSY,departure,13,123.769231,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,20,EGLL,departure,37,368.405405,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,0,RJTT,arrival,45,131.355556,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,14,KJFK,departure,26,180.538462,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,21,YSSY,arrival,35,158.8,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,16,KJFK,departure,27,261.148148,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,5,RJTT,arrival,34,99.5,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,17,EGLL,arrival,28,114.25,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,6,RJTT,arrival,36,107.277778,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,18,LFPG,departure,35,139.114286,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,8,OMDB,arrival,16,249.4375,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,8,LFPG,departure,55,256.636364,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,8,LFPG,departure,41,210.487805,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,3,RJTT,departure,50,121.32,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,9,RJTT,departure,42,118.97619,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,12,KJFK,departure,36,188.972222,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,13,OMDB,arrival,37,260.540541,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,18,RJTT,arrival,10,462.0,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,19,EGLL,departure,41,205.341463,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,0,RJTT,arrival,45,127.577778,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,15,RJTT,departure,10,537.4,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,13,OMDB,arrival,38,270.394737,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,9,YSSY,departure,10,338.4,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,18,OMDB,departure,7,224.142857,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,9,OMDB,departure,16,167.9375,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,2,EGLL,arrival,26,514.923077,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,5,LFPG,departure,33,127.333333,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,10,LFPG,departure,44,252.022727,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,22,RJTT,arrival,35,52.257143,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,12,OMDB,departure,9,149.888889,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,19,YSSY,arrival,18,119.5,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,17,KJFK,departure,12,136.583333,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,10,LFPG,departure,42,256.02381,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,10,LFPG,departure,37,260.783784,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,20,KJFK,departure,41,285.121951,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,11,OMDB,arrival,26,324.769231,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,23,YSSY,arrival,27,120.037037,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,5,OMDB,arrival,15,201.466667,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,15,LFPG,departure,28,169.357143,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,7,LFPG,arrival,27,195.555556,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,21,LFPG,arrival,15,451.466667,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,14,OMDB,arrival,28,338.571429,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,6,OMDB,arrival,18,301.611111,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,11,LFPG,departure,39,281.282051,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,19,EGLL,departure,30,86.366667,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,16,EGLL,arrival,32,204.21875,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,11,EGLL,arrival,25,212.28,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,4,OMDB,departure,28,393.107143,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,18,EGLL,departure,39,215.25641,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,11,LFPG,departure,45,245.622222,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,21,LFPG,arrival,31,203.83871,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,8,OMDB,departure,13,162.538462,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,13,EGLL,departure,37,236.0,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,16,LFPG,arrival,46,155.673913,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,9,RJTT,departure,41,165.658537,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,6,OMDB,departure,35,390.685714,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,9,LFPG,departure,51,272.803922,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,6,RJTT,arrival,47,125.744681,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,10,YSSY,arrival,15,263.333333,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,20,LFPG,departure,26,191.0,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,4,OMDB,arrival,23,268.434783,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,18,KJFK,departure,25,172.12,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,11,RJTT,departure,42,102.857143,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,15,EGLL,departure,48,281.916667,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,10,RJTT,arrival,42,95.309524,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,17,KJFK,arrival,30,205.533333,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,14,LFPG,arrival,36,196.333333,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,19,LFPG,arrival,19,138.578947,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,11,RJTT,departure,41,124.121951,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,1,KJFK,arrival,16,268.4375,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,18,LFPG,arrival,32,137.75,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,6,OMDB,arrival,18,374.222222,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,15,EGLL,departure,39,282.435897,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,9,OMDB,departure,18,194.5,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,16,RJTT,departure,7,352.285714,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,2,RJTT,arrival,38,131.210526,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,9,YSSY,arrival,19,100.052632,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,7,RJTT,departure,43,127.162791,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,5,RJTT,departure,33,78.69697,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,18,LFPG,departure,39,126.692308,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,5,LFPG,arrival,46,149.282609,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,17,RJTT,arrival,7,780.571429,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,15,KJFK,departure,28,239.214286,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,11,LFPG,arrival,28,174.392857,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,21,KJFK,departure,31,205.677419,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,4,RJTT,arrival,34,83.764706,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,2,YSSY,departure,23,268.26087,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,11,LFPG,arrival,38,117.868421,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,2,KJFK,departure,29,371.896552,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,15,KJFK,departure,28,210.571429,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,10,RJTT,departure,37,65.918919,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,11,OMDB,arrival,21,225.0,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,21,RJTT,departure,24,89.291667,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,3,KJFK,departure,22,349.227273,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,8,EGLL,arrival,31,172.258065,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,12,RJTT,arrival,38,145.447368,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,20,YSSY,arrival,25,128.96,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,18,KJFK,arrival,35,233.342857,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,21,LFPG,departure,15,319.333333,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,14,KJFK,arrival,2,712.5,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,19,EGLL,arrival,32,100.09375,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,13,KJFK,departure,44,206.931818,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,0,EGLL,arrival,26,485.038462,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,5,OMDB,departure,32,400.46875,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,1,LFPG,arrival,18,492.0,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,14,EGLL,arrival,25,156.4,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,11,KJFK,arrival,50,292.86,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,11,OMDB,departure,22,266.818182,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,11,KJFK,arrival,43,253.27907,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,5,RJTT,arrival,35,111.771429,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,22,RJTT,arrival,47,73.851064,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,8,OMDB,departure,18,209.0,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,7,EGLL,departure,33,175.424242,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,1,KJFK,departure,31,251.064516,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,19,LFPG,departure,53,133.226415,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,15,KJFK,arrival,33,183.242424,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,5,OMDB,departure,33,363.242424,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,16,KJFK,arrival,26,203.461538,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,6,YSSY,arrival,16,236.6875,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,10,OMDB,arrival,9,275.666667,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,19,LFPG,arrival,19,131.736842,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,10,LFPG,arrival,45,114.266667,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,2,OMDB,arrival,12,264.5,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,8,YSSY,arrival,16,163.6875,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,22,YSSY,departure,36,128.583333,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,17,LFPG,arrival,40,167.55,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,3,RJTT,arrival,41,93.390244,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,22,RJTT,arrival,51,84.745098,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,12,RJTT,departure,18,158.055556,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,10,RJTT,departure,39,95.0,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,10,EGLL,arrival,39,166.666667,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,14,EGLL,arrival,20,147.85,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,12,RJTT,departure,11,288.454545,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,5,LFPG,arrival,39,154.717949,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,22,RJTT,arrival,45,69.355556,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,22,RJTT,departure,50,79.0,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,6,LFPG,departure,19,157.631579,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,6,EGLL,arrival,35,241.714286,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,15,RJTT,departure,7,518.428571,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,23,KJFK,departure,37,266.945946,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,18,KJFK,departure,23,154.521739,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,20,EGLL,departure,39,270.153846,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,9,EGLL,arrival,33,159.30303,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,21,LFPG,departure,15,437.6,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,9,EGLL,arrival,29,128.482759,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,18,YSSY,arrival,9,383.555556,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,20,OMDB,arrival,24,331.666667,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,11,KJFK,arrival,46,281.065217,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,4,KJFK,departure,8,387.625,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,6,LFPG,departure,25,89.44,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,13,RJTT,arrival,6,198.166667,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,20,LFPG,departure,40,70.925,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,6,RJTT,arrival,54,110.833333,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,3,YSSY,departure,26,157.576923,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,2,RJTT,departure,46,228.565217,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,21,LFPG,departure,20,400.8,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,14,OMDB,arrival,48,290.958333,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,12,LFPG,arrival,20,219.65,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,3,YSSY,arrival,22,177.590909,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,12,EGLL,arrival,25,211.08,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,23,EGLL,arrival,32,468.6875,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,13,LFPG,arrival,3,885.666667,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,23,EGLL,departure,5,470.8,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,6,OMDB,departure,39,328.25641,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,4,RJTT,departure,35,133.6,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,20,OMDB,departure,5,193.2,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,16,LFPG,departure,29,91.310345,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,20,EGLL,arrival,27,194.259259,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,17,LFPG,arrival,39,188.076923,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,19,OMDB,arrival,21,417.0,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,4,RJTT,arrival,35,98.8,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,22,OMDB,departure,12,436.416667,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,22,RJTT,arrival,46,81.108696,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,19,OMDB,arrival,22,383.272727,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,13,OMDB,arrival,29,299.103448,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,12,RJTT,arrival,32,98.4375,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,8,LFPG,arrival,29,157.344828,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,10,RJTT,departure,45,91.266667,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,8,LFPG,departure,56,216.089286,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,15,EGLL,arrival,31,254.774194,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,9,RJTT,arrival,36,158.555556,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,23,OMDB,arrival,17,203.705882,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,3,LFPG,arrival,18,389.833333,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,17,EGLL,arrival,26,163.115385,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,0,YSSY,arrival,33,115.151515,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,2,RJTT,arrival,40,113.8,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,12,EGLL,departure,40,272.0,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,18,RJTT,arrival,4,540.0,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,5,OMDB,departure,38,368.552632,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,3,RJTT,departure,39,122.102564,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,8,EGLL,departure,39,227.410256,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,0,RJTT,departure,43,173.139535,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,16,OMDB,arrival,13,192.923077,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,17,OMDB,departure,6,191.0,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,0,RJTT,arrival,38,120.394737,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,3,YSSY,departure,17,264.058824,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,11,KJFK,departure,36,180.833333,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,11,EGLL,departure,40,287.475,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,2,RJTT,departure,43,185.813953,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,19,KJFK,arrival,22,141.636364,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,14,RJTT,arrival,6,277.5,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,13,OMDB,arrival,38,313.947368,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,23,RJTT,arrival,35,158.885714,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,14,KJFK,departure,30,173.566667,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,7,RJTT,arrival,35,99.4,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,22,KJFK,arrival,33,173.848485,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,10,RJTT,arrival,41,122.926829,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,4,RJTT,arrival,31,86.0,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,1,YSSY,departure,35,219.171429,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,21,EGLL,departure,27,393.925926,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,17,EGLL,departure,42,234.452381,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,22,YSSY,departure,16,96.0,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,18,EGLL,arrival,24,177.75,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,1,RJTT,arrival,47,117.468085,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,19,KJFK,departure,37,142.216216,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,5,EGLL,arrival,48,232.833333,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,23,YSSY,departure,40,157.1,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,23,RJTT,arrival,42,151.714286,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,4,EGLL,arrival,22,475.045455,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,8,KJFK,arrival,15,445.933333,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,6,OMDB,departure,28,403.821429,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,1,RJTT,arrival,48,102.916667,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,3,YSSY,arrival,27,153.074074,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,2,RJTT,departure,51,243.117647,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,12,LFPG,departure,36,277.444444,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,19,LFPG,departure,41,187.97561,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,2,LFPG,arrival,18,396.388889,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,6,EGLL,arrival,37,240.081081,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,18,EGLL,departure,32,252.53125,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,2,YSSY,departure,19,214.105263,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,19,OMDB,arrival,20,353.85,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,13,YSSY,arrival,8,453.25,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,16,EGLL,departure,44,307.340909,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,18,LFPG,arrival,35,126.342857,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,3,YSSY,arrival,25,190.4,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,12,OMDB,arrival,16,246.1875,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,10,EGLL,arrival,33,157.0,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,22,RJTT,departure,46,78.456522,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,17,KJFK,arrival,30,210.6,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,15,LFPG,departure,40,184.15,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,11,LFPG,arrival,34,158.294118,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,23,YSSY,arrival,22,99.954545,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,10,RJTT,arrival,44,131.022727,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,20,OMDB,departure,15,292.8,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,12,EGLL,arrival,28,228.892857,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,13,EGLL,departure,44,234.25,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,5,OMDB,arrival,13,121.846154,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,7,KJFK,departure,4,186.5,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,4,LFPG,arrival,52,166.288462,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,2,RJTT,departure,43,196.046512,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,2,KJFK,departure,29,268.103448,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,11,EGLL,arrival,31,209.870968,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,5,RJTT,arrival,38,108.578947,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,15,EGLL,arrival,49,220.020408,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,19,OMDB,arrival,22,383.363636,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,1,RJTT,arrival,41,105.341463,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,4,OMDB,departure,29,373.344828,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,16,RJTT,arrival,7,158.428571,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,15,RJTT,arrival,7,776.0,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,17,LFPG,arrival,41,83.756098,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,18,LFPG,arrival,25,137.28,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,17,EGLL,arrival,35,166.685714,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,9,YSSY,departure,5,564.6,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,8,LFPG,departure,40,137.125,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,11,RJTT,arrival,47,122.106383,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,21,OMDB,arrival,19,232.578947,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,5,EGLL,arrival,19,395.631579,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,23,OMDB,departure,25,482.4,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,5,KJFK,arrival,18,341.0,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,4,KJFK,arrival,14,503.142857,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,12,KJFK,departure,34,173.5,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,20,OMDB,arrival,19,354.631579,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,9,OMDB,arrival,18,192.555556,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,13,LFPG,departure,39,165.923077,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,7,OMDB,departure,24,219.5,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,5,LFPG,departure,31,92.258065,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,1,EGLL,arrival,20,499.5,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,21,YSSY,arrival,23,107.652174,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,13,KJFK,arrival,30,245.6,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,22,KJFK,departure,35,225.971429,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,4,YSSY,arrival,18,71.166667,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,7,YSSY,arrival,17,197.823529,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,2,KJFK,arrival,9,342.777778,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,19,KJFK,departure,35,135.342857,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,12,OMDB,departure,21,161.904762,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,8,YSSY,arrival,20,113.2,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,11,RJTT,departure,34,111.411765,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,4,KJFK,departure,8,516.0,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,8,OMDB,arrival,12,274.083333,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,8,YSSY,departure,38,107.263158,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,8,RJTT,departure,45,109.355556,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,20,EGLL,departure,40,355.225,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,0,KJFK,departure,31,291.451613,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,19,LFPG,departure,51,141.764706,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,21,RJTT,departure,20,111.35,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,1,KJFK,departure,42,295.0,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,9,RJTT,arrival,42,152.380952,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,13,EGLL,arrival,33,118.727273,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,10,RJTT,arrival,44,128.863636,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,12,EGLL,departure,37,283.540541,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,3,LFPG,arrival,18,353.166667,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,3,EGLL,arrival,29,471.689655,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,1,OMDB,arrival,14,286.214286,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,4,OMDB,arrival,20,210.35,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,12,RJTT,arrival,34,167.147059,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,11,OMDB,departure,26,340.615385,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,4,YSSY,departure,27,171.333333,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,5,YSSY,departure,21,170.952381,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,20,KJFK,arrival,34,170.882353,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,23,OMDB,arrival,21,217.047619,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,11,EGLL,arrival,29,168.068966,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,8,EGLL,departure,38,218.263158,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,8,LFPG,arrival,25,124.88,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,0,RJTT,arrival,48,163.229167,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,0,RJTT,departure,49,220.44898,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,11,KJFK,arrival,43,271.325581,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,2,EGLL,arrival,29,445.724138,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,20,KJFK,departure,27,199.111111,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,4,RJTT,arrival,36,96.277778,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,6,LFPG,departure,32,75.21875,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,18,LFPG,departure,30,132.466667,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,7,RJTT,departure,45,154.288889,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,8,LFPG,departure,63,234.507937,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,3,LFPG,arrival,15,456.466667,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,12,OMDB,departure,4,321.5,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,15,YSSY,arrival,6,381.833333,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,9,RJTT,departure,44,164.272727,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,21,KJFK,arrival,31,206.903226,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,6,EGLL,arrival,40,259.725,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,21,LFPG,arrival,35,306.514286,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,10,KJFK,arrival,43,243.348837,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,11,OMDB,arrival,23,360.608696,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,7,EGLL,arrival,15,260.2,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,11,KJFK,departure,43,208.511628,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,16,EGLL,departure,31,108.354839,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,2,RJTT,departure,47,200.638298,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,0,EGLL,arrival,21,530.571429,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,6,OMDB,departure,39,403.487179,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,21,KJFK,departure,38,279.0,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,4,RJTT,departure,35,123.828571,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,23,RJTT,departure,40,117.65,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,20,LFPG,arrival,10,295.5,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,6,KJFK,arrival,13,378.538462,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,12,LFPG,departure,44,288.227273,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,1,KJFK,departure,38,259.552632,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,9,EGLL,departure,42,316.5,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,17,RJTT,departure,8,297.0,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,1,OMDB,departure,15,347.133333,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,20,EGLL,departure,41,259.146341,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,20,YSSY,departure,20,138.6,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,20,LFPG,arrival,31,177.935484,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,16,EGLL,departure,45,255.222222,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,16,KJFK,departure,23,234.304348,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,16,LFPG,departure,40,148.0,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,16,LFPG,arrival,29,134.896552,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,10,LFPG,arrival,53,122.358491,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,10,KJFK,arrival,42,274.595238,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,8,EGLL,departure,41,239.829268,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,8,EGLL,arrival,27,167.37037,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,5,KJFK,departure,11,640.0,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,5,LFPG,arrival,39,140.871795,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,20,LFPG,departure,56,140.25,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,20,KJFK,arrival,34,188.823529,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,5,EGLL,arrival,49,204.285714,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,17,KJFK,departure,16,420.375,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,13,YSSY,arrival,11,500.636364,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,1,YSSY,arrival,18,191.111111,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,10,EGLL,arrival,27,199.037037,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,8,OMDB,arrival,13,265.923077,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,20,KJFK,arrival,30,182.833333,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,10,RJTT,arrival,42,144.119048,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,2,LFPG,departure,31,87.83871,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,0,KJFK,arrival,19,231.473684,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,10,OMDB,departure,24,346.291667,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,4,LFPG,arrival,51,124.490196,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,4,EGLL,arrival,21,446.904762,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,1,KJFK,departure,37,268.0,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,6,LFPG,arrival,24,142.666667,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,21,YSSY,departure,23,136.26087,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,3,LFPG,arrival,14,398.285714,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,16,KJFK,arrival,42,206.785714,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,22,OMDB,departure,25,371.96,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,16,KJFK,arrival,36,190.583333,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,18,EGLL,departure,44,251.159091,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,2,YSSY,arrival,29,111.37931,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,15,LFPG,arrival,34,141.882353,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,14,EGLL,departure,43,240.604651,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,8,RJTT,arrival,46,133.23913,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,22,RJTT,departure,44,80.204545,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,1,YSSY,arrival,24,155.291667,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,6,KJFK,departure,6,676.0,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,0,RJTT,departure,47,105.085106,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,14,KJFK,arrival,31,342.806452,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,22,KJFK,departure,40,238.55,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,3,OMDB,departure,20,280.05,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,3,RJTT,arrival,37,89.918919,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,13,KJFK,arrival,29,216.413793,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,20,KJFK,arrival,33,191.0,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,10,RJTT,departure,34,108.705882,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,6,YSSY,arrival,35,183.428571,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,22,KJFK,arrival,33,206.0,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,22,KJFK,arrival,34,194.441176,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,11,YSSY,departure,20,326.7,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,13,OMDB,departure,14,206.285714,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,8,LFPG,departure,64,201.15625,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,7,LFPG,departure,28,101.214286,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,18,KJFK,arrival,37,255.297297,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,6,RJTT,departure,31,95.903226,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,0,OMDB,departure,28,318.714286,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,17,KJFK,arrival,26,208.923077,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,21,RJTT,departure,18,84.777778,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,10,EGLL,departure,41,309.609756,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,12,EGLL,departure,41,305.390244,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,17,EGLL,arrival,31,175.645161,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,18,OMDB,departure,14,224.5,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,12,EGLL,arrival,32,212.8125,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,19,LFPG,departure,52,146.365385,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,21,RJTT,departure,9,72.555556,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,13,KJFK,departure,41,198.512195,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,17,RJTT,arrival,4,728.5,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,12,RJTT,arrival,35,132.171429,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,13,EGLL,arrival,31,157.225806,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,15,RJTT,arrival,9,573.888889,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,4,EGLL,arrival,24,428.125,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,10,EGLL,departure,44,326.045455,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,13,RJTT,arrival,8,293.125,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,11,LFPG,departure,41,237.0,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,18,KJFK,arrival,35,231.657143,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,13,LFPG,departure,36,145.777778,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,16,RJTT,departure,7,267.857143,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,10,KJFK,departure,20,171.65,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,5,YSSY,departure,22,160.590909,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,22,OMDB,departure,20,338.45,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,17,KJFK,arrival,30,212.566667,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,8,RJTT,departure,44,91.818182,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,20,YSSY,departure,27,68.407407,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,9,LFPG,arrival,30,85.766667,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,9,EGLL,departure,33,238.484848,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,7,KJFK,arrival,7,387.428571,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,8,LFPG,departure,32,160.625,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,6,EGLL,departure,17,92.0,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,6,LFPG,arrival,21,149.571429,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,5,KJFK,arrival,19,395.736842,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,11,LFPG,arrival,34,113.617647,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,3,KJFK,arrival,7,477.571429,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,22,LFPG,departure,11,294.818182,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,23,KJFK,departure,43,262.139535,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,12,LFPG,arrival,25,123.96,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,23,OMDB,departure,20,374.35,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,19,RJTT,arrival,8,671.125,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,3,KJFK,departure,17,285.176471,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,21,KJFK,arrival,32,197.625,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,16,OMDB,arrival,9,296.666667,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,5,YSSY,departure,20,168.05,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,11,LFPG,departure,44,265.840909,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,12,RJTT,arrival,36,156.138889,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,2,OMDB,departure,10,184.1,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,8,EGLL,arrival,25,188.2,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,5,RJTT,departure,34,89.058824,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,14,KJFK,arrival,30,218.2,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,9,KJFK,arrival,12,554.583333,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,0,OMDB,departure,23,349.913043,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,0,YSSY,departure,29,319.931034,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,18,LFPG,departure,37,141.837838,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,9,YSSY,departure,21,190.666667,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,13,OMDB,arrival,33,290.787879,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,11,RJTT,departure,42,128.809524,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,13,LFPG,arrival,33,130.424242,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,14,OMDB,arrival,30,264.866667,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,13,RJTT,departure,9,538.666667,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,14,OMDB,departure,12,278.5,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,13,KJFK,arrival,28,232.357143,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,13,RJTT,departure,9,391.555556,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,23,RJTT,arrival,30,172.5,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,0,YSSY,departure,32,265.1875,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,7,LFPG,departure,41,135.560976,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,17,LFPG,arrival,31,138.516129,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,7,EGLL,arrival,32,294.125,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,17,LFPG,departure,25,147.36,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,7,LFPG,arrival,26,165.423077,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,8,OMDB,arrival,14,269.928571,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,2,KJFK,departure,31,261.387097,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,9,EGLL,departure,34,222.882353,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,9,KJFK,arrival,13,332.692308,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,22,KJFK,arrival,34,196.088235,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,14,KJFK,departure,31,177.741935,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,1,YSSY,departure,34,244.5,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,19,RJTT,arrival,8,509.25,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,3,KJFK,arrival,8,354.25,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,22,LFPG,arrival,18,401.666667,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,6,RJTT,departure,34,84.941176,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,15,KJFK,departure,32,233.6875,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,6,KJFK,arrival,13,350.153846,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,11,EGLL,arrival,32,118.0625,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,7,LFPG,departure,32,157.4375,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,9,YSSY,departure,12,218.083333,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,22,LFPG,arrival,20,448.8,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,14,KJFK,departure,27,227.62963,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,4,KJFK,arrival,14,447.285714,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,6,EGLL,departure,37,93.783784,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,16,LFPG,departure,27,126.407407,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,3,EGLL,arrival,23,507.304348,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,4,LFPG,departure,12,87.75,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,12,OMDB,departure,19,188.473684,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,8,LFPG,arrival,36,168.277778,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,16,EGLL,departure,44,250.068182,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,17,KJFK,arrival,5,472.4,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,2,YSSY,departure,34,186.470588,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,12,KJFK,arrival,26,367.846154,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,20,OMDB,arrival,22,357.590909,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,8,YSSY,departure,32,109.6875,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,22,KJFK,departure,36,261.722222,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,1,YSSY,arrival,21,151.0,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,0,KJFK,arrival,19,275.368421,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,5,RJTT,departure,33,91.151515,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,10,EGLL,departure,37,258.540541,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,7,RJTT,departure,41,141.463415,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,16,RJTT,arrival,14,404.571429,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,6,EGLL,departure,37,107.810811,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,6,YSSY,departure,12,292.416667,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,9,RJTT,departure,41,153.609756,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,11,KJFK,departure,36,211.388889,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,10,KJFK,departure,25,155.84,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,4,LFPG,arrival,56,161.642857,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,22,YSSY,departure,42,120.785714,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,23,KJFK,arrival,25,264.2,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,19,YSSY,departure,19,147.631579,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,10,YSSY,departure,10,199.1,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,16,RJTT,arrival,6,200.166667,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,10,KJFK,departure,19,140.0,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,6,YSSY,arrival,40,194.7,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,8,RJTT,departure,41,143.878049,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,11,OMDB,departure,30,262.833333,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,21,KJFK,arrival,34,205.117647,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,11,KJFK,arrival,37,261.0,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,5,KJFK,departure,11,672.363636,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,21,OMDB,arrival,12,269.666667,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,14,LFPG,arrival,29,160.827586,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,5,YSSY,arrival,31,140.709677,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,6,RJTT,arrival,41,94.731707,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,19,RJTT,arrival,12,578.916667,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,15,EGLL,departure,36,289.75,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,21,EGLL,arrival,9,537.111111,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,22,OMDB,arrival,16,224.0625,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,19,OMDB,departure,17,215.882353,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,16,KJFK,arrival,28,149.428571,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,15,EGLL,departure,48,280.416667,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,5,EGLL,departure,19,89.736842,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,17,RJTT,departure,8,347.25,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,16,OMDB,departure,6,149.5,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,9,OMDB,departure,22,226.636364,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,4,YSSY,departure,23,123.565217,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,13,EGLL,departure,39,280.487179,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,19,OMDB,departure,10,208.1,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,23,KJFK,departure,43,258.418605,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,5,OMDB,arrival,18,230.166667,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,14,EGLL,departure,37,229.135135,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,7,LFPG,arrival,30,142.233333,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,21,LFPG,arrival,25,230.24,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,14,RJTT,departure,8,596.875,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,16,KJFK,arrival,34,187.735294,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,6,RJTT,departure,35,141.657143,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,1,YSSY,departure,24,269.708333,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,5,KJFK,departure,10,651.3,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,7,LFPG,departure,48,206.5625,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,8,RJTT,arrival,42,162.095238,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,6,YSSY,departure,25,90.88,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,14,EGLL,arrival,28,136.642857,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,0,YSSY,arrival,22,100.454545,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,16,OMDB,arrival,23,392.608696,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,14,EGLL,departure,39,223.076923,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,17,RJTT,departure,9,320.111111,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,6,OMDB,arrival,21,231.761905,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,11,OMDB,arrival,21,357.285714,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,7,LFPG,departure,28,88.464286,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,1,OMDB,arrival,9,385.111111,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,23,YSSY,departure,36,213.722222,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,13,EGLL,arrival,30,159.7,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,19,LFPG,arrival,30,85.233333,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,8,RJTT,arrival,41,131.829268,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,6,LFPG,arrival,42,138.333333,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,20,LFPG,arrival,33,138.787879,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,15,OMDB,arrival,19,303.105263,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,16,OMDB,arrival,23,257.434783,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,15,EGLL,arrival,32,313.5,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,15,EGLL,arrival,45,311.911111,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,18,YSSY,arrival,7,497.0,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,11,RJTT,departure,37,126.702703,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,5,RJTT,arrival,37,133.216216,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,7,RJTT,arrival,39,113.307692,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,5,RJTT,arrival,32,130.625,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,11,RJTT,departure,39,98.538462,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,21,KJFK,arrival,35,158.914286,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,20,OMDB,arrival,26,319.538462,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,8,EGLL,departure,33,155.69697,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,6,RJTT,departure,31,122.709677,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,10,RJTT,departure,40,106.5,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,12,KJFK,departure,41,196.365854,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,14,EGLL,arrival,23,153.26087,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,12,LFPG,departure,46,314.521739,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,18,KJFK,departure,26,218.653846,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,4,RJTT,arrival,35,82.6,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,11,KJFK,departure,38,195.973684,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,23,YSSY,arrival,34,117.411765,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,0,KJFK,departure,36,306.888889,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,18,KJFK,arrival,43,221.651163,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,12,OMDB,arrival,15,206.2,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,20,EGLL,arrival,14,340.0,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,11,YSSY,departure,26,350.076923,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,14,LFPG,departure,49,210.673469,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,22,RJTT,arrival,52,92.326923,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,0,OMDB,departure,24,347.666667,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,14,RJTT,departure,9,583.333333,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,5,RJTT,departure,31,77.903226,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,16,EGLL,arrival,42,161.666667,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,13,EGLL,departure,41,305.536585,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,20,LFPG,departure,21,205.52381,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,22,OMDB,arrival,16,159.9375,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,3,YSSY,departure,20,167.8,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,3,YSSY,departure,13,70.538462,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,9,OMDB,arrival,16,226.875,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,20,YSSY,departure,24,150.916667,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,18,RJTT,arrival,12,583.166667,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,3,RJTT,departure,42,141.452381,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,16,EGLL,arrival,40,182.0,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,8,YSSY,departure,34,159.764706,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,15,RJTT,departure,7,497.0,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,6,LFPG,departure,15,99.0,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,7,RJTT,arrival,38,112.052632,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,18,EGLL,departure,42,228.857143,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,6,EGLL,departure,24,83.875,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,13,KJFK,departure,41,171.341463,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,11,EGLL,departure,43,299.023256,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,10,KJFK,arrival,39,231.358974,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,12,KJFK,departure,35,169.971429,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,15,LFPG,arrival,31,166.419355,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,1,RJTT,departure,51,170.137255,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,13,LFPG,arrival,28,183.928571,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,6,YSSY,arrival,36,300.527778,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,1,YSSY,arrival,22,144.181818,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,12,LFPG,departure,41,283.609756,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,7,YSSY,arrival,28,175.464286,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,16,YSSY,arrival,6,532.0,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,18,EGLL,arrival,26,180.038462,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,19,KJFK,arrival,38,183.868421,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,4,YSSY,arrival,24,98.5,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,15,KJFK,arrival,31,199.096774,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,11,RJTT,arrival,42,124.238095,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,4,YSSY,arrival,33,150.545455,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,9,EGLL,arrival,28,152.035714,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,10,YSSY,departure,21,317.952381,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,12,LFPG,arrival,26,117.153846,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,20,YSSY,arrival,29,67.827586,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,18,EGLL,arrival,29,159.413793,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,4,RJTT,departure,32,145.3125,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,5,RJTT,arrival,32,93.03125,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,1,KJFK,departure,34,237.970588,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,15,EGLL,arrival,30,126.766667,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,15,KJFK,arrival,44,208.409091,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,15,LFPG,departure,38,122.631579,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,15,KJFK,arrival,31,215.451613,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,10,EGLL,departure,49,242.734694,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,23,OMDB,arrival,20,262.7,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,2,KJFK,departure,35,286.628571,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,13,LFPG,departure,39,216.307692,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,23,RJTT,arrival,31,170.225806,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,2,OMDB,arrival,18,286.944444,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,22,RJTT,departure,46,84.326087,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,8,EGLL,departure,40,225.65,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,11,KJFK,departure,37,200.27027,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,22,KJFK,departure,39,256.307692,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,1,EGLL,arrival,14,532.142857,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,19,YSSY,departure,16,146.4375,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,2,YSSY,departure,21,219.428571,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,10,EGLL,departure,40,317.475,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,1,RJTT,departure,43,211.976744,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,14,KJFK,arrival,36,278.222222,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,3,YSSY,arrival,27,93.0,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,22,OMDB,arrival,17,203.117647,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,15,EGLL,departure,44,319.363636,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,18,EGLL,arrival,26,135.807692,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,0,LFPG,arrival,12,396.833333,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,1,KJFK,departure,32,262.9375,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,17,EGLL,departure,35,256.257143,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,1,YSSY,departure,36,204.25,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,16,EGLL,departure,38,269.868421,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,23,EGLL,arrival,28,469.821429,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,1,EGLL,arrival,22,511.227273,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,12,KJFK,arrival,25,359.92,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,6,YSSY,departure,23,110.086957,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,3,OMDB,arrival,10,306.1,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,13,LFPG,arrival,37,136.108108,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,6,YSSY,departure,27,163.740741,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,11,LFPG,arrival,25,109.8,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,18,KJFK,arrival,36,142.361111,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,12,LFPG,departure,46,204.608696,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,7,EGLL,arrival,16,220.4375,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,8,OMDB,departure,10,186.5,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,22,LFPG,arrival,12,394.666667,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,6,YSSY,arrival,40,214.95,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,3,YSSY,arrival,26,158.653846,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,17,EGLL,departure,44,205.068182,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,23,YSSY,departure,43,176.906977,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,6,YSSY,arrival,43,243.465116,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,20,YSSY,departure,24,87.833333,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,6,LFPG,arrival,45,121.511111,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,16,RJTT,departure,12,422.166667,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,21,OMDB,arrival,19,273.736842,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,5,LFPG,arrival,44,133.204545,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,2,OMDB,arrival,8,279.875,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,0,RJTT,arrival,51,154.745098,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,10,KJFK,arrival,34,170.558824,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,22,RJTT,departure,46,79.673913,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,7,RJTT,departure,44,154.931818,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,10,OMDB,departure,25,287.64,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,3,EGLL,arrival,22,502.863636,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,2,LFPG,departure,31,109.903226,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,11,YSSY,arrival,8,431.125,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,13,LFPG,departure,32,260.125,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,9,EGLL,departure,34,295.852941,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,12,KJFK,arrival,22,327.0,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,18,KJFK,departure,21,209.47619,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,5,EGLL,arrival,53,176.09434,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,16,EGLL,departure,38,304.0,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,13,LFPG,arrival,25,161.36,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,17,EGLL,departure,48,227.875,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,20,EGLL,arrival,24,128.916667,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,11,RJTT,arrival,41,111.609756,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,1,RJTT,arrival,48,107.520833,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,9,OMDB,departure,25,169.4,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,4,OMDB,departure,27,374.666667,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,2,RJTT,arrival,36,139.388889,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,2,LFPG,arrival,18,354.722222,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,21,EGLL,departure,31,388.419355,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,6,LFPG,departure,22,79.227273,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,2,RJTT,arrival,46,136.521739,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,15,OMDB,arrival,22,234.681818,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,16,LFPG,departure,22,104.272727,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,19,EGLL,departure,37,238.594595,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,17,KJFK,departure,25,283.88,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,19,EGLL,arrival,33,181.878788,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,23,RJTT,departure,40,107.8,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,1,KJFK,arrival,17,300.294118,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,23,RJTT,departure,46,123.673913,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,12,RJTT,departure,17,239.058824,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,16,OMDB,departure,4,180.0,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,17,KJFK,arrival,30,224.3,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,4,RJTT,arrival,34,117.0,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,13,LFPG,departure,40,231.325,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,0,OMDB,arrival,10,401.6,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,9,LFPG,departure,43,312.209302,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,2,YSSY,arrival,23,191.521739,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,4,YSSY,departure,37,149.540541,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,13,YSSY,arrival,9,470.333333,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,7,OMDB,arrival,13,174.923077,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,21,YSSY,arrival,27,197.481481,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,12,LFPG,arrival,24,108.416667,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,2,LFPG,arrival,17,370.117647,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,22,YSSY,departure,32,122.34375,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,13,KJFK,departure,37,186.621622,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,11,KJFK,arrival,42,297.095238,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,9,EGLL,arrival,28,160.25,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,7,EGLL,arrival,25,284.92,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,9,LFPG,departure,56,182.821429,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,0,KJFK,arrival,18,177.388889,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,14,OMDB,arrival,33,323.787879,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,22,KJFK,departure,36,242.222222,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,22,EGLL,arrival,10,426.5,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,0,RJTT,departure,39,148.179487,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,8,RJTT,departure,41,146.829268,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,14,RJTT,arrival,7,443.857143,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,6,RJTT,arrival,41,134.073171,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,19,KJFK,departure,35,214.085714,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,5,KJFK,arrival,16,347.625,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,9,YSSY,arrival,23,73.695652,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,12,OMDB,arrival,21,299.238095,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,17,EGLL,departure,33,227.0,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,1,OMDB,arrival,7,335.571429,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,22,KJFK,departure,5,47.8,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,13,OMDB,arrival,27,297.111111,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,21,YSSY,departure,19,119.315789,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,19,EGLL,departure,39,217.435897,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,7,RJTT,arrival,38,91.105263,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,8,RJTT,departure,44,112.590909,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,3,RJTT,departure,40,115.85,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,2,YSSY,arrival,28,160.678571,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,19,LFPG,arrival,31,90.935484,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,13,EGLL,arrival,26,140.538462,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,9,LFPG,arrival,27,213.222222,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,9,LFPG,arrival,26,137.807692,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,22,EGLL,arrival,19,431.315789,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,15,LFPG,departure,27,181.407407,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,10,LFPG,departure,36,301.083333,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,23,EGLL,arrival,26,447.076923,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,4,YSSY,departure,28,190.75,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,16,RJTT,arrival,9,533.0,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,14,KJFK,arrival,29,279.965517,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,0,OMDB,departure,25,376.8,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,19,EGLL,arrival,31,161.0,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,8,EGLL,departure,43,255.069767,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,9,RJTT,departure,44,181.045455,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,6,RJTT,arrival,44,112.204545,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,4,LFPG,arrival,56,146.607143,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,5,YSSY,departure,27,190.148148,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,14,OMDB,arrival,29,318.793103,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,13,KJFK,departure,37,210.756757,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,9,LFPG,arrival,27,101.333333,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,23,RJTT,arrival,30,156.666667,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,12,EGLL,departure,38,330.342105,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,10,YSSY,arrival,8,229.125,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,8,EGLL,departure,30,149.166667,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,15,KJFK,departure,27,254.814815,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,2,LFPG,arrival,18,306.166667,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,2,YSSY,arrival,27,101.296296,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,7,LFPG,arrival,32,153.75,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,23,OMDB,arrival,14,213.214286,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,19,LFPG,departure,32,113.90625,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,8,YSSY,arrival,17,77.764706,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,18,OMDB,departure,13,228.769231,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,0,RJTT,departure,46,172.0,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,19,KJFK,arrival,26,222.923077,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,10,LFPG,arrival,27,107.518519,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,5,EGLL,departure,18,84.111111,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,20,OMDB,arrival,5,147.4,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,7,YSSY,arrival,20,224.85,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,12,OMDB,departure,14,220.071429,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,6,EGLL,arrival,33,248.878788,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,0,YSSY,arrival,21,150.095238,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,13,EGLL,arrival,31,129.870968,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,1,EGLL,arrival,30,542.366667,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,6,OMDB,departure,36,398.555556,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,1,RJTT,arrival,47,109.12766,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,22,YSSY,arrival,22,160.590909,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,9,RJTT,arrival,36,155.027778,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,15,RJTT,departure,10,556.0,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,12,EGLL,departure,37,311.945946,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,23,OMDB,departure,26,465.730769,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,6,LFPG,departure,20,124.15,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,22,YSSY,departure,45,104.288889,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,22,RJTT,departure,21,58.571429,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,16,YSSY,arrival,8,409.5,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,10,EGLL,arrival,39,186.820513,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,14,EGLL,departure,38,269.394737,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,3,OMDB,departure,19,301.578947,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,14,KJFK,departure,27,145.444444,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,19,YSSY,arrival,30,124.133333,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,7,EGLL,departure,36,189.111111,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,9,RJTT,departure,42,162.857143,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,4,OMDB,arrival,21,253.238095,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,0,LFPG,arrival,19,380.052632,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,21,EGLL,arrival,8,578.75,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,23,OMDB,departure,25,392.44,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,14,KJFK,arrival,37,255.972973,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,0,KJFK,departure,46,282.695652,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,8,RJTT,arrival,47,132.085106,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,23,YSSY,departure,39,197.538462,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,7,RJTT,arrival,41,102.756098,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,14,EGLL,departure,45,254.822222,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,19,OMDB,departure,14,223.714286,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,14,OMDB,arrival,32,295.59375,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,16,OMDB,arrival,22,210.772727,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,7,OMDB,departure,23,299.043478,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,22,OMDB,arrival,20,236.2,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,12,EGLL,arrival,32,132.8125,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,23,KJFK,arrival,26,250.115385,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,21,RJTT,departure,24,90.791667,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,18,OMDB,arrival,16,294.375,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,1,OMDB,departure,8,258.75,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,14,KJFK,departure,29,224.689655,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,0,YSSY,departure,37,213.027027,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,5,OMDB,arrival,17,216.705882,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,9,LFPG,departure,42,275.428571,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,4,RJTT,departure,36,152.861111,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,21,KJFK,arrival,31,136.032258,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,7,EGLL,departure,31,206.451613,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,4,RJTT,arrival,34,82.411765,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,17,EGLL,arrival,34,170.088235,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,16,LFPG,departure,34,117.852941,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,8,LFPG,arrival,21,141.142857,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,3,KJFK,departure,20,259.4,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,8,YSSY,arrival,23,175.565217,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,17,YSSY,arrival,14,372.428571,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,20,YSSY,arrival,24,136.041667,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,8,YSSY,arrival,21,74.0,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,3,LFPG,arrival,17,390.176471,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,13,KJFK,departure,39,171.25641,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,1,LFPG,arrival,17,472.764706,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,9,RJTT,arrival,39,134.230769,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,15,OMDB,departure,13,196.153846,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,11,YSSY,arrival,6,435.166667,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,8,RJTT,departure,41,142.853659,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,20,RJTT,arrival,2,366.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,19,KJFK,departure,29,151.724138,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,16,EGLL,arrival,38,109.605263,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,4,KJFK,departure,7,316.0,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,6,OMDB,arrival,12,162.75,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,23,KJFK,arrival,23,311.173913,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,6,LFPG,arrival,34,227.735294,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,20,LFPG,departure,24,199.083333,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,0,KJFK,arrival,14,206.071429,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,10,YSSY,departure,18,218.5,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,9,RJTT,departure,38,94.052632,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,19,EGLL,arrival,26,142.538462,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,11,EGLL,departure,42,288.666667,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,11,OMDB,departure,8,420.125,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,7,RJTT,departure,40,138.1,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,6,KJFK,arrival,11,340.818182,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,0,KJFK,departure,33,292.424242,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,2,YSSY,arrival,27,196.037037,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,3,KJFK,departure,24,277.041667,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,7,KJFK,arrival,18,363.222222,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,0,OMDB,departure,27,435.407407,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,14,EGLL,arrival,23,121.173913,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,1,KJFK,arrival,18,322.666667,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,21,YSSY,arrival,25,116.64,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,9,LFPG,arrival,24,96.541667,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,9,YSSY,arrival,10,69.1,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,2,KJFK,arrival,11,394.818182,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,8,YSSY,departure,37,129.594595,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,21,EGLL,departure,29,466.827586,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,3,KJFK,departure,21,294.428571,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,17,LFPG,departure,32,181.46875,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,21,LFPG,departure,20,343.1,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,3,LFPG,arrival,14,367.857143,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,14,LFPG,departure,29,147.965517,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,4,KJFK,arrival,14,504.928571,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,21,LFPG,departure,24,286.0,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,5,OMDB,arrival,20,239.45,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,23,LFPG,departure,4,50.75,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,12,LFPG,arrival,28,114.178571,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,10,YSSY,departure,19,235.842105,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,8,LFPG,arrival,32,191.75,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,21,EGLL,departure,9,70.666667,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,7,LFPG,arrival,26,174.423077,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,4,OMDB,arrival,24,271.375,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,9,LFPG,departure,53,301.716981,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,2,OMDB,departure,13,178.461538,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,21,LFPG,arrival,11,464.363636,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,21,YSSY,departure,27,136.037037,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,11,KJFK,departure,33,194.878788,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,16,LFPG,arrival,39,158.333333,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,20,OMDB,arrival,26,331.384615,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,2,EGLL,arrival,24,474.375,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,20,LFPG,arrival,34,140.5,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,0,EGLL,arrival,18,507.5,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,5,EGLL,arrival,19,395.210526,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,10,RJTT,departure,39,95.128205,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,17,RJTT,arrival,4,801.0,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,17,OMDB,departure,16,183.3125,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,6,KJFK,arrival,13,322.0,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,20,LFPG,departure,37,132.918919,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,0,LFPG,arrival,15,417.2,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,10,OMDB,departure,22,268.181818,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,18,LFPG,departure,35,160.142857,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,2,KJFK,departure,26,332.346154,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,11,KJFK,arrival,43,218.348837,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,23,RJTT,departure,39,130.282051,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,0,OMDB,departure,15,292.666667,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,14,LFPG,departure,35,234.228571,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,2,RJTT,departure,45,220.0,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,23,YSSY,departure,37,209.594595,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,20,YSSY,arrival,31,138.83871,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,10,LFPG,arrival,39,103.794872,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,9,EGLL,arrival,29,142.689655,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,6,RJTT,departure,32,119.53125,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,12,KJFK,arrival,24,330.083333,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,7,LFPG,departure,38,220.894737,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,10,LFPG,arrival,23,186.26087,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,7,RJTT,departure,38,108.710526,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,16,RJTT,arrival,9,399.777778,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,22,KJFK,arrival,35,207.257143,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,20,KJFK,arrival,17,67.352941,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,1,LFPG,arrival,23,413.782609,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,7,YSSY,arrival,30,188.266667,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,3,RJTT,arrival,35,98.628571,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,14,LFPG,departure,47,239.106383,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,23,LFPG,arrival,14,473.857143,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,21,EGLL,arrival,11,418.363636,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,7,KJFK,departure,4,223.5,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,10,KJFK,departure,22,149.5,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,18,LFPG,arrival,21,95.571429,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,22,LFPG,arrival,15,66.8,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,7,OMDB,arrival,10,95.4,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,5,YSSY,departure,21,161.47619,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,6,LFPG,arrival,22,184.772727,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,23,EGLL,arrival,29,486.413793,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,18,EGLL,arrival,27,130.703704,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,21,EGLL,departure,31,534.935484,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,19,EGLL,arrival,21,100.333333,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,1,RJTT,departure,46,151.782609,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,9,YSSY,departure,13,144.384615,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,10,EGLL,arrival,31,176.032258,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,20,EGLL,departure,26,84.307692,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,21,LFPG,departure,17,253.294118,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,12,EGLL,departure,38,260.657895,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,8,RJTT,arrival,44,170.522727,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,19,KJFK,departure,34,136.970588,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,23,EGLL,arrival,26,459.0,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,23,OMDB,departure,3,737.666667,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,18,OMDB,arrival,16,323.5,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,5,RJTT,departure,33,97.242424,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,23,KJFK,arrival,32,232.96875,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,2,RJTT,arrival,37,97.756757,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,19,EGLL,departure,41,235.512195,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,11,LFPG,arrival,22,281.454545,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,5,RJTT,departure,33,104.030303,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,14,EGLL,departure,38,277.0,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,2,OMDB,arrival,9,244.111111,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,5,YSSY,departure,29,161.172414,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,17,LFPG,arrival,39,146.923077,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,19,YSSY,departure,20,171.95,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,9,EGLL,arrival,31,169.225806,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,22,EGLL,departure,12,340.0,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,18,KJFK,departure,15,70.266667,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,10,LFPG,departure,38,296.605263,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,4,KJFK,arrival,15,366.066667,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,21,OMDB,departure,4,282.0,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,3,EGLL,arrival,27,430.185185,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,21,LFPG,arrival,13,266.846154,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,11,EGLL,arrival,20,270.95,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,20,EGLL,arrival,14,334.857143,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,7,YSSY,departure,18,144.888889,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,7,OMDB,departure,27,334.666667,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,23,LFPG,departure,2,61.0,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,5,LFPG,arrival,40,116.8,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,4,EGLL,arrival,23,416.695652,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,0,KJFK,departure,19,351.526316,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,3,RJTT,arrival,35,118.342857,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,10,OMDB,arrival,6,252.333333,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,21,KJFK,departure,38,285.736842,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,12,EGLL,arrival,34,160.294118,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,22,OMDB,departure,22,372.045455,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,14,LFPG,departure,38,226.052632,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,7,OMDB,arrival,17,200.705882,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,23,KJFK,departure,37,297.351351,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,13,LFPG,arrival,38,151.5,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,18,EGLL,departure,45,286.111111,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,12,KJFK,departure,38,183.368421,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,14,OMDB,departure,13,177.923077,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,21,KJFK,arrival,13,68.461538,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,2,OMDB,arrival,10,196.0,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,9,EGLL,departure,35,229.914286,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,22,LFPG,arrival,19,477.578947,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,14,YSSY,arrival,9,466.777778,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,7,OMDB,arrival,10,259.1,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,4,YSSY,arrival,21,74.952381,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,2,KJFK,departure,31,300.83871,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,16,EGLL,arrival,43,182.046512,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,18,KJFK,arrival,33,204.060606,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,3,OMDB,arrival,15,276.466667,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,18,EGLL,arrival,26,101.153846,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,1,YSSY,departure,32,226.90625,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,10,YSSY,departure,17,399.294118,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,6,YSSY,arrival,24,453.208333,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,6,OMDB,arrival,17,347.823529,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,4,KJFK,arrival,15,345.333333,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,10,OMDB,departure,20,250.95,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,5,YSSY,arrival,26,200.5,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,1,KJFK,departure,36,232.083333,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,0,EGLL,arrival,22,483.045455,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,11,OMDB,departure,9,356.555556,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,15,OMDB,arrival,16,191.3125,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,0,OMDB,departure,26,332.115385,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,1,EGLL,arrival,20,514.55,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,5,KJFK,arrival,18,422.388889,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,10,RJTT,departure,42,113.761905,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,13,OMDB,departure,11,206.363636,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,22,EGLL,arrival,8,499.375,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,18,EGLL,arrival,24,122.833333,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,15,OMDB,arrival,26,326.653846,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,6,RJTT,departure,31,127.032258,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,5,RJTT,departure,31,80.451613,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,20,KJFK,arrival,14,274.5,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,3,YSSY,departure,17,140.882353,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,1,LFPG,departure,2,226.0,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,1,KJFK,arrival,16,229.375,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,21,LFPG,arrival,30,239.166667,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,2,YSSY,departure,24,304.375,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,17,EGLL,departure,26,89.269231,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,17,OMDB,arrival,18,261.722222,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,12,RJTT,arrival,36,101.861111,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,7,EGLL,arrival,21,267.380952,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,4,KJFK,arrival,19,402.789474,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,5,OMDB,departure,30,425.166667,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,14,EGLL,arrival,30,166.533333,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,9,YSSY,arrival,10,209.0,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,12,KJFK,arrival,32,318.15625,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,7,OMDB,departure,22,288.318182,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,14,EGLL,departure,47,251.893617,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,5,KJFK,arrival,15,344.4,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,12,RJTT,departure,11,302.818182,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,11,LFPG,arrival,30,234.2,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,0,LFPG,arrival,9,494.666667,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,11,YSSY,arrival,7,476.714286,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,7,LFPG,arrival,41,142.609756,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,2,YSSY,departure,28,187.714286,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,21,RJTT,arrival,5,487.2,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,8,YSSY,departure,27,104.185185,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,21,YSSY,arrival,19,108.684211,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,15,EGLL,departure,33,179.69697,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,10,OMDB,departure,25,266.44,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,20,OMDB,arrival,23,307.304348,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,15,OMDB,departure,8,107.125,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,1,RJTT,departure,48,140.416667,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,17,RJTT,departure,10,314.7,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,15,KJFK,departure,28,196.214286,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,17,OMDB,arrival,14,247.142857,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,17,EGLL,arrival,33,190.151515,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,16,OMDB,arrival,18,416.777778,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,20,RJTT,arrival,2,537.5,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,3,RJTT,departure,38,138.605263,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,15,KJFK,departure,30,294.733333,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,19,OMDB,arrival,26,330.846154,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,15,KJFK,arrival,36,228.722222,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,7,EGLL,departure,37,182.675676,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,7,EGLL,departure,28,119.607143,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,19,YSSY,departure,15,101.466667,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,13,KJFK,arrival,23,269.652174,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,23,RJTT,arrival,27,129.555556,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,17,KJFK,departure,17,282.470588,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,8,OMDB,departure,14,220.642857,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,21,KJFK,arrival,18,359.333333,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,23,YSSY,arrival,23,170.826087,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,21,KJFK,departure,30,226.466667,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,15,YSSY,arrival,8,364.5,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,7,YSSY,departure,27,97.777778,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,9,KJFK,arrival,27,433.259259,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,10,LFPG,departure,40,187.7,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,5,LFPG,arrival,55,124.654545,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,14,OMDB,arrival,21,372.285714,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,16,LFPG,arrival,30,101.8,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,10,LFPG,arrival,26,100.884615,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,10,EGLL,arrival,25,103.48,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,5,KJFK,departure,11,573.818182,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,7,YSSY,departure,29,150.551724,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,18,KJFK,arrival,33,213.363636,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,21,KJFK,departure,42,251.857143,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,8,EGLL,arrival,17,179.647059,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,5,OMDB,departure,34,413.5,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,18,OMDB,departure,16,258.5,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,6,OMDB,departure,35,381.028571,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,6,LFPG,arrival,25,230.04,7.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,23,YSSY,departure,39,193.564103,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,7,YSSY,arrival,26,155.115385,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,19,YSSY,departure,11,187.363636,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,12,KJFK,departure,44,191.863636,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,3,YSSY,departure,17,141.0,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,22,KJFK,departure,42,270.02381,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,10,OMDB,arrival,10,233.0,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,6,EGLL,departure,36,90.083333,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,7,YSSY,arrival,13,351.538462,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,2,KJFK,arrival,11,411.818182,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,1,RJTT,arrival,39,94.871795,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,20,KJFK,arrival,34,212.0,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,16,KJFK,departure,23,236.478261,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,0,LFPG,arrival,13,439.230769,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,4,EGLL,arrival,19,513.631579,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,12,RJTT,arrival,29,123.275862,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,17,KJFK,arrival,23,132.217391,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,16,OMDB,departure,8,167.5,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,20,YSSY,arrival,34,90.647059,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,0,LFPG,departure,3,278.0,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,3,EGLL,arrival,17,497.058824,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,4,YSSY,arrival,30,171.766667,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,17,LFPG,arrival,40,187.125,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,1,OMDB,arrival,15,272.733333,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,14,LFPG,arrival,30,110.466667,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,6,EGLL,departure,42,108.119048,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,18,OMDB,departure,11,138.727273,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,23,YSSY,arrival,25,107.0,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,13,EGLL,arrival,30,152.833333,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,3,OMDB,arrival,14,322.928571,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,0,YSSY,departure,28,274.071429,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,19,RJTT,arrival,6,625.333333,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,12,OMDB,arrival,15,319.2,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,15,RJTT,arrival,8,536.5,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,8,YSSY,arrival,18,74.777778,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,2,LFPG,arrival,20,343.85,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,12,EGLL,arrival,24,239.416667,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,21,KJFK,departure,34,265.323529,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,19,YSSY,arrival,11,121.272727,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,9,OMDB,arrival,10,288.1,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,23,EGLL,arrival,21,447.666667,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,23,KJFK,departure,38,259.421053,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,16,LFPG,arrival,33,217.545455,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,0,OMDB,arrival,11,412.090909,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,3,LFPG,departure,8,212.875,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,7,LFPG,arrival,24,126.833333,8.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,6,OMDB,arrival,16,340.9375,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,9,LFPG,arrival,29,127.482759,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,23,OMDB,arrival,15,193.133333,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,5,KJFK,departure,9,512.111111,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,20,EGLL,arrival,9,546.777778,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,10,KJFK,arrival,41,193.926829,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,7,YSSY,departure,24,116.625,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,22,YSSY,arrival,21,179.714286,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,2,EGLL,arrival,21,435.52381,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,4,LFPG,departure,10,83.0,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,5,RJTT,arrival,34,105.911765,14.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,21,OMDB,arrival,18,277.111111,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,19,OMDB,departure,10,215.8,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,3,RJTT,arrival,37,96.081081,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,21,KJFK,arrival,40,219.575,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,8,KJFK,arrival,17,450.352941,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,4,RJTT,departure,39,176.769231,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,22,LFPG,arrival,16,443.4375,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,3,LFPG,departure,6,96.666667,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,3,OMDB,departure,19,249.578947,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,7,YSSY,departure,24,102.791667,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,8,KJFK,arrival,13,482.923077,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,12,LFPG,arrival,22,130.545455,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,3,OMDB,departure,18,272.722222,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,13,OMDB,departure,14,175.714286,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,7,KJFK,arrival,14,399.428571,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,4,KJFK,arrival,15,257.4,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,19,OMDB,departure,13,206.230769,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,14,LFPG,departure,49,228.510204,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,1,LFPG,departure,7,95.857143,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,1,YSSY,departure,29,214.310345,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,19,EGLL,arrival,20,176.95,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,17,OMDB,departure,6,157.166667,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,8,KJFK,arrival,6,436.333333,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,1,OMDB,departure,12,162.916667,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,19,KJFK,arrival,30,199.4,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,22,LFPG,departure,14,456.071429,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,11,EGLL,arrival,27,225.185185,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,5,YSSY,arrival,22,239.272727,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,18,LFPG,departure,23,96.695652,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,11,YSSY,arrival,9,698.111111,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,1,LFPG,arrival,23,394.347826,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,4,OMDB,departure,33,391.121212,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,6,RJTT,arrival,43,113.976744,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,12,OMDB,arrival,3,757.333333,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,1,KJFK,arrival,11,283.818182,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,16,KJFK,departure,22,198.409091,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,0,YSSY,arrival,25,107.92,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,20,EGLL,arrival,12,441.166667,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,2,EGLL,arrival,32,479.0,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,11,RJTT,arrival,42,139.833333,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,19,YSSY,departure,16,154.9375,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,5,YSSY,arrival,26,154.807692,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,15,RJTT,departure,8,404.125,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,17,EGLL,arrival,25,167.6,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,5,OMDB,arrival,17,159.470588,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,17,YSSY,arrival,11,360.181818,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,22,RJTT,departure,45,84.977778,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,10,EGLL,arrival,32,152.375,10.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,6,KJFK,departure,6,510.333333,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,18,YSSY,arrival,4,189.25,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,20,KJFK,departure,34,261.117647,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,13,RJTT,departure,8,355.125,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,14,KJFK,arrival,29,268.241379,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,17,OMDB,departure,8,277.0,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,22,EGLL,arrival,17,415.117647,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,18,OMDB,departure,16,208.875,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,3,YSSY,arrival,30,137.633333,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,4,OMDB,arrival,18,304.833333,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,15,LFPG,arrival,24,176.666667,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,16,YSSY,arrival,6,371.166667,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,15,LFPG,arrival,35,126.8,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,3,OMDB,departure,19,237.947368,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,1,EGLL,arrival,20,562.65,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,18,OMDB,arrival,28,270.714286,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,7,EGLL,arrival,18,269.777778,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,15,OMDB,departure,16,193.6875,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,20,OMDB,arrival,22,351.818182,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,5,EGLL,departure,15,122.333333,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,8,EGLL,arrival,22,146.363636,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,9,KJFK,arrival,17,410.941176,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,3,EGLL,arrival,24,483.583333,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,19,YSSY,arrival,21,118.095238,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,19,LFPG,arrival,29,142.517241,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,6,EGLL,departure,37,92.945946,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,4,LFPG,arrival,57,155.964912,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,21,EGLL,arrival,14,288.5,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,5,LFPG,departure,31,124.580645,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,13,KJFK,departure,36,198.75,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,19,EGLL,arrival,30,172.466667,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,9,EGLL,departure,45,319.444444,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,3,OMDB,arrival,12,295.5,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,23,LFPG,arrival,15,464.333333,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,7,RJTT,arrival,39,106.692308,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,13,YSSY,arrival,8,432.625,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,15,KJFK,departure,31,213.0,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,10,YSSY,arrival,11,153.181818,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,9,LFPG,departure,54,200.962963,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,7,KJFK,arrival,6,334.333333,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,0,OMDB,arrival,10,318.8,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,20,OMDB,departure,10,176.4,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,13,LFPG,departure,41,299.780488,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,5,LFPG,departure,38,101.078947,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,13,RJTT,arrival,11,346.181818,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,23,RJTT,arrival,30,136.966667,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,0,LFPG,arrival,21,419.619048,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,2,OMDB,departure,9,287.111111,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,2,KJFK,departure,33,332.0,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,18,YSSY,arrival,7,691.0,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,20,KJFK,departure,17,83.294118,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,7,EGLL,arrival,19,222.631579,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,16,LFPG,arrival,39,180.435897,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,2,YSSY,departure,42,217.190476,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,9,OMDB,arrival,12,210.75,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,10,RJTT,arrival,44,150.772727,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,4,YSSY,departure,21,138.142857,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,21,YSSY,departure,24,143.833333,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,4,LFPG,arrival,13,486.692308,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,13,LFPG,departure,34,275.117647,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,14,LFPG,arrival,30,94.0,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,7,RJTT,arrival,42,100.5,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,12,LFPG,arrival,16,152.4375,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,5,OMDB,departure,25,400.84,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,21,LFPG,departure,8,59.875,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,17,OMDB,arrival,21,256.47619,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,20,KJFK,departure,37,218.297297,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,12,KJFK,departure,36,203.444444,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,18,OMDB,arrival,7,210.857143,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,8,LFPG,arrival,38,112.078947,9.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,14,KJFK,arrival,30,268.833333,9.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,20,KJFK,departure,35,238.114286,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,1,RJTT,departure,49,164.326531,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,13,OMDB,arrival,20,295.75,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,21,EGLL,departure,24,537.083333,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,19,EGLL,departure,44,209.772727,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,6,EGLL,arrival,32,307.5625,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,9,LFPG,departure,46,255.326087,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,11,LFPG,departure,48,271.395833,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,21,EGLL,arrival,4,59.5,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,11,EGLL,departure,40,394.65,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,14,LFPG,arrival,32,211.875,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,17,KJFK,arrival,31,221.967742,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,8,YSSY,departure,27,125.407407,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,7,YSSY,arrival,25,123.4,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,7,OMDB,arrival,14,124.428571,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,11,KJFK,departure,41,211.487805,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,21,EGLL,departure,25,432.4,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,13,OMDB,departure,15,269.066667,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,3,YSSY,departure,19,147.473684,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,15,OMDB,arrival,20,142.35,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,19,KJFK,arrival,30,274.6,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,3,RJTT,departure,43,148.302326,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,13,LFPG,arrival,28,118.107143,14.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,5,LFPG,departure,29,140.275862,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,5,KJFK,arrival,17,284.235294,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,8,RJTT,arrival,43,170.906977,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,12,LFPG,departure,34,345.617647,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,23,KJFK,arrival,23,237.391304,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,5,EGLL,arrival,51,216.843137,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,10,KJFK,arrival,38,220.842105,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,4,YSSY,arrival,26,109.423077,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,21,LFPG,arrival,18,77.888889,22.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,13,OMDB,departure,13,119.384615,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,1,LFPG,arrival,21,386.285714,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,22,YSSY,departure,36,103.638889,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,22,LFPG,arrival,18,423.611111,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,17,KJFK,departure,26,362.692308,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,22,RJTT,arrival,39,84.666667,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,0,EGLL,arrival,19,492.736842,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,6,RJTT,departure,32,97.78125,15.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,6,KJFK,arrival,16,328.9375,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,17,LFPG,departure,33,140.090909,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,22,YSSY,arrival,23,150.565217,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,1,RJTT,departure,44,162.0,10.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,1,LFPG,arrival,21,489.238095,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,1,LFPG,departure,13,98.692308,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,20,YSSY,departure,27,97.814815,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,4,OMDB,arrival,18,315.166667,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,11,RJTT,arrival,44,106.25,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,21,RJTT,arrival,6,356.666667,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,2,OMDB,departure,10,170.5,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,2,OMDB,arrival,12,356.833333,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,2,KJFK,arrival,9,379.111111,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,23,LFPG,arrival,14,391.642857,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,4,YSSY,departure,25,208.84,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,23,KJFK,arrival,26,153.615385,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,6,KJFK,departure,9,438.333333,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,4,EGLL,arrival,23,439.782609,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,17,YSSY,arrival,12,322.666667,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,4,YSSY,arrival,32,94.28125,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,18,KJFK,departure,33,181.878788,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,20,LFPG,arrival,16,175.125,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,11,YSSY,arrival,5,503.2,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,4,RJTT,departure,42,132.690476,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,18,KJFK,departure,22,145.0,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,16,LFPG,departure,27,145.925926,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,8,KJFK,arrival,6,388.5,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,14,EGLL,arrival,27,182.62963,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,23,LFPG,arrival,21,460.619048,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,21,OMDB,departure,10,238.5,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,4,LFPG,arrival,11,513.363636,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,17,KJFK,departure,19,282.526316,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,0,RJTT,departure,48,165.979167,9.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,18,EGLL,departure,41,222.682927,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,22,EGLL,departure,6,178.333333,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,13,KJFK,arrival,30,252.766667,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,10,OMDB,arrival,7,232.428571,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,9,RJTT,arrival,40,138.3,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,9,YSSY,departure,16,146.25,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,12,OMDB,departure,20,248.3,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,21,KJFK,departure,13,70.692308,16.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,19,LFPG,arrival,24,102.833333,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,2,EGLL,arrival,28,470.25,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,21,YSSY,arrival,27,191.333333,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,12,KJFK,arrival,22,283.590909,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,17,KJFK,departure,19,247.894737,12.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,2,KJFK,arrival,15,348.533333,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,10,KJFK,departure,26,199.884615,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,10,OMDB,departure,14,224.785714,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,7,EGLL,departure,32,113.40625,7.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,22,OMDB,arrival,7,44.0,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,22,YSSY,arrival,26,172.692308,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,3,KJFK,departure,22,375.045455,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,15,YSSY,arrival,5,310.2,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,16,RJTT,departure,9,373.333333,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,19,KJFK,arrival,30,204.6,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,20,LFPG,departure,20,192.95,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,17,OMDB,arrival,8,515.75,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,17,LFPG,departure,25,79.72,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,0,KJFK,departure,35,262.428571,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,20,YSSY,arrival,33,110.939394,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,2,YSSY,arrival,25,151.76,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,4,LFPG,departure,10,190.6,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,3,OMDB,arrival,12,339.5,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,23,RJTT,departure,48,109.041667,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,10,KJFK,departure,22,160.0,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,19,LFPG,departure,39,147.487179,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,14,OMDB,departure,10,243.0,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,4,EGLL,arrival,28,428.178571,4.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,0,YSSY,departure,30,315.533333,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,6,EGLL,arrival,53,202.113208,6.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,15,OMDB,departure,13,208.615385,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,5,YSSY,arrival,28,108.071429,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,23,EGLL,arrival,24,435.708333,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,10,OMDB,departure,20,276.9,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,8,YSSY,departure,10,275.6,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,1,LFPG,arrival,21,351.761905,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,12,EGLL,departure,43,299.44186,12.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,4,OMDB,departure,33,413.636364,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,0,OMDB,arrival,11,353.181818,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,7,YSSY,departure,29,108.137931,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,9,KJFK,arrival,24,367.875,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,19,YSSY,arrival,26,63.384615,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,2,RJTT,arrival,36,122.833333,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,0,EGLL,arrival,18,514.0,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,7,KJFK,arrival,16,380.0,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,11,OMDB,arrival,20,333.15,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,13,YSSY,arrival,5,490.2,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,22,EGLL,arrival,17,415.529412,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,12,OMDB,arrival,11,255.181818,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,16,KJFK,departure,22,243.727273,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,13,YSSY,arrival,7,486.142857,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,23,KJFK,arrival,21,253.142857,18.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,11,YSSY,departure,23,357.478261,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,8,RJTT,arrival,47,166.787234,17.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,8,OMDB,arrival,15,262.266667,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,0,KJFK,departure,31,268.516129,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,5,KJFK,arrival,13,401.923077,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,1,YSSY,departure,33,183.454545,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,14,OMDB,departure,9,219.555556,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,4,RJTT,departure,37,113.405405,13.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,20,YSSY,departure,25,117.88,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,11,EGLL,departure,39,304.205128,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,11,OMDB,departure,22,299.590909,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,2,LFPG,departure,26,138.5,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,8,YSSY,arrival,15,170.666667,19.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,19,RJTT,arrival,7,673.714286,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,6,OMDB,arrival,11,292.818182,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,15,LFPG,arrival,31,223.16129,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,4,KJFK,departure,7,373.714286,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,2,LFPG,arrival,19,310.210526,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,5,OMDB,departure,34,411.264706,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,1,YSSY,arrival,20,157.4,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,7,KJFK,arrival,14,407.428571,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,13,RJTT,arrival,9,238.666667,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,11,YSSY,departure,19,283.368421,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,12,YSSY,arrival,7,424.857143,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,5,YSSY,departure,22,170.545455,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,19,OMDB,departure,4,115.75,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,2,LFPG,departure,3,66.666667,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,19,OMDB,arrival,16,344.875,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,2,OMDB,arrival,7,190.571429,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,12,YSSY,departure,2,268.0,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,20,EGLL,arrival,32,76.65625,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,22,EGLL,departure,5,283.4,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,13,RJTT,departure,8,497.0,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,13,RJTT,departure,13,510.307692,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,0,EGLL,arrival,20,455.85,0.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,17,YSSY,arrival,11,396.727273,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,3,OMDB,arrival,10,356.2,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,11,RJTT,arrival,43,121.604651,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,16,KJFK,departure,21,215.571429,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,23,LFPG,departure,3,57.0,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,14,LFPG,departure,45,215.555556,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,9,YSSY,arrival,17,192.647059,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,20,LFPG,arrival,33,188.969697,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,16,OMDB,arrival,17,311.235294,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,9,OMDB,arrival,9,258.666667,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,20,LFPG,arrival,17,99.176471,21.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,7,OMDB,arrival,14,172.214286,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,15,OMDB,arrival,18,221.222222,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,10,RJTT,arrival,40,126.125,19.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,18,LFPG,arrival,26,112.153846,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,5,LFPG,arrival,38,148.447368,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,9,OMDB,arrival,10,277.5,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,19,RJTT,departure,3,182.333333,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,15,OMDB,departure,12,147.5,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,17,OMDB,arrival,27,232.555556,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,17,RJTT,arrival,8,797.25,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,17,OMDB,departure,12,254.333333,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,13,KJFK,arrival,2,700.5,8.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,5,LFPG,departure,7,103.285714,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,8,OMDB,departure,10,210.5,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,19,KJFK,arrival,26,201.038462,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,6,YSSY,departure,15,244.933333,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,4,LFPG,departure,2,106.5,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,8,OMDB,arrival,9,291.222222,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,15,EGLL,arrival,10,802.6,15.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,23,OMDB,departure,14,556.714286,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,9,YSSY,arrival,10,72.4,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,19,RJTT,arrival,6,712.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,14,RJTT,arrival,5,469.8,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,3,LFPG,arrival,19,300.473684,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,19,YSSY,arrival,28,130.892857,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,1,OMDB,departure,13,252.769231,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,9,RJTT,arrival,31,117.806452,18.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,21,OMDB,arrival,11,338.181818,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,1,YSSY,arrival,21,144.47619,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,0,YSSY,arrival,29,95.551724,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,12,OMDB,arrival,7,256.571429,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,3,KJFK,arrival,7,457.857143,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,1,OMDB,departure,9,256.111111,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,17,RJTT,arrival,9,710.888889,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,3,YSSY,arrival,19,153.368421,14.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,14,EGLL,arrival,1,801.0,14.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,22,EGLL,arrival,14,411.428571,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,15,KJFK,arrival,39,209.820513,10.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,10,OMDB,arrival,7,316.571429,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,10,LFPG,arrival,37,130.432432,11.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,10,OMDB,arrival,5,334.4,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,20,RJTT,departure,2,131.5,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,2,OMDB,departure,12,240.583333,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,9,OMDB,departure,12,169.916667,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,17,RJTT,arrival,9,682.333333,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,22,EGLL,departure,5,254.4,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,22,YSSY,arrival,23,131.173913,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,15,RJTT,arrival,9,584.888889,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,16,RJTT,arrival,10,447.3,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,6,OMDB,departure,38,388.763158,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,13,EGLL,arrival,30,145.5,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,17,OMDB,arrival,16,279.0625,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,2,RJTT,arrival,40,119.375,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,19,EGLL,departure,30,281.433333,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,7,OMDB,departure,24,299.625,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,10,YSSY,departure,18,428.888889,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,22,YSSY,arrival,28,204.214286,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,2,RJTT,departure,50,202.0,11.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,18,EGLL,arrival,3,643.0,18.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,1,EGLL,arrival,22,489.545455,1.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,17,OMDB,departure,13,221.615385,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,18,OMDB,arrival,13,397.692308,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,4,KJFK,departure,10,369.5,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,23,OMDB,arrival,20,191.35,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,0,KJFK,arrival,15,194.933333,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,19,KJFK,departure,32,107.9375,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,19,RJTT,departure,2,308.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,18,OMDB,arrival,13,382.615385,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,0,YSSY,departure,25,306.88,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,3,RJTT,departure,41,177.317073,12.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,0,OMDB,arrival,10,228.3,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,11,RJTT,arrival,40,130.975,20.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,8,OMDB,arrival,12,283.416667,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,12,KJFK,arrival,17,307.588235,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,20,YSSY,arrival,14,195.5,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,22,YSSY,departure,23,134.173913,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,0,LFPG,arrival,13,395.615385,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,13,EGLL,departure,43,202.186047,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,6,KJFK,departure,14,565.357143,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,18,LFPG,arrival,32,159.09375,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,20,EGLL,departure,30,301.466667,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,8,KJFK,arrival,13,480.923077,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,11,LFPG,departure,39,218.25641,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,7,OMDB,departure,11,271.272727,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,19,OMDB,departure,17,178.882353,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,22,LFPG,departure,2,50.0,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,8,OMDB,departure,17,199.705882,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,17,RJTT,arrival,10,714.3,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,17,YSSY,arrival,3,212.666667,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,9,YSSY,departure,19,203.947368,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,13,EGLL,departure,46,244.456522,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,4,LFPG,departure,8,162.625,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,14,RJTT,departure,7,450.285714,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,3,LFPG,departure,9,167.444444,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,16,YSSY,arrival,2,774.0,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,17,OMDB,departure,10,177.8,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,13,YSSY,arrival,9,485.666667,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,5,KJFK,departure,7,503.142857,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,3,OMDB,departure,9,268.444444,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,11,YSSY,departure,18,309.0,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,19,YSSY,arrival,24,163.208333,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,13,RJTT,arrival,1,724.0,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,12,RJTT,departure,19,241.842105,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,17,LFPG,departure,31,185.354839,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,2,KJFK,arrival,7,263.428571,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,14,OMDB,departure,13,225.0,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,12,RJTT,departure,14,230.357143,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,2,LFPG,arrival,17,275.176471,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,17,YSSY,arrival,4,595.25,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,22,LFPG,arrival,22,464.318182,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,1,OMDB,departure,10,240.5,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,3,KJFK,arrival,6,195.666667,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,8,EGLL,arrival,16,138.1875,8.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,19,KJFK,arrival,14,450.5,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,18,OMDB,arrival,13,292.692308,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,9,KJFK,departure,4,266.25,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,21,OMDB,departure,3,150.0,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,0,LFPG,departure,2,517.0,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,19,OMDB,arrival,5,103.6,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,0,YSSY,arrival,19,121.263158,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,0,KJFK,arrival,22,260.136364,19.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,20,KJFK,arrival,34,168.970588,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,19,YSSY,departure,17,153.117647,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,23,YSSY,arrival,32,90.5,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,7,KJFK,arrival,15,382.333333,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,9,OMDB,departure,16,160.5625,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,9,KJFK,arrival,20,407.35,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,22,YSSY,arrival,11,51.181818,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,11,YSSY,departure,15,398.133333,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,23,OMDB,departure,16,387.6875,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,6,KJFK,departure,6,494.166667,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,15,RJTT,arrival,8,451.375,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,5,LFPG,departure,5,139.6,6.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,19,OMDB,arrival,14,499.5,23.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,19,LFPG,arrival,23,133.043478,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,15,YSSY,arrival,5,409.4,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,11,YSSY,arrival,3,535.333333,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,16,LFPG,departure,24,182.416667,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,12,YSSY,arrival,5,381.4,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,5,YSSY,arrival,18,122.722222,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,17,LFPG,departure,18,186.888889,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,23,LFPG,arrival,1,33.0,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,14,OMDB,departure,15,308.2,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,22,OMDB,arrival,14,175.714286,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,22,EGLL,arrival,17,407.117647,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,2,EGLL,arrival,31,432.677419,2.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,17,YSSY,arrival,9,539.666667,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,15,OMDB,departure,12,153.083333,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,18,LFPG,arrival,26,194.384615,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,16,KJFK,departure,24,235.833333,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,17,EGLL,arrival,1,803.0,17.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,2,LFPG,departure,1,94.0,3.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,22,OMDB,departure,22,346.545455,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,18,OMDB,departure,7,256.857143,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,9,EGLL,arrival,19,142.842105,9.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,14,YSSY,arrival,3,525.333333,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,22,LFPG,departure,9,201.222222,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,18,YSSY,arrival,6,214.833333,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,5,YSSY,arrival,34,124.294118,16.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,5,KJFK,departure,9,708.333333,0.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,4,OMDB,departure,28,389.071429,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,7,KJFK,departure,4,348.75,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,19,KJFK,departure,36,198.611111,14.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,5,EGLL,departure,18,92.444444,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,23,EGLL,departure,1,638.0,23.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,0,YSSY,arrival,19,125.473684,11.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,12,YSSY,departure,5,171.6,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,15,RJTT,departure,9,365.444444,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,15,RJTT,arrival,9,634.333333,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,4,YSSY,departure,19,139.789474,15.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,11,YSSY,departure,18,413.722222,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,3,LFPG,departure,6,210.833333,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,12,OMDB,arrival,16,339.25,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,2,YSSY,arrival,25,181.56,13.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,2,OMDB,departure,11,219.0,6.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,23,OMDB,arrival,15,312.666667,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,11,OMDB,arrival,22,408.318182,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,7,KJFK,departure,2,625.5,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,23,LFPG,departure,2,94.0,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,7,RJTT,departure,35,154.771429,16.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,6,YSSY,departure,23,165.0,17.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,22,OMDB,arrival,7,279.0,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,17,YSSY,arrival,10,435.1,4.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,21,RJTT,departure,23,88.695652,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,20,YSSY,arrival,4,559.5,7.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,11,OMDB,arrival,4,897.0,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,22,LFPG,departure,7,365.285714,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,15,OMDB,arrival,26,228.692308,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,14,RJTT,departure,8,649.25,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,18,RJTT,arrival,7,570.428571,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,18,RJTT,arrival,11,557.454545,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,13,OMDB,departure,15,154.0,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,10,YSSY,arrival,12,230.0,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,18,RJTT,arrival,12,528.583333,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,23,LFPG,arrival,11,335.090909,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,1,OMDB,arrival,10,213.5,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,6,KJFK,arrival,16,376.0,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,10,KJFK,departure,14,204.285714,5.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,20,OMDB,departure,9,206.444444,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,13,RJTT,arrival,4,410.5,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,20,KJFK,departure,28,199.642857,15.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,16,OMDB,departure,6,177.0,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,13,EGLL,departure,38,255.447368,13.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,20,RJTT,departure,1,175.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,15,RJTT,departure,9,452.555556,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,20,RJTT,departure,1,73.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,15,OMDB,arrival,7,651.142857,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,17,LFPG,arrival,5,661.0,18.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,18,YSSY,arrival,3,375.666667,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,12,YSSY,arrival,5,482.8,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,3,EGLL,arrival,22,410.909091,3.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,16,OMDB,departure,10,120.3,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,12,YSSY,arrival,6,513.666667,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,22,YSSY,arrival,7,358.142857,9.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,8,KJFK,arrival,16,508.3125,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,4,LFPG,departure,1,140.0,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,11,YSSY,arrival,5,540.6,22.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,9,KJFK,departure,4,483.25,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,15,LFPG,arrival,29,106.0,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,1,KJFK,arrival,15,215.666667,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,14,RJTT,arrival,7,307.857143,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,7,KJFK,departure,3,787.666667,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,3,KJFK,arrival,4,553.75,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,11,EGLL,arrival,37,115.837838,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,1,YSSY,arrival,23,151.956522,12.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,20,EGLL,arrival,10,318.2,20.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-21,23,LFPG,arrival,12,419.666667,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,7,KJFK,departure,3,237.0,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,16,EGLL,arrival,2,936.5,16.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,10,OMDB,arrival,13,296.307692,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,4,KJFK,departure,8,455.875,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,3,OMDB,arrival,16,297.125,7.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,4,LFPG,departure,9,96.333333,5.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,22,EGLL,departure,10,285.6,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-25,2,KJFK,arrival,11,505.181818,21.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,12,YSSY,arrival,4,463.25,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-25,15,RJTT,arrival,9,549.777778,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,17,RJTT,departure,8,296.625,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,15,OMDB,departure,7,99.857143,19.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,12,YSSY,arrival,6,414.0,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,21,YSSY,arrival,14,63.142857,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,14,YSSY,arrival,4,524.75,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,6,KJFK,arrival,14,397.642857,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,5,OMDB,arrival,13,222.076923,9.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,10,YSSY,arrival,13,149.0,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,16,LFPG,arrival,4,780.75,17.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,14,LFPG,arrival,6,864.833333,15.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,23,LFPG,arrival,13,367.307692,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,23,YSSY,departure,3,29.333333,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,0,OMDB,arrival,10,419.6,4.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,22,EGLL,departure,7,353.285714,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,15,YSSY,arrival,3,526.666667,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,16,YSSY,arrival,7,429.0,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,12,YSSY,arrival,4,548.75,23.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,11,KJFK,arrival,3,802.0,6.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,13,YSSY,departure,1,42.0,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,21,RJTT,departure,25,94.2,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,14,RJTT,arrival,5,483.4,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,22,RJTT,arrival,15,115.6,7.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,9,KJFK,departure,1,277.0,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,19,RJTT,departure,2,95.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,15,YSSY,arrival,6,335.5,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,23,RJTT,arrival,1,19.0,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,17,OMDB,arrival,13,116.615385,21.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,21,RJTT,arrival,7,498.142857,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,6,KJFK,departure,11,458.454545,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,23,OMDB,arrival,1,29.0,3.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,13,RJTT,departure,5,384.4,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,19,RJTT,arrival,1,81.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,18,KJFK,arrival,3,565.333333,13.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,4,KJFK,departure,7,393.571429,23.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,18,RJTT,departure,1,107.0,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,1,LFPG,departure,11,113.545455,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,16,OMDB,departure,7,216.714286,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-23,14,YSSY,arrival,5,463.2,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,18,YSSY,arrival,4,651.25,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,17,RJTT,departure,7,187.0,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,4,OMDB,arrival,10,225.8,8.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,16,RJTT,arrival,7,302.571429,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,11,OMDB,arrival,14,399.214286,15.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,0,LFPG,departure,3,272.333333,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-20,1,KJFK,arrival,15,323.933333,20.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,9,KJFK,departure,2,305.5,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-26,18,RJTT,arrival,3,150.666667,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,21,OMDB,arrival,15,284.6,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,21,EGLL,arrival,9,436.555556,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,16,OMDB,arrival,5,567.2,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,14,RJTT,departure,3,486.666667,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,21,RJTT,arrival,6,383.833333,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,14,RJTT,arrival,8,482.375,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,22,LFPG,departure,6,175.666667,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,15,LFPG,arrival,3,811.0,16.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,16,RJTT,departure,8,257.75,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,18,RJTT,departure,2,303.5,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,21,EGLL,arrival,6,521.333333,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-23,20,RJTT,arrival,2,763.5,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,20,OMDB,departure,9,122.333333,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,1,LFPG,departure,6,71.5,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,15,YSSY,arrival,7,373.142857,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,14,RJTT,departure,7,499.714286,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,23,LFPG,departure,3,262.333333,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,1,OMDB,arrival,9,183.444444,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,21,OMDB,departure,9,163.888889,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,14,YSSY,arrival,6,413.166667,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,12,RJTT,arrival,2,756.0,21.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,10,YSSY,arrival,6,149.166667,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,18,YSSY,arrival,6,433.833333,5.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-21,9,OMDB,departure,8,117.375,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,17,RJTT,departure,11,367.272727,2.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-20,14,YSSY,arrival,7,471.0,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,9,YSSY,arrival,5,166.4,20.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-22,16,RJTT,departure,7,337.571429,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,9,OMDB,arrival,12,212.75,13.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,16,OMDB,departure,7,119.428571,20.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,1,OMDB,arrival,7,390.285714,5.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,0,LFPG,departure,3,64.0,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-22,21,RJTT,arrival,4,388.0,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,21,OMDB,departure,6,169.666667,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,22,EGLL,departure,2,47.5,22.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-26,16,RJTT,departure,2,234.0,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,8,KJFK,departure,3,369.333333,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,14,OMDB,arrival,2,727.5,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,19,RJTT,departure,2,80.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,13,RJTT,departure,12,537.25,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,9,LFPG,arrival,2,1146.0,10.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,19,RJTT,departure,1,76.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,21,OMDB,arrival,6,62.5,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,14,RJTT,departure,9,407.333333,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,13,YSSY,departure,1,44.0,0.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,13,OMDB,departure,4,157.25,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,0,LFPG,departure,1,64.0,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-23,21,RJTT,arrival,5,325.8,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,7,OMDB,arrival,6,107.666667,11.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,22,KJFK,arrival,5,44.6,17.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,18,RJTT,arrival,6,702.0,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,13,RJTT,arrival,5,341.0,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,9,KJFK,departure,2,255.0,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,7,KJFK,departure,5,509.2,2.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,11,EGLL,arrival,1,1811.0,11.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-19,12,LFPG,arrival,1,1754.0,13.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,9,KJFK,departure,2,213.0,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,13,RJTT,arrival,3,412.666667,22.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,0,LFPG,departure,1,63.0,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,21,OMDB,departure,2,212.5,1.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,12,OMDB,departure,4,128.0,16.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,19,EGLL,arrival,2,929.0,19.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-20,20,RJTT,arrival,1,801.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,6,KJFK,departure,8,757.0,1.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-24,3,LFPG,departure,3,101.333333,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-24,16,YSSY,arrival,5,298.2,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,20,OMDB,departure,3,272.666667,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-25,20,RJTT,arrival,3,770.333333,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,8,KJFK,departure,4,296.75,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,9,KJFK,departure,1,281.0,4.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-20,19,RJTT,departure,1,81.0,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-22,20,RJTT,departure,1,179.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,3,LFPG,departure,2,259.5,4.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-21,14,YSSY,arrival,5,503.6,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,14,RJTT,arrival,6,502.5,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-21,22,LFPG,departure,1,48.0,23.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,20,OMDB,departure,2,126.5,0.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-22,18,RJTT,departure,2,242.5,3.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,15,YSSY,arrival,1,451.0,2.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,21,RJTT,arrival,1,73.0,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,20,RJTT,departure,1,71.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,22,OMDB,departure,3,368.333333,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,19,LFPG,arrival,2,764.0,20.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-26,22,OMDB,departure,3,527.333333,2.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-24,0,LFPG,departure,2,45.5,1.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,16,KJFK,arrival,2,528.5,11.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-25,1,LFPG,departure,3,599.666667,2.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-25,23,LFPG,departure,2,343.0,0.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,8,OMDB,arrival,1,1008.0,12.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,12,KJFK,arrival,2,1295.5,7.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-19,14,RJTT,arrival,1,826.0,23.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-25,8,KJFK,departure,1,288.0,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,16,YSSY,arrival,3,731.333333,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,18,LFPG,arrival,1,655.0,19.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,21,RJTT,arrival,2,724.0,6.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-23,14,YSSY,departure,1,31.0,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-24,10,YSSY,arrival,2,365.5,21.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,20,RJTT,arrival,2,761.5,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,20,RJTT,arrival,1,732.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,19,YSSY,arrival,1,559.0,6.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,6,OMDB,arrival,1,1061.0,10.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-20,20,RJTT,departure,2,123.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,16,RJTT,arrival,2,825.0,1.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,23,RJTT,departure,1,704.0,8.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-26,23,YSSY,arrival,1,18.0,10.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,7,YSSY,arrival,1,1373.0,18.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-19,13,OMDB,arrival,1,668.0,17.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-26,16,YSSY,arrival,1,453.0,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-20,8,KJFK,departure,2,194.0,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,16,YSSY,departure,1,40.0,3.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-23,20,RJTT,departure,1,83.0,5.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-24,14,OMDB,departure,6,104.833333,18.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-21,5,EGLL,departure,17,90.117647,5.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-22,21,EGLL,arrival,7,470.714286,21.0,Heathrow,London,United Kingdom,Europe/London
+2026-10-24,3,KJFK,arrival,7,374.857143,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-22,3,KJFK,arrival,5,582.2,22.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-21,14,YSSY,departure,2,37.5,1.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,8,KJFK,departure,3,542.333333,3.0,John F Kennedy International,New York,United States,America/New_York
+2026-10-23,19,RJTT,arrival,5,714.4,4.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,10,OMDB,arrival,2,840.0,14.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai
+2026-10-19,21,YSSY,arrival,2,533.5,8.0,Sydney Kingsford Smith,Sydney,Australia,Australia/Sydney
+2026-10-26,15,RJTT,arrival,3,331.333333,0.0,Haneda,Tokyo,Japan,Asia/Tokyo
+2026-10-19,11,LFPG,arrival,1,1022.0,12.0,Charles de Gaulle,Paris,France,Europe/Paris
+2026-10-19,18,OMDB,arrival,4,419.75,22.0,Dubai International,Dubai,United Arab Emirates,Asia/Dubai

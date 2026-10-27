@@ -1,0 +1,1375 @@
+CALLSIGN_PREFIX,AIRPORT_ICAO,FLIGHT_DIRECTION,TOTAL_FLIGHTS,UNIQUE_AIRCRAFT,DAYS_ACTIVE,AVG_DURATION_MIN,FIRST_SEEN_DATE,LAST_SEEN_DATE,AIRLINE_NAME,AIRLINE_IATA,AIRLINE_COUNTRY,ALLIANCE,AIRPORT_NAME,CITY,AIRPORT_COUNTRY
+DAL,EGLL,departure,61,36,7,500.3,2026-10-20,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Heathrow,London,United Kingdom
+VRE,LFPG,arrival,8,2,4,137.3,2026-10-21,2026-10-26,,,,,Charles de Gaulle,Paris,France
+JST,YSSY,departure,437,74,7,116.6,2026-10-20,2026-10-26,Jetstar Airways,JQ,Australia,none,Sydney Kingsford Smith,Sydney,Australia
+BAW,EGLL,departure,1924,230,7,222.1,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,Heathrow,London,United Kingdom
+QFA,YSSY,departure,661,127,7,188.2,2026-10-20,2026-10-26,Qantas,QF,Australia,oneworld,Sydney Kingsford Smith,Sydney,Australia
+ADO,RJTT,arrival,168,11,8,86.2,2026-10-19,2026-10-26,Air Do,HD,Japan,none,Haneda,Tokyo,Japan
+AFR,LFPG,arrival,2272,227,8,181.7,2026-10-19,2026-10-26,Air France,AF,France,SkyTeam,Charles de Gaulle,Paris,France
+ANA,RJTT,arrival,1671,186,8,137.6,2026-10-19,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,Haneda,Tokyo,Japan
+TAR,EGLL,departure,2,2,2,132.0,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+ADO,RJTT,departure,166,11,7,68.9,2026-10-20,2026-10-26,Air Do,HD,Japan,none,Haneda,Tokyo,Japan
+ANA,RJTT,departure,1635,184,7,133.9,2026-10-20,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,Haneda,Tokyo,Japan
+DLH,EGLL,departure,88,26,7,74.4,2026-10-20,2026-10-26,Lufthansa,LH,Germany,Star Alliance,Heathrow,London,United Kingdom
+JST,YSSY,arrival,445,74,8,122.3,2026-10-19,2026-10-26,Jetstar Airways,JQ,Australia,none,Sydney Kingsford Smith,Sydney,Australia
+CPA,KJFK,departure,24,20,7,819.9,2026-10-20,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,John F Kennedy International,New York,United States
+AFR,LFPG,departure,2199,223,7,176.0,2026-10-20,2026-10-26,Air France,AF,France,SkyTeam,Charles de Gaulle,Paris,France
+AAL,EGLL,departure,140,42,7,495.8,2026-10-20,2026-10-26,American Airlines,AA,United States,oneworld,Heathrow,London,United Kingdom
+AAR,RJTT,arrival,28,8,8,102.0,2026-10-19,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,Haneda,Tokyo,Japan
+CMA,LFPG,departure,10,3,6,559.2,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+IGO,OMDB,departure,85,39,7,227.5,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+SHT,EGLL,arrival,316,101,7,61.0,2026-10-20,2026-10-26,British Airways Shuttle,BA,United Kingdom,oneworld,Heathrow,London,United Kingdom
+UAL,RJTT,departure,38,28,7,639.5,2026-10-20,2026-10-26,United Airlines,UA,United States,Star Alliance,Haneda,Tokyo,Japan
+HOP,LFPG,arrival,131,28,2,75.0,2026-10-25,2026-10-26,,,,,Charles de Gaulle,Paris,France
+FDB,OMDB,departure,690,89,7,183.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+KAC,OMDB,departure,17,11,7,50.8,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+TAY,LFPG,departure,104,31,7,87.6,2026-10-20,2026-10-26,TNT Airways,3V,Belgium,none,Charles de Gaulle,Paris,France
+PE8,YSSY,departure,7,2,4,39.4,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+SFJ,RJTT,arrival,181,11,8,68.1,2026-10-19,2026-10-26,StarFlyer,7G,Japan,none,Haneda,Tokyo,Japan
+ASA,RJTT,arrival,14,12,7,485.7,2026-10-20,2026-10-26,Alaska Airlines,AS,United States,oneworld,Haneda,Tokyo,Japan
+BAW,YSSY,arrival,7,6,7,412.1,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,Sydney Kingsford Smith,Sydney,Australia
+KQA,KJFK,arrival,5,4,5,860.4,2026-10-19,2026-10-25,,,,,John F Kennedy International,New York,United States
+SFJ,RJTT,departure,175,10,7,72.1,2026-10-20,2026-10-26,StarFlyer,7G,Japan,none,Haneda,Tokyo,Japan
+THY,LFPG,arrival,49,43,7,203.9,2026-10-20,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Charles de Gaulle,Paris,France
+EVA,RJTT,departure,12,2,6,183.5,2026-10-20,2026-10-26,EVA Air,BR,Taiwan,Star Alliance,Haneda,Tokyo,Japan
+XWZ,YSSY,departure,15,1,6,39.7,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+TSC,LFPG,arrival,18,11,8,372.8,2026-10-19,2026-10-26,,,,,Charles de Gaulle,Paris,France
+QTR,KJFK,departure,18,16,7,654.9,2026-10-20,2026-10-26,Qatar Airways,QR,Qatar,oneworld,John F Kennedy International,New York,United States
+AAR,LFPG,arrival,5,3,5,830.0,2026-10-21,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,Charles de Gaulle,Paris,France
+QLK,YSSY,departure,390,53,7,52.0,2026-10-20,2026-10-26,QantasLink,QF,Australia,oneworld,Sydney Kingsford Smith,Sydney,Australia
+CPA,YSSY,departure,29,22,7,482.2,2026-10-20,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Sydney Kingsford Smith,Sydney,Australia
+DAL,LFPG,departure,77,52,7,526.8,2026-10-20,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Charles de Gaulle,Paris,France
+HZA,OMDB,arrival,2,2,2,70.0,2026-10-23,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+SWR,EGLL,arrival,83,39,7,87.7,2026-10-20,2026-10-26,Swiss International,LX,Switzerland,Star Alliance,Heathrow,London,United Kingdom
+N41,OMDB,departure,1,1,1,233.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+DAL,KJFK,arrival,860,281,8,265.8,2026-10-19,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,John F Kennedy International,New York,United States
+LBT,LFPG,arrival,45,14,7,131.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+FDB,OMDB,arrival,745,91,8,192.5,2026-10-19,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+JAL,RJTT,arrival,1474,130,8,122.5,2026-10-19,2026-10-26,Japan Airlines,JL,Japan,oneworld,Haneda,Tokyo,Japan
+DAH,LFPG,departure,83,36,7,101.4,2026-10-20,2026-10-26,Air Algerie,AH,Algeria,none,Charles de Gaulle,Paris,France
+VOZ,YSSY,departure,552,110,7,103.1,2026-10-20,2026-10-26,Virgin Australia,VA,Australia,none,Sydney Kingsford Smith,Sydney,Australia
+FYC,OMDB,arrival,3,2,3,187.7,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+AAL,KJFK,departure,435,244,7,270.9,2026-10-20,2026-10-26,American Airlines,AA,United States,oneworld,John F Kennedy International,New York,United States
+UAE,YSSY,arrival,32,22,8,592.0,2026-10-19,2026-10-26,Emirates,EK,United Arab Emirates,none,Sydney Kingsford Smith,Sydney,Australia
+BAW,LFPG,departure,44,36,7,51.0,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,Charles de Gaulle,Paris,France
+JAL,EGLL,arrival,14,9,8,813.6,2026-10-19,2026-10-26,Japan Airlines,JL,Japan,oneworld,Heathrow,London,United Kingdom
+NOZ,LFPG,arrival,12,11,7,123.4,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+THY,RJTT,arrival,7,6,7,631.0,2026-10-19,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Haneda,Tokyo,Japan
+QFA,RJTT,departure,13,7,7,555.4,2026-10-20,2026-10-26,Qantas,QF,Australia,oneworld,Haneda,Tokyo,Japan
+QFA,RJTT,arrival,14,7,7,554.9,2026-10-20,2026-10-26,Qantas,QF,Australia,oneworld,Haneda,Tokyo,Japan
+JBU,LFPG,arrival,14,7,7,389.2,2026-10-20,2026-10-26,JetBlue Airways,B6,United States,none,Charles de Gaulle,Paris,France
+SAS,KJFK,departure,9,4,6,389.1,2026-10-20,2026-10-25,Scandinavian Airlines,SK,Scandinavia,Star Alliance,John F Kennedy International,New York,United States
+N92,KJFK,arrival,9,2,5,66.6,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+KAP,KJFK,arrival,20,14,7,74.2,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+RAM,EGLL,departure,7,4,5,151.1,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+UAL,LFPG,arrival,41,30,8,439.5,2026-10-19,2026-10-26,United Airlines,UA,United States,Star Alliance,Charles de Gaulle,Paris,France
+UAE,OMDB,arrival,1330,238,8,392.0,2026-10-19,2026-10-26,Emirates,EK,United Arab Emirates,none,Dubai International,Dubai,United Arab Emirates
+RAM,OMDB,arrival,3,2,3,426.7,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+LOG,EGLL,arrival,34,5,7,75.6,2026-10-20,2026-10-26,Loganair,LM,United Kingdom,none,Heathrow,London,United Kingdom
+MAS,LFPG,arrival,7,4,7,767.0,2026-10-19,2026-10-25,Malaysia Airlines,MH,Malaysia,oneworld,Charles de Gaulle,Paris,France
+CXA,YSSY,arrival,7,6,6,873.7,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+SWR,EGLL,departure,83,39,7,74.3,2026-10-20,2026-10-26,Swiss International,LX,Switzerland,Star Alliance,Heathrow,London,United Kingdom
+AM2,YSSY,arrival,53,6,7,43.9,2026-10-20,2026-10-26,Aeromexico Connect,5D,Mexico,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+EIN,EGLL,arrival,133,15,7,60.1,2026-10-20,2026-10-26,Aer Lingus,EI,Ireland,none,Heathrow,London,United Kingdom
+BAW,EGLL,arrival,1981,229,8,231.9,2026-10-19,2026-10-26,British Airways,BA,United Kingdom,oneworld,Heathrow,London,United Kingdom
+FDX,LFPG,departure,99,49,7,372.1,2026-10-20,2026-10-26,FedEx Express,FX,United States,none,Charles de Gaulle,Paris,France
+TMN,YSSY,arrival,12,4,8,353.9,2026-10-19,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+DAL,KJFK,departure,824,278,7,252.6,2026-10-20,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,John F Kennedy International,New York,United States
+AEE,EGLL,departure,26,14,7,180.4,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+AIC,RJTT,departure,11,8,7,540.5,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Haneda,Tokyo,Japan
+ABQ,OMDB,departure,18,7,6,123.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+DAH,LFPG,arrival,89,37,7,121.5,2026-10-20,2026-10-26,Air Algerie,AH,Algeria,none,Charles de Gaulle,Paris,France
+LAN,YSSY,departure,7,6,7,747.1,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+AM2,YSSY,departure,52,6,7,48.5,2026-10-20,2026-10-26,Aeromexico Connect,5D,Mexico,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+JBU,EGLL,arrival,21,10,8,377.2,2026-10-19,2026-10-26,JetBlue Airways,B6,United States,none,Heathrow,London,United Kingdom
+HOP,LFPG,departure,134,27,2,66.9,2026-10-25,2026-10-26,,,,,Charles de Gaulle,Paris,France
+JAL,RJTT,departure,1449,130,7,117.8,2026-10-20,2026-10-26,Japan Airlines,JL,Japan,oneworld,Haneda,Tokyo,Japan
+PAL,OMDB,arrival,5,4,5,518.0,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+DAL,LFPG,arrival,78,52,8,451.1,2026-10-19,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Charles de Gaulle,Paris,France
+AFR,KJFK,departure,39,29,7,373.1,2026-10-20,2026-10-26,Air France,AF,France,SkyTeam,John F Kennedy International,New York,United States
+EDV,KJFK,arrival,425,61,8,78.0,2026-10-19,2026-10-26,Endeavor Air,9E,United States,SkyTeam,John F Kennedy International,New York,United States
+AAL,LFPG,arrival,37,28,8,405.0,2026-10-19,2026-10-26,American Airlines,AA,United States,oneworld,Charles de Gaulle,Paris,France
+JBU,KJFK,arrival,870,202,8,173.3,2026-10-19,2026-10-26,JetBlue Airways,B6,United States,none,John F Kennedy International,New York,United States
+AIC,OMDB,departure,37,29,7,202.9,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Dubai International,Dubai,United Arab Emirates
+AAL,EGLL,arrival,144,44,8,440.1,2026-10-19,2026-10-26,American Airlines,AA,United States,oneworld,Heathrow,London,United Kingdom
+QLK,YSSY,arrival,392,53,8,58.2,2026-10-19,2026-10-26,QantasLink,QF,Australia,oneworld,Sydney Kingsford Smith,Sydney,Australia
+CSG,KJFK,arrival,6,5,6,374.7,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+THA,YSSY,departure,14,8,7,538.7,2026-10-20,2026-10-26,Thai Airways,TG,Thailand,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+SKY,RJTT,departure,259,30,7,79.3,2026-10-20,2026-10-26,Skymark Airlines,BC,Japan,none,Haneda,Tokyo,Japan
+VIR,EGLL,departure,185,40,7,526.0,2026-10-20,2026-10-26,Virgin Atlantic,VS,United Kingdom,none,Heathrow,London,United Kingdom
+RXA,YSSY,departure,138,13,7,48.0,2026-10-20,2026-10-26,Rex Airlines,ZL,Australia,none,Sydney Kingsford Smith,Sydney,Australia
+CMP,KJFK,departure,20,18,7,368.9,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+BBC,EGLL,departure,5,3,5,547.4,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+ITY,KJFK,arrival,19,11,7,552.9,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,John F Kennedy International,New York,United States
+BCS,EGLL,arrival,15,10,7,62.7,2026-10-20,2026-10-26,European Air Transport,QY,Belgium,none,Heathrow,London,United Kingdom
+JCG,RJTT,arrival,1,1,1,38.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+ELY,LFPG,arrival,28,19,6,269.3,2026-10-20,2026-10-26,El Al,LY,Israel,none,Charles de Gaulle,Paris,France
+N84,KJFK,departure,32,1,6,28.9,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+FPO,LFPG,departure,54,13,7,86.8,2026-10-20,2026-10-26,ASL Airlines France,5O,France,none,Charles de Gaulle,Paris,France
+MAS,YSSY,arrival,23,13,7,458.8,2026-10-20,2026-10-26,Malaysia Airlines,MH,Malaysia,oneworld,Sydney Kingsford Smith,Sydney,Australia
+FJI,YSSY,departure,9,5,6,686.7,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+VOZ,YSSY,arrival,564,110,8,100.6,2026-10-19,2026-10-26,Virgin Australia,VA,Australia,none,Sydney Kingsford Smith,Sydney,Australia
+EDV,KJFK,departure,418,60,7,73.6,2026-10-20,2026-10-26,Endeavor Air,9E,United States,SkyTeam,John F Kennedy International,New York,United States
+KLM,EGLL,arrival,49,28,7,52.4,2026-10-20,2026-10-26,KLM Royal Dutch,KL,Netherlands,SkyTeam,Heathrow,London,United Kingdom
+UAL,EGLL,arrival,130,69,8,453.8,2026-10-19,2026-10-26,United Airlines,UA,United States,Star Alliance,Heathrow,London,United Kingdom
+AXB,OMDB,departure,76,39,7,199.5,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+UAL,EGLL,departure,126,68,7,513.7,2026-10-20,2026-10-26,United Airlines,UA,United States,Star Alliance,Heathrow,London,United Kingdom
+RXA,YSSY,arrival,145,13,8,57.5,2026-10-19,2026-10-26,Rex Airlines,ZL,Australia,none,Sydney Kingsford Smith,Sydney,Australia
+UAE,KJFK,arrival,21,18,8,710.2,2026-10-19,2026-10-26,Emirates,EK,United Arab Emirates,none,John F Kennedy International,New York,United States
+ITY,LFPG,departure,44,26,7,80.3,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,Charles de Gaulle,Paris,France
+UPS,KJFK,arrival,20,20,6,94.8,2026-10-20,2026-10-25,UPS Airlines,5X,United States,none,John F Kennedy International,New York,United States
+GEC,KJFK,departure,5,5,5,395.4,2026-10-22,2026-10-26,Lufthansa Cargo,GE,Germany,Star Alliance,John F Kennedy International,New York,United States
+THY,EGLL,departure,39,36,7,184.1,2026-10-20,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Heathrow,London,United Kingdom
+AIC,EGLL,arrival,44,21,8,621.3,2026-10-19,2026-10-26,Air India,AI,India,Star Alliance,Heathrow,London,United Kingdom
+SIA,LFPG,departure,9,8,5,739.8,2026-10-20,2026-10-25,Singapore Airlines,SQ,Singapore,Star Alliance,Charles de Gaulle,Paris,France
+CKK,KJFK,arrival,4,4,4,276.3,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+FPO,LFPG,arrival,55,13,7,97.1,2026-10-20,2026-10-26,ASL Airlines France,5O,France,none,Charles de Gaulle,Paris,France
+ACA,LFPG,departure,19,12,7,444.3,2026-10-20,2026-10-26,Air Canada,AC,Canada,Star Alliance,Charles de Gaulle,Paris,France
+EWG,EGLL,departure,82,28,7,66.9,2026-10-20,2026-10-26,Eurowings,EW,Germany,none,Heathrow,London,United Kingdom
+AEE,LFPG,arrival,21,14,7,178.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+MAS,EGLL,departure,12,5,7,736.3,2026-10-20,2026-10-26,Malaysia Airlines,MH,Malaysia,oneworld,Heathrow,London,United Kingdom
+CQH,RJTT,arrival,4,4,4,88.5,2026-10-21,2026-10-26,,,,,Haneda,Tokyo,Japan
+SIA,EGLL,arrival,27,23,8,806.1,2026-10-19,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Heathrow,London,United Kingdom
+N91,KJFK,arrival,30,1,7,44.5,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+JRE,KJFK,departure,3,3,3,66.3,2026-10-20,2026-10-23,,,,,John F Kennedy International,New York,United States
+CMA,LFPG,arrival,13,3,8,481.8,2026-10-19,2026-10-26,,,,,Charles de Gaulle,Paris,France
+TAP,KJFK,arrival,6,5,6,433.5,2026-10-20,2026-10-25,TAP Air Portugal,TP,Portugal,Star Alliance,John F Kennedy International,New York,United States
+SWR,LFPG,arrival,28,21,7,59.0,2026-10-20,2026-10-26,Swiss International,LX,Switzerland,Star Alliance,Charles de Gaulle,Paris,France
+CMP,KJFK,arrival,26,22,7,434.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AUA,LFPG,departure,33,22,7,85.8,2026-10-20,2026-10-26,Austrian Airlines,OS,Austria,Star Alliance,Charles de Gaulle,Paris,France
+N69,KJFK,arrival,14,1,4,31.4,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+HBI,RJTT,departure,1,1,1,437.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+CKK,LFPG,arrival,4,3,4,622.8,2026-10-19,2026-10-23,,,,,Charles de Gaulle,Paris,France
+SIA,RJTT,arrival,21,17,7,372.6,2026-10-20,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Haneda,Tokyo,Japan
+MSR,EGLL,arrival,22,13,7,357.0,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+PIA,EGLL,arrival,4,2,4,463.5,2026-10-21,2026-10-26,,,,,Heathrow,London,United Kingdom
+SNJ,RJTT,departure,175,13,7,86.7,2026-10-20,2026-10-26,Solaseed Air,6J,Japan,none,Haneda,Tokyo,Japan
+KAL,RJTT,arrival,28,8,7,103.8,2026-10-20,2026-10-26,Korean Air,KE,South Korea,SkyTeam,Haneda,Tokyo,Japan
+SNJ,RJTT,arrival,180,13,8,76.1,2026-10-19,2026-10-26,Solaseed Air,6J,Japan,none,Haneda,Tokyo,Japan
+SZN,LFPG,departure,7,1,7,338.4,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+MAU,LFPG,departure,4,2,4,1081.5,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+CSN,RJTT,departure,20,17,7,561.7,2026-10-20,2026-10-26,China Southern,CZ,China,SkyTeam,Haneda,Tokyo,Japan
+DAL,EGLL,arrival,63,36,8,441.0,2026-10-19,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Heathrow,London,United Kingdom
+DAL,RJTT,arrival,42,32,8,690.5,2026-10-19,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Haneda,Tokyo,Japan
+VIR,KJFK,departure,42,18,7,367.8,2026-10-20,2026-10-26,Virgin Atlantic,VS,United Kingdom,none,John F Kennedy International,New York,United States
+QTR,EGLL,departure,49,34,7,351.4,2026-10-20,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Heathrow,London,United Kingdom
+EJU,LFPG,arrival,187,44,7,104.8,2026-10-20,2026-10-26,easyJet Europe,EC,Austria,none,Charles de Gaulle,Paris,France
+HDB,OMDB,arrival,7,1,5,66.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+RPA,KJFK,arrival,290,103,7,72.9,2026-10-20,2026-10-26,Republic Airways,YX,United States,none,John F Kennedy International,New York,United States
+UAE,EGLL,arrival,42,33,8,430.0,2026-10-19,2026-10-26,Emirates,EK,United Arab Emirates,none,Heathrow,London,United Kingdom
+IBE,EGLL,departure,58,27,7,108.8,2026-10-20,2026-10-26,Iberia,IB,Spain,oneworld,Heathrow,London,United Kingdom
+AVA,KJFK,arrival,30,23,8,337.8,2026-10-19,2026-10-26,Avianca,AV,Colombia,Star Alliance,John F Kennedy International,New York,United States
+ACI,LFPG,departure,2,2,2,682.5,2026-10-21,2026-10-24,,,,,Charles de Gaulle,Paris,France
+BCS,LFPG,departure,33,15,6,69.1,2026-10-20,2026-10-26,European Air Transport,QY,Belgium,none,Charles de Gaulle,Paris,France
+HKE,RJTT,arrival,21,12,7,222.9,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+MXD,YSSY,departure,11,6,6,584.7,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+ASA,YSSY,arrival,5,4,5,602.0,2026-10-19,2026-10-24,Alaska Airlines,AS,United States,oneworld,Sydney Kingsford Smith,Sydney,Australia
+ITY,KJFK,departure,18,11,7,443.4,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,John F Kennedy International,New York,United States
+VJC,RJTT,departure,6,3,6,621.0,2026-10-20,2026-10-25,VietJet Air,VJ,Vietnam,none,Haneda,Tokyo,Japan
+GTI,KJFK,arrival,12,6,6,345.0,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+CAO,LFPG,departure,3,3,3,804.7,2026-10-20,2026-10-24,,,,,Charles de Gaulle,Paris,France
+DLH,KJFK,arrival,19,12,7,492.3,2026-10-20,2026-10-26,Lufthansa,LH,Germany,Star Alliance,John F Kennedy International,New York,United States
+VLG,LFPG,departure,20,17,7,83.4,2026-10-20,2026-10-26,Vueling,VY,Spain,none,Charles de Gaulle,Paris,France
+EIN,LFPG,arrival,35,22,7,75.7,2026-10-20,2026-10-26,Aer Lingus,EI,Ireland,none,Charles de Gaulle,Paris,France
+DAL,YSSY,departure,8,7,7,791.6,2026-10-20,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+PGT,OMDB,arrival,7,7,6,241.9,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CXS,YSSY,departure,13,1,5,20.8,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+ICE,EGLL,departure,14,8,7,149.6,2026-10-20,2026-10-26,Icelandair,FI,Iceland,none,Heathrow,London,United Kingdom
+ELY,KJFK,arrival,22,13,7,671.3,2026-10-19,2026-10-26,El Al,LY,Israel,none,John F Kennedy International,New York,United States
+TWB,YSSY,arrival,7,5,7,602.4,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+UPS,LFPG,departure,9,8,6,398.7,2026-10-20,2026-10-26,UPS Airlines,5X,United States,none,Charles de Gaulle,Paris,France
+CYP,OMDB,departure,6,3,6,202.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+ACA,LFPG,arrival,19,12,8,374.9,2026-10-19,2026-10-26,Air Canada,AC,Canada,Star Alliance,Charles de Gaulle,Paris,France
+N55,KJFK,departure,6,1,3,28.8,2026-10-21,2026-10-23,,,,,John F Kennedy International,New York,United States
+BMW,YSSY,arrival,1,1,1,61.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+MEA,OMDB,departure,11,6,6,177.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CFG,KJFK,arrival,8,7,7,494.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+FIN,LFPG,departure,27,20,7,147.4,2026-10-20,2026-10-26,Finnair,AY,Finland,oneworld,Charles de Gaulle,Paris,France
+N71,KJFK,departure,2,2,1,431.5,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+THY,KJFK,departure,23,19,7,500.8,2026-10-20,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,John F Kennedy International,New York,United States
+BAW,LFPG,arrival,44,35,7,48.5,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,Charles de Gaulle,Paris,France
+CXA,EGLL,arrival,2,1,2,1550.0,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+RAM,KJFK,departure,9,4,7,353.8,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+RJA,EGLL,departure,7,2,7,258.1,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+OMA,OMDB,arrival,20,12,7,150.1,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+TAM,KJFK,departure,7,7,7,560.0,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+UAE,OMDB,departure,1328,236,7,394.9,2026-10-20,2026-10-26,Emirates,EK,United Arab Emirates,none,Dubai International,Dubai,United Arab Emirates
+BAW,KJFK,departure,60,30,7,366.2,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,John F Kennedy International,New York,United States
+BCS,LFPG,arrival,35,15,7,86.9,2026-10-20,2026-10-26,European Air Transport,QY,Belgium,none,Charles de Gaulle,Paris,France
+N91,KJFK,departure,30,1,7,43.6,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+BTI,LFPG,arrival,22,16,7,158.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+AUA,LFPG,arrival,33,21,7,99.7,2026-10-20,2026-10-26,Austrian Airlines,OS,Austria,Star Alliance,Charles de Gaulle,Paris,France
+CSN,YSSY,arrival,21,15,7,523.0,2026-10-20,2026-10-26,China Southern,CZ,China,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+BEL,EGLL,arrival,20,13,7,51.3,2026-10-20,2026-10-26,Brussels Airlines,SN,Belgium,Star Alliance,Heathrow,London,United Kingdom
+UAL,YSSY,arrival,15,13,7,858.8,2026-10-20,2026-10-26,United Airlines,UA,United States,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+SHT,EGLL,departure,319,103,7,53.3,2026-10-20,2026-10-26,British Airways Shuttle,BA,United Kingdom,oneworld,Heathrow,London,United Kingdom
+UPS,YSSY,arrival,10,7,6,502.1,2026-10-19,2026-10-25,UPS Airlines,5X,United States,none,Sydney Kingsford Smith,Sydney,Australia
+EZY,LFPG,departure,128,83,7,60.7,2026-10-20,2026-10-26,easyJet,U2,United Kingdom,none,Charles de Gaulle,Paris,France
+AXB,OMDB,arrival,76,41,8,243.1,2026-10-19,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CES,RJTT,arrival,25,17,8,334.0,2026-10-19,2026-10-26,China Eastern,MU,China,SkyTeam,Haneda,Tokyo,Japan
+ITY,LFPG,arrival,44,25,7,87.8,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,Charles de Gaulle,Paris,France
+TKJ,OMDB,arrival,6,5,6,261.5,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+HKE,RJTT,departure,19,11,7,245.9,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+JZR,OMDB,departure,11,6,7,99.6,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+KLM,EGLL,departure,49,28,7,43.1,2026-10-20,2026-10-26,KLM Royal Dutch,KL,Netherlands,SkyTeam,Heathrow,London,United Kingdom
+LHX,EGLL,departure,42,14,7,66.9,2026-10-20,2026-10-26,Lufthansa Global Business Aviation,LH,Germany,Star Alliance,Heathrow,London,United Kingdom
+CEB,OMDB,departure,3,2,3,489.3,2026-10-22,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+N74,KJFK,arrival,3,2,2,33.7,2026-10-20,2026-10-22,,,,,John F Kennedy International,New York,United States
+SVA,OMDB,arrival,39,27,8,99.4,2026-10-19,2026-10-26,Saudia,SV,Saudi Arabia,SkyTeam,Dubai International,Dubai,United Arab Emirates
+ACA,EGLL,arrival,51,26,8,418.1,2026-10-19,2026-10-26,Air Canada,AC,Canada,Star Alliance,Heathrow,London,United Kingdom
+UAL,LFPG,departure,41,30,7,511.9,2026-10-20,2026-10-26,United Airlines,UA,United States,Star Alliance,Charles de Gaulle,Paris,France
+SKY,RJTT,arrival,264,30,8,80.2,2026-10-19,2026-10-26,Skymark Airlines,BC,Japan,none,Haneda,Tokyo,Japan
+THY,KJFK,arrival,24,20,8,590.7,2026-10-19,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,John F Kennedy International,New York,United States
+SEJ,OMDB,arrival,37,5,7,226.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+N40,KJFK,departure,7,3,5,54.1,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+EIN,EGLL,departure,133,15,7,56.3,2026-10-20,2026-10-26,Aer Lingus,EI,Ireland,none,Heathrow,London,United Kingdom
+SWT,LFPG,departure,25,6,5,85.2,2026-10-20,2026-10-24,,,,,Charles de Gaulle,Paris,France
+MEA,EGLL,departure,7,3,7,247.7,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+PGT,OMDB,departure,7,7,5,244.7,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+CPA,EGLL,departure,32,28,7,668.6,2026-10-20,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Heathrow,London,United Kingdom
+THA,RJTT,arrival,14,12,7,331.4,2026-10-20,2026-10-26,Thai Airways,TG,Thailand,Star Alliance,Haneda,Tokyo,Japan
+CPA,EGLL,arrival,36,30,8,824.5,2026-10-19,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Heathrow,London,United Kingdom
+HVN,LFPG,departure,10,7,6,869.9,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+TAR,EGLL,arrival,2,2,2,156.5,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+EVA,LFPG,departure,6,3,6,763.5,2026-10-20,2026-10-26,EVA Air,BR,Taiwan,Star Alliance,Charles de Gaulle,Paris,France
+TAY,KJFK,arrival,2,2,2,375.5,2026-10-21,2026-10-24,TNT Airways,3V,Belgium,none,John F Kennedy International,New York,United States
+UBT,KJFK,arrival,3,2,3,446.3,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+ETH,EGLL,departure,4,4,4,1312.8,2026-10-20,2026-10-24,Ethiopian Airlines,ET,Ethiopia,Star Alliance,Heathrow,London,United Kingdom
+GFA,LFPG,arrival,7,3,6,377.7,2026-10-19,2026-10-25,,,,,Charles de Gaulle,Paris,France
+AAL,KJFK,arrival,452,250,8,271.8,2026-10-19,2026-10-26,American Airlines,AA,United States,oneworld,John F Kennedy International,New York,United States
+DLH,EGLL,arrival,87,25,7,88.7,2026-10-20,2026-10-26,Lufthansa,LH,Germany,Star Alliance,Heathrow,London,United Kingdom
+AIC,OMDB,arrival,42,30,7,238.4,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Dubai International,Dubai,United Arab Emirates
+JBU,KJFK,departure,852,203,7,173.3,2026-10-20,2026-10-26,JetBlue Airways,B6,United States,none,John F Kennedy International,New York,United States
+UAL,RJTT,arrival,41,29,8,635.8,2026-10-19,2026-10-26,United Airlines,UA,United States,Star Alliance,Haneda,Tokyo,Japan
+QFA,YSSY,arrival,678,129,8,185.2,2026-10-19,2026-10-26,Qantas,QF,Australia,oneworld,Sydney Kingsford Smith,Sydney,Australia
+ASA,KJFK,departure,80,66,7,334.7,2026-10-20,2026-10-26,Alaska Airlines,AS,United States,oneworld,John F Kennedy International,New York,United States
+IGO,OMDB,arrival,92,43,8,232.7,2026-10-19,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+JZR,OMDB,arrival,15,7,7,53.7,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+EJU,LFPG,departure,186,44,7,96.5,2026-10-20,2026-10-26,easyJet Europe,EC,Austria,none,Charles de Gaulle,Paris,France
+CXA,KJFK,arrival,2,2,2,759.5,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+APJ,RJTT,arrival,21,17,7,107.3,2026-10-20,2026-10-26,Peach Aviation,MM,Japan,none,Haneda,Tokyo,Japan
+DLH,LFPG,departure,49,40,7,54.4,2026-10-20,2026-10-26,Lufthansa,LH,Germany,Star Alliance,Charles de Gaulle,Paris,France
+THY,EGLL,arrival,40,37,7,232.0,2026-10-20,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Heathrow,London,United Kingdom
+ELY,LFPG,departure,27,19,7,240.8,2026-10-20,2026-10-26,El Al,LY,Israel,none,Charles de Gaulle,Paris,France
+ETD,EGLL,arrival,28,14,8,424.6,2026-10-19,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,Heathrow,London,United Kingdom
+LBT,LFPG,departure,42,14,7,107.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+FDX,YSSY,departure,10,10,7,583.1,2026-10-20,2026-10-26,FedEx Express,FX,United States,none,Sydney Kingsford Smith,Sydney,Australia
+EVY,YSSY,departure,8,3,5,46.1,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+FDX,YSSY,arrival,10,10,7,704.2,2026-10-19,2026-10-25,FedEx Express,FX,United States,none,Sydney Kingsford Smith,Sydney,Australia
+ADZ,LFPG,arrival,5,1,5,65.4,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+VIR,EGLL,arrival,202,40,8,497.2,2026-10-19,2026-10-26,Virgin Atlantic,VS,United Kingdom,none,Heathrow,London,United Kingdom
+KAL,LFPG,departure,7,7,6,683.6,2026-10-20,2026-10-25,Korean Air,KE,South Korea,SkyTeam,Charles de Gaulle,Paris,France
+AUA,EGLL,departure,28,6,7,99.9,2026-10-20,2026-10-26,Austrian Airlines,OS,Austria,Star Alliance,Heathrow,London,United Kingdom
+SVA,LFPG,arrival,20,16,7,548.7,2026-10-19,2026-10-25,Saudia,SV,Saudi Arabia,SkyTeam,Charles de Gaulle,Paris,France
+ACA,EGLL,departure,49,26,7,454.5,2026-10-20,2026-10-26,Air Canada,AC,Canada,Star Alliance,Heathrow,London,United Kingdom
+LHX,EGLL,arrival,43,14,7,85.3,2026-10-20,2026-10-26,Lufthansa Global Business Aviation,LH,Germany,Star Alliance,Heathrow,London,United Kingdom
+JBU,LFPG,departure,14,7,7,481.9,2026-10-20,2026-10-26,JetBlue Airways,B6,United States,none,Charles de Gaulle,Paris,France
+AIZ,LFPG,departure,5,1,5,244.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ABQ,OMDB,arrival,23,10,7,158.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+AVA,LFPG,arrival,7,6,6,614.0,2026-10-19,2026-10-25,Avianca,AV,Colombia,Star Alliance,Charles de Gaulle,Paris,France
+CPA,YSSY,arrival,30,24,8,509.8,2026-10-19,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Sydney Kingsford Smith,Sydney,Australia
+MNB,KJFK,arrival,5,3,5,405.6,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+MSR,OMDB,departure,19,15,7,377.9,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+THT,LFPG,departure,5,3,5,662.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+REU,LFPG,departure,9,5,5,476.2,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+VIR,KJFK,arrival,42,18,8,443.4,2026-10-19,2026-10-26,Virgin Atlantic,VS,United Kingdom,none,John F Kennedy International,New York,United States
+SAS,LFPG,departure,54,44,7,103.6,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,Charles de Gaulle,Paris,France
+B65,RJTT,arrival,3,2,2,139.7,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+BAW,KJFK,arrival,62,30,8,441.0,2026-10-19,2026-10-26,British Airways,BA,United Kingdom,oneworld,John F Kennedy International,New York,United States
+EWG,EGLL,arrival,81,27,7,80.2,2026-10-20,2026-10-26,Eurowings,EW,Germany,none,Heathrow,London,United Kingdom
+AAR,RJTT,departure,28,8,7,122.3,2026-10-20,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,Haneda,Tokyo,Japan
+IBE,EGLL,arrival,58,27,7,114.4,2026-10-20,2026-10-26,Iberia,IB,Spain,oneworld,Heathrow,London,United Kingdom
+SIA,KJFK,departure,14,13,7,728.6,2026-10-20,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,John F Kennedy International,New York,United States
+TAR,LFPG,departure,7,6,5,97.3,2026-10-22,2026-10-26,,,,,Charles de Gaulle,Paris,France
+JA6,RJTT,departure,5,3,2,49.8,2026-10-20,2026-10-23,,,,,Haneda,Tokyo,Japan
+OMA,EGLL,departure,9,3,6,426.2,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+LNE,KJFK,departure,6,3,5,580.2,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+VLG,EGLL,departure,35,25,7,89.9,2026-10-20,2026-10-26,Vueling,VY,Spain,none,Heathrow,London,United Kingdom
+KLM,KJFK,departure,13,12,6,366.6,2026-10-20,2026-10-25,KLM Royal Dutch,KL,Netherlands,SkyTeam,John F Kennedy International,New York,United States
+SVA,EGLL,arrival,24,14,7,486.7,2026-10-20,2026-10-26,Saudia,SV,Saudi Arabia,SkyTeam,Heathrow,London,United Kingdom
+ASA,KJFK,arrival,86,71,8,303.7,2026-10-19,2026-10-26,Alaska Airlines,AS,United States,oneworld,John F Kennedy International,New York,United States
+AIC,EGLL,departure,41,20,7,545.8,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Heathrow,London,United Kingdom
+LXJ,KJFK,arrival,10,10,5,105.0,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+N38,KJFK,departure,7,1,4,26.3,2026-10-20,2026-10-23,,,,,John F Kennedy International,New York,United States
+ELY,KJFK,departure,19,12,6,562.0,2026-10-20,2026-10-26,El Al,LY,Israel,none,John F Kennedy International,New York,United States
+GLG,KJFK,departure,18,6,7,427.9,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+GPD,KJFK,arrival,1,1,1,25.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+KLM,LFPG,departure,36,27,7,46.3,2026-10-20,2026-10-26,KLM Royal Dutch,KL,Netherlands,SkyTeam,Charles de Gaulle,Paris,France
+AFR,KJFK,arrival,41,29,8,461.0,2026-10-19,2026-10-26,Air France,AF,France,SkyTeam,John F Kennedy International,New York,United States
+SVA,OMDB,departure,23,17,7,254.8,2026-10-20,2026-10-26,Saudia,SV,Saudi Arabia,SkyTeam,Dubai International,Dubai,United Arab Emirates
+CAL,KJFK,departure,10,8,5,604.7,2026-10-21,2026-10-26,China Airlines,CI,Taiwan,SkyTeam,John F Kennedy International,New York,United States
+AAR,KJFK,arrival,14,7,8,767.5,2026-10-19,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,John F Kennedy International,New York,United States
+SAS,EGLL,departure,93,37,7,102.6,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,Heathrow,London,United Kingdom
+SIA,YSSY,arrival,38,23,8,487.0,2026-10-19,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+AAR,KJFK,departure,13,7,7,932.2,2026-10-20,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,John F Kennedy International,New York,United States
+DLH,LFPG,arrival,49,40,7,59.9,2026-10-20,2026-10-26,Lufthansa,LH,Germany,Star Alliance,Charles de Gaulle,Paris,France
+AFR,EGLL,arrival,39,25,7,51.9,2026-10-20,2026-10-26,Air France,AF,France,SkyTeam,Heathrow,London,United Kingdom
+JAL,YSSY,arrival,7,4,7,538.4,2026-10-20,2026-10-26,Japan Airlines,JL,Japan,oneworld,Sydney Kingsford Smith,Sydney,Australia
+JAL,KJFK,arrival,14,7,7,717.4,2026-10-20,2026-10-26,Japan Airlines,JL,Japan,oneworld,John F Kennedy International,New York,United States
+TKF,EGLL,arrival,3,2,3,42.0,2026-10-21,2026-10-26,,,,,Heathrow,London,United Kingdom
+JA1,RJTT,arrival,6,3,4,57.2,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+AR2,YSSY,departure,16,1,6,28.8,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+KZR,OMDB,departure,15,10,7,242.9,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+MSR,EGLL,departure,19,13,7,298.7,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+HDB,OMDB,departure,5,1,5,78.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+TMN,YSSY,departure,12,4,7,347.8,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+SWR,KJFK,departure,19,9,7,412.1,2026-10-20,2026-10-26,Swiss International,LX,Switzerland,Star Alliance,John F Kennedy International,New York,United States
+AAL,RJTT,departure,28,16,7,624.3,2026-10-20,2026-10-26,American Airlines,AA,United States,oneworld,Haneda,Tokyo,Japan
+PE9,YSSY,departure,3,2,2,53.0,2026-10-23,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+N83,RJTT,departure,1,1,1,17.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+BCS,EGLL,departure,14,9,7,57.9,2026-10-20,2026-10-26,European Air Transport,QY,Belgium,none,Heathrow,London,United Kingdom
+EIN,LFPG,departure,34,21,7,82.2,2026-10-20,2026-10-26,Aer Lingus,EI,Ireland,none,Charles de Gaulle,Paris,France
+QTR,EGLL,arrival,51,35,8,416.9,2026-10-19,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Heathrow,London,United Kingdom
+HIM,OMDB,arrival,4,2,4,238.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+AIC,YSSY,arrival,7,6,7,693.9,2026-10-19,2026-10-25,Air India,AI,India,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+PHA,YSSY,arrival,5,2,5,173.8,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+HVN,EGLL,arrival,5,4,5,727.4,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+QTR,LFPG,departure,25,18,7,373.2,2026-10-20,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Charles de Gaulle,Paris,France
+N18,RJTT,arrival,1,1,1,45.0,2026-10-19,2026-10-19,,,,,Haneda,Tokyo,Japan
+ANZ,YSSY,arrival,49,19,7,179.0,2026-10-20,2026-10-26,Air New Zealand,NZ,New Zealand,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+SJO,RJTT,arrival,12,3,6,76.4,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+VLG,EGLL,arrival,36,25,7,103.7,2026-10-20,2026-10-26,Vueling,VY,Spain,none,Heathrow,London,United Kingdom
+GCR,EGLL,arrival,2,1,2,703.5,2026-10-21,2026-10-23,,,,,Heathrow,London,United Kingdom
+KAL,EGLL,arrival,9,8,7,837.8,2026-10-20,2026-10-26,Korean Air,KE,South Korea,SkyTeam,Heathrow,London,United Kingdom
+CHG,KJFK,departure,2,2,2,415.0,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+ETD,EGLL,departure,26,14,7,374.6,2026-10-20,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,Heathrow,London,United Kingdom
+BCS,KJFK,departure,4,3,4,413.8,2026-10-20,2026-10-25,European Air Transport,QY,Belgium,none,John F Kennedy International,New York,United States
+ICE,LFPG,arrival,14,12,7,183.3,2026-10-20,2026-10-26,Icelandair,FI,Iceland,none,Charles de Gaulle,Paris,France
+ATC,OMDB,departure,6,2,6,635.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+RBA,EGLL,departure,3,1,3,777.3,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+MAU,LFPG,arrival,7,3,6,691.7,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KQA,EGLL,arrival,7,3,7,529.6,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+CES,LFPG,arrival,11,7,6,874.5,2026-10-19,2026-10-25,China Eastern,MU,China,SkyTeam,Charles de Gaulle,Paris,France
+JA2,RJTT,arrival,11,2,5,68.9,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+ACI,LFPG,arrival,2,2,2,731.5,2026-10-21,2026-10-24,,,,,Charles de Gaulle,Paris,France
+BTI,LFPG,departure,22,16,7,139.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+REU,LFPG,arrival,19,6,7,418.9,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+LRC,KJFK,departure,11,9,7,237.2,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+PHA,YSSY,departure,5,2,5,160.6,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+SVA,EGLL,departure,21,12,6,312.0,2026-10-20,2026-10-25,Saudia,SV,Saudi Arabia,SkyTeam,Heathrow,London,United Kingdom
+UZB,LFPG,arrival,2,1,2,214.0,2026-10-20,2026-10-23,,,,,Charles de Gaulle,Paris,France
+IAW,OMDB,departure,7,5,6,346.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+HMZ,OMDB,arrival,2,2,2,188.5,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+TFX,YSSY,departure,11,4,4,67.5,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+EVA,EGLL,arrival,7,6,7,747.9,2026-10-20,2026-10-26,EVA Air,BR,Taiwan,Star Alliance,Heathrow,London,United Kingdom
+HVN,YSSY,departure,11,7,7,640.5,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+N55,YSSY,arrival,3,3,3,232.3,2026-10-21,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+ASY,YSSY,departure,1,1,1,36.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+RAM,KJFK,arrival,9,4,7,416.3,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+ABX,KJFK,arrival,10,7,7,93.8,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+KAL,KJFK,departure,20,14,7,804.7,2026-10-20,2026-10-26,Korean Air,KE,South Korea,SkyTeam,John F Kennedy International,New York,United States
+DLH,RJTT,arrival,14,11,8,706.4,2026-10-19,2026-10-26,Lufthansa,LH,Germany,Star Alliance,Haneda,Tokyo,Japan
+8PO,YSSY,departure,2,1,2,31.5,2026-10-23,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+SRR,LFPG,arrival,11,4,6,52.5,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ECY,YSSY,departure,6,1,3,24.3,2026-10-22,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+N81,RJTT,departure,1,1,1,683.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+AIC,RJTT,arrival,11,8,7,428.1,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Haneda,Tokyo,Japan
+LHX,LFPG,departure,21,13,7,61.9,2026-10-20,2026-10-26,Lufthansa Global Business Aviation,LH,Germany,Star Alliance,Charles de Gaulle,Paris,France
+ROU,EGLL,arrival,7,4,7,311.3,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+GTI,KJFK,departure,12,6,6,466.2,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AEE,OMDB,arrival,3,3,3,288.0,2026-10-23,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+ANA,YSSY,arrival,14,9,7,537.4,2026-10-20,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+TVS,LFPG,arrival,18,12,7,91.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KMM,LFPG,arrival,14,8,7,158.6,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CES,YSSY,arrival,16,16,7,729.4,2026-10-20,2026-10-26,China Eastern,MU,China,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+ETH,OMDB,arrival,20,16,7,172.5,2026-10-20,2026-10-26,Ethiopian Airlines,ET,Ethiopia,Star Alliance,Dubai International,Dubai,United Arab Emirates
+ABV,LFPG,arrival,4,1,4,65.5,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KQA,LFPG,arrival,5,4,5,514.6,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+CPA,LFPG,arrival,9,8,8,623.2,2026-10-19,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Charles de Gaulle,Paris,France
+WJA,EGLL,departure,6,4,6,496.5,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+CES,YSSY,departure,12,12,7,657.7,2026-10-20,2026-10-26,China Eastern,MU,China,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+SWR,KJFK,arrival,21,9,7,558.9,2026-10-20,2026-10-26,Swiss International,LX,Switzerland,Star Alliance,John F Kennedy International,New York,United States
+BWA,KJFK,arrival,23,9,8,239.2,2026-10-19,2026-10-26,,,,,John F Kennedy International,New York,United States
+VJT,RJTT,arrival,5,5,4,469.6,2026-10-21,2026-10-25,,,,,Haneda,Tokyo,Japan
+GFA,EGLL,arrival,14,6,8,386.6,2026-10-19,2026-10-26,,,,,Heathrow,London,United Kingdom
+RZO,LFPG,arrival,3,3,3,328.3,2026-10-20,2026-10-25,SCAT Airlines,DV,Kazakhstan,none,Charles de Gaulle,Paris,France
+DUB,OMDB,arrival,7,5,5,147.7,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+KMF,OMDB,arrival,9,5,6,65.9,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+VQN,YSSY,arrival,1,1,1,72.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+CLX,KJFK,departure,4,4,3,312.0,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+QTR,OMDB,departure,33,19,7,74.1,2026-10-20,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Dubai International,Dubai,United Arab Emirates
+VJA,KJFK,departure,3,3,2,74.0,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+LOG,EGLL,departure,33,5,7,68.6,2026-10-20,2026-10-26,Loganair,LM,United Kingdom,none,Heathrow,London,United Kingdom
+EC2,YSSY,departure,1,1,1,18.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N96,KJFK,departure,2,2,2,64.0,2026-10-22,2026-10-26,,,,,John F Kennedy International,New York,United States
+UAE,KJFK,departure,20,17,7,603.7,2026-10-20,2026-10-26,Emirates,EK,United Arab Emirates,none,John F Kennedy International,New York,United States
+BEL,LFPG,arrival,14,7,7,37.3,2026-10-20,2026-10-26,Brussels Airlines,SN,Belgium,Star Alliance,Charles de Gaulle,Paris,France
+ANG,YSSY,departure,2,2,2,528.0,2026-10-22,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+AMX,KJFK,arrival,17,15,8,253.5,2026-10-19,2026-10-26,,,,,John F Kennedy International,New York,United States
+BCS,KJFK,arrival,4,3,4,487.8,2026-10-20,2026-10-24,European Air Transport,QY,Belgium,none,John F Kennedy International,New York,United States
+JAL,LFPG,arrival,7,6,6,826.7,2026-10-20,2026-10-25,Japan Airlines,JL,Japan,oneworld,Charles de Gaulle,Paris,France
+ROU,EGLL,departure,7,5,7,392.4,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+TAP,EGLL,arrival,40,20,7,138.1,2026-10-20,2026-10-26,TAP Air Portugal,TP,Portugal,Star Alliance,Heathrow,London,United Kingdom
+TAI,KJFK,departure,8,7,7,289.9,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AFG,OMDB,arrival,6,1,6,103.2,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+KLM,KJFK,arrival,13,12,7,446.0,2026-10-20,2026-10-26,KLM Royal Dutch,KL,Netherlands,SkyTeam,John F Kennedy International,New York,United States
+JLK,YSSY,departure,4,1,3,52.5,2026-10-22,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+KAL,YSSY,arrival,7,5,6,583.4,2026-10-20,2026-10-25,Korean Air,KE,South Korea,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+RJA,OMDB,departure,19,10,7,182.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+ENT,LFPG,arrival,8,5,4,123.0,2026-10-23,2026-10-26,,,,,Charles de Gaulle,Paris,France
+AHY,EGLL,arrival,3,2,3,318.3,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+ANG,YSSY,arrival,3,2,3,386.7,2026-10-22,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+EJA,KJFK,departure,14,14,6,73.6,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AIC,YSSY,departure,7,6,7,750.7,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+ACA,RJTT,arrival,7,6,7,812.4,2026-10-19,2026-10-25,Air Canada,AC,Canada,Star Alliance,Haneda,Tokyo,Japan
+LGL,LFPG,departure,17,7,7,38.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+IBE,KJFK,arrival,16,13,8,470.1,2026-10-19,2026-10-26,Iberia,IB,Spain,oneworld,John F Kennedy International,New York,United States
+TFX,YSSY,arrival,11,4,4,111.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+LOT,KJFK,departure,9,3,7,443.6,2026-10-20,2026-10-26,LOT Polish Airlines,LO,Poland,Star Alliance,John F Kennedy International,New York,United States
+CCA,YSSY,departure,3,2,3,623.3,2026-10-20,2026-10-24,Air China,CA,China,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+MLM,RJTT,arrival,2,1,2,57.0,2026-10-20,2026-10-24,,,,,Haneda,Tokyo,Japan
+MAS,LFPG,departure,7,4,7,718.6,2026-10-20,2026-10-26,Malaysia Airlines,MH,Malaysia,oneworld,Charles de Gaulle,Paris,France
+VCJ,KJFK,arrival,1,1,1,398.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+DHX,OMDB,arrival,17,8,7,50.8,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+N8L,KJFK,arrival,1,1,1,58.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+TKJ,LFPG,arrival,13,12,7,210.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+FJL,OMDB,departure,4,2,2,137.0,2026-10-21,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+PIA,LFPG,departure,2,2,2,360.0,2026-10-23,2026-10-25,,,,,Charles de Gaulle,Paris,France
+ECY,YSSY,arrival,6,1,3,22.2,2026-10-22,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+AVA,KJFK,departure,29,22,7,322.3,2026-10-20,2026-10-26,Avianca,AV,Colombia,Star Alliance,John F Kennedy International,New York,United States
+N61,KJFK,departure,3,2,3,63.3,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+TGW,RJTT,departure,6,6,6,379.7,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+CCA,RJTT,departure,30,21,7,202.8,2026-10-20,2026-10-26,Air China,CA,China,Star Alliance,Haneda,Tokyo,Japan
+KNE,OMDB,arrival,11,10,6,136.2,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+AIC,LFPG,departure,9,8,6,514.7,2026-10-20,2026-10-25,Air India,AI,India,Star Alliance,Charles de Gaulle,Paris,France
+ICE,KJFK,departure,15,8,7,291.5,2026-10-20,2026-10-26,Icelandair,FI,Iceland,none,John F Kennedy International,New York,United States
+RJA,OMDB,arrival,16,8,7,151.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+OMA,OMDB,departure,19,13,7,125.5,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+IGO,EGLL,arrival,10,5,5,681.1,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+CSN,RJTT,arrival,21,18,7,259.9,2026-10-20,2026-10-26,China Southern,CZ,China,SkyTeam,Haneda,Tokyo,Japan
+SAS,EGLL,arrival,93,37,7,118.9,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,Heathrow,London,United Kingdom
+AFR,EGLL,departure,39,25,7,47.1,2026-10-20,2026-10-26,Air France,AF,France,SkyTeam,Heathrow,London,United Kingdom
+TVS,LFPG,departure,18,12,7,85.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KMM,EGLL,departure,15,6,7,159.5,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+AEE,EGLL,arrival,27,14,7,215.8,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+XAX,RJTT,arrival,7,5,7,400.6,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+AR2,YSSY,arrival,16,1,6,28.8,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+KAL,EGLL,departure,7,7,5,516.1,2026-10-20,2026-10-25,Korean Air,KE,South Korea,SkyTeam,Heathrow,London,United Kingdom
+LOT,LFPG,arrival,21,15,7,122.3,2026-10-20,2026-10-26,LOT Polish Airlines,LO,Poland,Star Alliance,Charles de Gaulle,Paris,France
+THA,EGLL,departure,6,5,5,656.2,2026-10-22,2026-10-26,Thai Airways,TG,Thailand,Star Alliance,Heathrow,London,United Kingdom
+ANZ,YSSY,departure,48,19,7,159.5,2026-10-20,2026-10-26,Air New Zealand,NZ,New Zealand,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+FJI,YSSY,arrival,11,6,7,786.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+POL,YSSY,arrival,3,1,1,31.3,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+AUA,EGLL,arrival,28,6,7,127.2,2026-10-20,2026-10-26,Austrian Airlines,OS,Austria,Star Alliance,Heathrow,London,United Kingdom
+NPT,LFPG,departure,5,2,5,56.6,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+SKP,YSSY,departure,14,2,6,45.8,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+JBU,EGLL,departure,21,9,7,458.2,2026-10-20,2026-10-26,JetBlue Airways,B6,United States,none,Heathrow,London,United Kingdom
+SAS,RJTT,arrival,6,5,6,726.7,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,Haneda,Tokyo,Japan
+KAL,RJTT,departure,28,7,7,116.6,2026-10-20,2026-10-26,Korean Air,KE,South Korea,SkyTeam,Haneda,Tokyo,Japan
+RWD,OMDB,arrival,2,2,2,23.5,2026-10-22,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+CAL,YSSY,departure,5,5,5,521.4,2026-10-21,2026-10-26,China Airlines,CI,Taiwan,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+SEJ,OMDB,departure,35,4,7,187.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CPA,RJTT,arrival,14,11,7,217.8,2026-10-20,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Haneda,Tokyo,Japan
+KAC,OMDB,arrival,17,12,7,104.6,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+MSC,LFPG,arrival,3,3,1,176.3,2026-10-24,2026-10-24,,,,,Charles de Gaulle,Paris,France
+CCA,LFPG,departure,9,6,6,543.8,2026-10-20,2026-10-25,Air China,CA,China,Star Alliance,Charles de Gaulle,Paris,France
+RJA,LFPG,arrival,9,6,7,281.9,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+N30,RJTT,departure,2,1,2,280.5,2026-10-21,2026-10-25,,,,,Haneda,Tokyo,Japan
+KAP,KJFK,departure,20,14,7,77.7,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+ITY,EGLL,arrival,14,10,7,141.3,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,Heathrow,London,United Kingdom
+CES,LFPG,departure,9,6,6,1034.0,2026-10-20,2026-10-25,China Eastern,MU,China,SkyTeam,Charles de Gaulle,Paris,France
+CES,RJTT,departure,23,17,7,357.7,2026-10-20,2026-10-26,China Eastern,MU,China,SkyTeam,Haneda,Tokyo,Japan
+QTR,LFPG,arrival,26,19,8,343.0,2026-10-19,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Charles de Gaulle,Paris,France
+CAL,EGLL,arrival,5,5,5,885.8,2026-10-20,2026-10-26,China Airlines,CI,Taiwan,SkyTeam,Heathrow,London,United Kingdom
+NSZ,LFPG,arrival,12,9,6,111.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ASL,EGLL,departure,7,6,7,132.6,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+TWB,YSSY,departure,7,5,7,603.7,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+AEA,KJFK,departure,5,5,5,369.0,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+BEL,EGLL,departure,20,13,7,42.1,2026-10-20,2026-10-26,Brussels Airlines,SN,Belgium,Star Alliance,Heathrow,London,United Kingdom
+OYA,OMDB,departure,1,1,1,308.0,2026-10-24,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+PE9,YSSY,arrival,3,2,2,64.7,2026-10-23,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+QTR,RJTT,arrival,7,7,6,623.4,2026-10-20,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Haneda,Tokyo,Japan
+VTF,YSSY,arrival,2,1,2,65.5,2026-10-24,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+KQA,OMDB,arrival,6,4,6,287.0,2026-10-19,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+ETD,KJFK,arrival,14,11,8,807.1,2026-10-19,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,John F Kennedy International,New York,United States
+SIF,OMDB,arrival,5,3,5,155.8,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+AAL,RJTT,arrival,28,16,8,756.3,2026-10-19,2026-10-26,American Airlines,AA,United States,oneworld,Haneda,Tokyo,Japan
+BBC,OMDB,departure,5,2,5,237.4,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+OMA,EGLL,arrival,9,3,6,571.6,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+N88,KJFK,arrival,1,1,1,15.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+AAR,EGLL,departure,6,5,6,703.2,2026-10-20,2026-10-25,Asiana Airlines,OZ,South Korea,Star Alliance,Heathrow,London,United Kingdom
+ETD,LFPG,arrival,20,17,8,407.1,2026-10-19,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,Charles de Gaulle,Paris,France
+VJC,YSSY,arrival,5,3,5,733.2,2026-10-20,2026-10-25,VietJet Air,VJ,Vietnam,none,Sydney Kingsford Smith,Sydney,Australia
+CPA,RJTT,departure,14,12,7,230.3,2026-10-20,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Haneda,Tokyo,Japan
+KMM,LFPG,departure,14,8,7,137.7,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+JLK,YSSY,arrival,6,1,3,58.2,2026-10-23,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+ANA,YSSY,departure,14,10,7,538.7,2026-10-20,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+CNS,KJFK,arrival,3,3,3,50.0,2026-10-23,2026-10-25,,,,,John F Kennedy International,New York,United States
+ACA,RJTT,departure,7,6,7,671.4,2026-10-20,2026-10-26,Air Canada,AC,Canada,Star Alliance,Haneda,Tokyo,Japan
+CSG,KJFK,departure,6,5,5,1058.8,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+ICE,EGLL,arrival,14,8,7,163.4,2026-10-20,2026-10-26,Icelandair,FI,Iceland,none,Heathrow,London,United Kingdom
+LPE,KJFK,arrival,10,7,7,623.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+HBJ,RJTT,departure,2,2,1,700.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+CKS,KJFK,arrival,7,6,5,371.4,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+KZR,EGLL,departure,3,2,3,293.7,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+N41,KJFK,departure,2,1,1,19.5,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+GOO,RJTT,arrival,5,1,4,56.4,2026-10-21,2026-10-25,,,,,Haneda,Tokyo,Japan
+CCA,KJFK,arrival,5,2,5,826.8,2026-10-19,2026-10-25,Air China,CA,China,Star Alliance,John F Kennedy International,New York,United States
+CXA,LFPG,arrival,3,2,3,1216.3,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+BBC,EGLL,arrival,5,3,5,628.4,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+BAW,RJTT,departure,14,12,7,822.6,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,Haneda,Tokyo,Japan
+N60,RJTT,departure,1,1,1,699.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+JA9,RJTT,arrival,2,2,2,81.0,2026-10-20,2026-10-21,,,,,Haneda,Tokyo,Japan
+HVN,YSSY,arrival,11,8,7,552.8,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+UZB,OMDB,departure,5,4,5,549.4,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+SVA,LFPG,departure,14,13,6,345.9,2026-10-20,2026-10-25,Saudia,SV,Saudi Arabia,SkyTeam,Charles de Gaulle,Paris,France
+VIV,KJFK,arrival,11,8,7,248.0,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+SXS,OMDB,arrival,4,4,4,229.8,2026-10-23,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CYP,OMDB,arrival,7,3,7,181.7,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+N11,KJFK,departure,1,1,1,100.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+PAL,RJTT,departure,14,11,7,244.5,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+ALK,YSSY,departure,4,2,4,1025.3,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+RAM,EGLL,arrival,9,6,7,162.1,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+N44,KJFK,arrival,1,1,1,44.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+MSR,LFPG,departure,11,6,6,217.5,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+AIH,KJFK,arrival,3,2,3,371.3,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+TLK,KJFK,arrival,1,1,1,61.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+CHZ,LFPG,departure,8,3,6,348.1,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+MXD,YSSY,arrival,12,6,7,541.1,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+CXA,YSSY,departure,7,5,7,932.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+AMX,KJFK,departure,15,13,7,258.7,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+QFA,LFPG,departure,3,3,3,731.3,2026-10-20,2026-10-24,Qantas,QF,Australia,oneworld,Charles de Gaulle,Paris,France
+BEL,KJFK,departure,6,5,6,381.0,2026-10-20,2026-10-25,Brussels Airlines,SN,Belgium,Star Alliance,John F Kennedy International,New York,United States
+CAL,KJFK,arrival,10,8,7,605.7,2026-10-20,2026-10-26,China Airlines,CI,Taiwan,SkyTeam,John F Kennedy International,New York,United States
+HZS,OMDB,arrival,1,1,1,69.0,2026-10-20,2026-10-20,,,,,Dubai International,Dubai,United Arab Emirates
+QQE,RJTT,arrival,3,3,2,341.0,2026-10-21,2026-10-23,,,,,Haneda,Tokyo,Japan
+DKH,YSSY,departure,3,2,3,630.0,2026-10-21,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+EXS,LFPG,departure,3,3,3,64.7,2026-10-22,2026-10-26,,,,,Charles de Gaulle,Paris,France
+EXV,YSSY,arrival,4,1,3,23.0,2026-10-19,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+MFX,OMDB,arrival,7,4,6,292.0,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+JAL,YSSY,departure,6,4,6,546.2,2026-10-20,2026-10-25,Japan Airlines,JL,Japan,oneworld,Sydney Kingsford Smith,Sydney,Australia
+N55,KJFK,arrival,5,1,2,20.2,2026-10-22,2026-10-23,,,,,John F Kennedy International,New York,United States
+SAS,KJFK,arrival,10,4,7,472.7,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,John F Kennedy International,New York,United States
+RAM,LFPG,arrival,24,19,7,169.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CXA,LFPG,departure,2,1,2,1081.5,2026-10-22,2026-10-24,,,,,Charles de Gaulle,Paris,France
+AVA,EGLL,departure,6,6,6,578.0,2026-10-20,2026-10-25,Avianca,AV,Colombia,Star Alliance,Heathrow,London,United Kingdom
+WP3,YSSY,arrival,2,1,2,30.0,2026-10-23,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+FDX,KJFK,arrival,19,17,7,116.6,2026-10-20,2026-10-26,FedEx Express,FX,United States,none,John F Kennedy International,New York,United States
+NBT,KJFK,departure,5,1,5,432.8,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+TAP,EGLL,departure,40,21,7,139.3,2026-10-20,2026-10-26,TAP Air Portugal,TP,Portugal,Star Alliance,Heathrow,London,United Kingdom
+UAE,LFPG,arrival,21,16,8,412.1,2026-10-19,2026-10-26,Emirates,EK,United Arab Emirates,none,Charles de Gaulle,Paris,France
+UPS,YSSY,departure,10,7,6,494.7,2026-10-20,2026-10-25,UPS Airlines,5X,United States,none,Sydney Kingsford Smith,Sydney,Australia
+TAY,KJFK,departure,2,2,2,378.5,2026-10-21,2026-10-25,TNT Airways,3V,Belgium,none,John F Kennedy International,New York,United States
+N19,RJTT,departure,1,1,1,483.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+N58,KJFK,departure,2,2,2,27.0,2026-10-23,2026-10-25,,,,,John F Kennedy International,New York,United States
+EVA,RJTT,arrival,12,2,7,154.2,2026-10-19,2026-10-26,EVA Air,BR,Taiwan,Star Alliance,Haneda,Tokyo,Japan
+ELX,KJFK,arrival,1,1,1,86.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+N12,LFPG,departure,1,1,1,627.0,2026-10-20,2026-10-20,,,,,Charles de Gaulle,Paris,France
+RZO,LFPG,departure,3,3,3,391.0,2026-10-20,2026-10-25,SCAT Airlines,DV,Kazakhstan,none,Charles de Gaulle,Paris,France
+DUB,OMDB,departure,7,5,6,182.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+KAY,LFPG,arrival,1,1,1,73.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+CHZ,KJFK,departure,1,1,1,454.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+NH7,RJTT,arrival,1,1,1,61.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+ALK,LFPG,departure,3,3,3,54.0,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+SAS,RJTT,departure,6,4,6,768.5,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,Haneda,Tokyo,Japan
+DAH,EGLL,arrival,4,3,4,142.5,2026-10-20,2026-10-25,Air Algerie,AH,Algeria,none,Heathrow,London,United Kingdom
+DU1,OMDB,arrival,4,2,3,23.3,2026-10-22,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+EJM,RJTT,departure,1,1,1,585.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+JA6,RJTT,arrival,7,4,4,69.1,2026-10-20,2026-10-23,,,,,Haneda,Tokyo,Japan
+KAC,EGLL,departure,7,6,6,455.0,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+UAE,RJTT,departure,6,5,6,659.7,2026-10-20,2026-10-25,Emirates,EK,United Arab Emirates,none,Haneda,Tokyo,Japan
+AAR,EGLL,arrival,7,6,7,843.7,2026-10-19,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,Heathrow,London,United Kingdom
+FYN,KJFK,arrival,1,1,1,25.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+NCA,KJFK,departure,2,2,2,406.0,2026-10-21,2026-10-24,Nippon Cargo Airlines,KZ,Japan,none,John F Kennedy International,New York,United States
+87X,YSSY,departure,2,1,2,43.0,2026-10-22,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+HIM,OMDB,departure,3,2,3,195.3,2026-10-21,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+T7T,OMDB,arrival,1,1,1,33.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+AHK,YSSY,arrival,1,1,1,524.0,2026-10-24,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+ICE,LFPG,departure,14,12,7,177.3,2026-10-20,2026-10-26,Icelandair,FI,Iceland,none,Charles de Gaulle,Paris,France
+CYP,LFPG,departure,4,3,4,223.5,2026-10-21,2026-10-26,,,,,Charles de Gaulle,Paris,France
+JA0,RJTT,departure,13,8,4,51.8,2026-10-21,2026-10-26,,,,,Haneda,Tokyo,Japan
+N92,KJFK,departure,10,2,5,53.5,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+EZY,LFPG,arrival,128,83,7,63.3,2026-10-20,2026-10-26,easyJet,U2,United Kingdom,none,Charles de Gaulle,Paris,France
+IBE,LFPG,arrival,38,21,7,98.5,2026-10-20,2026-10-26,Iberia,IB,Spain,oneworld,Charles de Gaulle,Paris,France
+DLH,KJFK,departure,18,10,6,407.6,2026-10-20,2026-10-25,Lufthansa,LH,Germany,Star Alliance,John F Kennedy International,New York,United States
+FIN,EGLL,arrival,28,19,7,230.6,2026-10-20,2026-10-26,Finnair,AY,Finland,oneworld,Heathrow,London,United Kingdom
+CEB,OMDB,arrival,5,5,4,535.2,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+QFA,EGLL,arrival,14,9,7,809.6,2026-10-19,2026-10-25,Qantas,QF,Australia,oneworld,Heathrow,London,United Kingdom
+FDX,LFPG,arrival,101,47,7,248.8,2026-10-20,2026-10-26,FedEx Express,FX,United States,none,Charles de Gaulle,Paris,France
+GFA,EGLL,departure,13,6,7,351.5,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+KLM,LFPG,arrival,36,27,7,47.0,2026-10-20,2026-10-26,KLM Royal Dutch,KL,Netherlands,SkyTeam,Charles de Gaulle,Paris,France
+CEB,YSSY,departure,6,4,6,467.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+PAL,YSSY,arrival,7,4,7,451.1,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+THA,RJTT,departure,14,12,7,344.6,2026-10-20,2026-10-26,Thai Airways,TG,Thailand,Star Alliance,Haneda,Tokyo,Japan
+ROT,LFPG,departure,14,5,7,140.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ATN,KJFK,arrival,14,10,7,89.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+QTR,OMDB,arrival,29,19,8,80.9,2026-10-19,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Dubai International,Dubai,United Arab Emirates
+UBG,OMDB,departure,10,4,7,285.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+MSR,OMDB,arrival,24,18,7,215.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CKS,KJFK,departure,7,6,5,120.9,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+PE2,YSSY,arrival,2,2,2,42.5,2026-10-22,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+ANA,LFPG,departure,6,5,5,758.7,2026-10-20,2026-10-25,All Nippon Airways,NH,Japan,Star Alliance,Charles de Gaulle,Paris,France
+FIN,LFPG,arrival,27,21,7,161.0,2026-10-20,2026-10-26,Finnair,AY,Finland,oneworld,Charles de Gaulle,Paris,France
+RAM,LFPG,departure,22,17,7,176.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+BOX,OMDB,departure,13,12,7,486.5,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+AFR,RJTT,arrival,17,14,8,751.4,2026-10-19,2026-10-26,Air France,AF,France,SkyTeam,Haneda,Tokyo,Japan
+MLM,RJTT,departure,2,1,2,231.0,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+CAL,RJTT,departure,12,3,7,190.7,2026-10-20,2026-10-26,China Airlines,CI,Taiwan,SkyTeam,Haneda,Tokyo,Japan
+CCA,RJTT,arrival,32,22,7,156.9,2026-10-20,2026-10-26,Air China,CA,China,Star Alliance,Haneda,Tokyo,Japan
+TGW,YSSY,arrival,11,8,7,412.5,2026-10-19,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+IAW,OMDB,arrival,9,5,7,58.7,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CFG,LFPG,arrival,17,12,7,59.2,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+LRC,KJFK,arrival,12,9,7,243.6,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+GES,RJTT,departure,1,1,1,115.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+SXS,LFPG,departure,10,10,7,180.5,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+GFA,OMDB,departure,27,17,7,46.8,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+WJA,LFPG,departure,10,6,7,453.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ASL,KJFK,departure,4,2,3,464.5,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+ICE,KJFK,arrival,15,8,8,329.6,2026-10-19,2026-10-26,Icelandair,FI,Iceland,none,John F Kennedy International,New York,United States
+UAL,YSSY,departure,13,11,7,774.9,2026-10-20,2026-10-26,United Airlines,UA,United States,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+AHY,LFPG,departure,3,3,3,675.3,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+MEA,LFPG,departure,12,8,7,225.9,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+SIA,LFPG,arrival,10,9,8,726.1,2026-10-19,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Charles de Gaulle,Paris,France
+CES,EGLL,departure,3,3,3,669.3,2026-10-20,2026-10-24,China Eastern,MU,China,SkyTeam,Heathrow,London,United Kingdom
+FYC,OMDB,departure,3,2,3,127.7,2026-10-24,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+EVA,KJFK,arrival,8,6,6,717.0,2026-10-19,2026-10-25,EVA Air,BR,Taiwan,Star Alliance,John F Kennedy International,New York,United States
+IBE,LFPG,departure,38,22,7,96.6,2026-10-20,2026-10-26,Iberia,IB,Spain,oneworld,Charles de Gaulle,Paris,France
+N43,KJFK,departure,1,1,1,20.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+ETH,LFPG,arrival,5,5,5,443.0,2026-10-19,2026-10-26,Ethiopian Airlines,ET,Ethiopia,Star Alliance,Charles de Gaulle,Paris,France
+EVA,KJFK,departure,8,6,6,846.4,2026-10-20,2026-10-26,EVA Air,BR,Taiwan,Star Alliance,John F Kennedy International,New York,United States
+N84,KJFK,arrival,30,1,6,27.3,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+LOT,EGLL,departure,18,12,7,117.1,2026-10-20,2026-10-26,LOT Polish Airlines,LO,Poland,Star Alliance,Heathrow,London,United Kingdom
+GFA,OMDB,arrival,29,18,7,52.0,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+DKH,RJTT,arrival,3,3,3,81.0,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+EIN,KJFK,departure,26,15,7,334.6,2026-10-20,2026-10-26,Aer Lingus,EI,Ireland,none,John F Kennedy International,New York,United States
+SEH,LFPG,departure,11,6,7,175.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CHG,KJFK,arrival,2,2,2,443.0,2026-10-21,2026-10-23,,,,,John F Kennedy International,New York,United States
+KAL,YSSY,departure,7,5,7,582.4,2026-10-20,2026-10-26,Korean Air,KE,South Korea,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+CSH,RJTT,departure,13,6,7,95.5,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+ALK,LFPG,arrival,3,3,3,804.0,2026-10-20,2026-10-24,,,,,Charles de Gaulle,Paris,France
+DAL,RJTT,departure,42,32,7,587.5,2026-10-20,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Haneda,Tokyo,Japan
+SIA,EGLL,departure,26,22,7,744.3,2026-10-20,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Heathrow,London,United Kingdom
+BRU,OMDB,departure,3,2,3,609.3,2026-10-20,2026-10-23,,,,,Dubai International,Dubai,United Arab Emirates
+AIZ,KJFK,arrival,5,2,5,694.2,2026-10-19,2026-10-25,,,,,John F Kennedy International,New York,United States
+GLG,KJFK,arrival,18,6,7,432.2,2026-10-19,2026-10-25,,,,,John F Kennedy International,New York,United States
+UAE,LFPG,departure,20,16,7,416.5,2026-10-20,2026-10-26,Emirates,EK,United Arab Emirates,none,Charles de Gaulle,Paris,France
+CEB,YSSY,arrival,6,5,6,456.7,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+KZR,OMDB,arrival,17,11,7,320.9,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+BOX,OMDB,arrival,16,13,7,431.8,2026-10-19,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+TAI,KJFK,arrival,9,8,7,240.8,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+THA,LFPG,departure,5,5,5,639.8,2026-10-20,2026-10-26,Thai Airways,TG,Thailand,Star Alliance,Charles de Gaulle,Paris,France
+CNK,RJTT,departure,1,1,1,107.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+SKP,YSSY,arrival,16,2,6,78.4,2026-10-19,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+KZR,EGLL,arrival,3,2,3,579.0,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+VLG,LFPG,arrival,20,17,7,94.2,2026-10-20,2026-10-26,Vueling,VY,Spain,none,Charles de Gaulle,Paris,France
+GOO,RJTT,departure,5,1,4,56.4,2026-10-21,2026-10-25,,,,,Haneda,Tokyo,Japan
+SRR,LFPG,departure,10,3,5,54.6,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ACA,YSSY,arrival,8,5,7,824.4,2026-10-20,2026-10-26,Air Canada,AC,Canada,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+KAC,LFPG,departure,6,3,6,252.2,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+LZB,LFPG,departure,7,4,7,131.6,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+LNE,KJFK,arrival,6,3,6,520.5,2026-10-19,2026-10-25,,,,,John F Kennedy International,New York,United States
+MAS,EGLL,arrival,12,5,8,784.3,2026-10-19,2026-10-26,Malaysia Airlines,MH,Malaysia,oneworld,Heathrow,London,United Kingdom
+TAM,LFPG,departure,7,5,7,681.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+MAS,YSSY,departure,21,13,7,510.9,2026-10-20,2026-10-26,Malaysia Airlines,MH,Malaysia,oneworld,Sydney Kingsford Smith,Sydney,Australia
+CSH,RJTT,arrival,14,7,7,170.6,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+BBC,OMDB,arrival,5,2,5,298.8,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+ABR,LFPG,arrival,12,6,5,97.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+LOT,LFPG,departure,21,15,7,106.1,2026-10-20,2026-10-26,LOT Polish Airlines,LO,Poland,Star Alliance,Charles de Gaulle,Paris,France
+GFA,LFPG,departure,7,3,7,380.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ELY,EGLL,arrival,12,10,7,396.3,2026-10-20,2026-10-26,El Al,LY,Israel,none,Heathrow,London,United Kingdom
+ADZ,LFPG,departure,5,1,5,148.4,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+SIA,KJFK,arrival,14,13,7,831.2,2026-10-20,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,John F Kennedy International,New York,United States
+ROT,LFPG,arrival,14,5,7,163.7,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+RPA,KJFK,departure,287,103,7,67.4,2026-10-20,2026-10-26,Republic Airways,YX,United States,none,John F Kennedy International,New York,United States
+SWR,LFPG,departure,28,21,7,52.5,2026-10-20,2026-10-26,Swiss International,LX,Switzerland,Star Alliance,Charles de Gaulle,Paris,France
+MEA,LFPG,arrival,14,8,7,258.4,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+SIA,RJTT,departure,21,18,7,390.0,2026-10-20,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Haneda,Tokyo,Japan
+TAY,LFPG,arrival,102,30,7,92.5,2026-10-19,2026-10-26,TNT Airways,3V,Belgium,none,Charles de Gaulle,Paris,France
+SEI,YSSY,departure,2,1,2,19.0,2026-10-23,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+DHX,OMDB,departure,18,8,7,100.1,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+N48,KJFK,arrival,2,1,1,38.5,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+IBE,KJFK,departure,15,13,7,378.2,2026-10-20,2026-10-26,Iberia,IB,Spain,oneworld,John F Kennedy International,New York,United States
+SIA,YSSY,departure,37,22,7,450.7,2026-10-20,2026-10-26,Singapore Airlines,SQ,Singapore,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+SAS,LFPG,arrival,54,44,7,113.7,2026-10-20,2026-10-26,Scandinavian Airlines,SK,Scandinavia,Star Alliance,Charles de Gaulle,Paris,France
+UPS,KJFK,departure,20,20,6,96.3,2026-10-20,2026-10-25,UPS Airlines,5X,United States,none,John F Kennedy International,New York,United States
+ASA,RJTT,departure,14,12,7,411.2,2026-10-20,2026-10-26,Alaska Airlines,AS,United States,oneworld,Haneda,Tokyo,Japan
+RSC,YSSY,departure,10,3,5,14.7,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+JA7,RJTT,departure,3,3,3,40.0,2026-10-20,2026-10-23,,,,,Haneda,Tokyo,Japan
+JA0,RJTT,arrival,15,8,5,52.0,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+BWA,KJFK,departure,22,9,7,241.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+LOT,EGLL,arrival,19,12,7,135.6,2026-10-20,2026-10-26,LOT Polish Airlines,LO,Poland,Star Alliance,Heathrow,London,United Kingdom
+N86,KJFK,arrival,1,1,1,94.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+RJA,LFPG,departure,9,6,7,251.2,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+TCV,LFPG,departure,1,1,1,1514.0,2026-10-22,2026-10-22,,,,,Charles de Gaulle,Paris,France
+EVY,YSSY,arrival,8,3,4,44.1,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+CSN,EGLL,departure,9,8,5,604.8,2026-10-20,2026-10-24,China Southern,CZ,China,SkyTeam,Heathrow,London,United Kingdom
+ANA,EGLL,arrival,7,4,7,823.7,2026-10-20,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,Heathrow,London,United Kingdom
+CPA,LFPG,departure,8,7,7,672.9,2026-10-20,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,Charles de Gaulle,Paris,France
+QFA,KJFK,arrival,5,5,4,701.8,2026-10-21,2026-10-25,Qantas,QF,Australia,oneworld,John F Kennedy International,New York,United States
+OCN,LFPG,arrival,2,2,2,53.0,2026-10-20,2026-10-22,,,,,Charles de Gaulle,Paris,France
+JA2,RJTT,departure,11,2,5,68.2,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+PAL,YSSY,departure,7,4,7,457.6,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+BEL,LFPG,departure,14,7,7,32.5,2026-10-20,2026-10-26,Brussels Airlines,SN,Belgium,Star Alliance,Charles de Gaulle,Paris,France
+N69,KJFK,departure,15,1,5,29.1,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+CTN,LFPG,arrival,12,5,7,108.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KAL,KJFK,arrival,21,14,8,618.2,2026-10-19,2026-10-26,Korean Air,KE,South Korea,SkyTeam,John F Kennedy International,New York,United States
+BEL,KJFK,arrival,7,5,7,472.0,2026-10-20,2026-10-26,Brussels Airlines,SN,Belgium,Star Alliance,John F Kennedy International,New York,United States
+WJA,EGLL,arrival,6,4,6,485.0,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+N48,KJFK,departure,2,1,1,20.5,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+SWT,LFPG,arrival,27,8,6,83.5,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+TAP,KJFK,departure,6,5,6,371.0,2026-10-21,2026-10-26,TAP Air Portugal,TP,Portugal,Star Alliance,John F Kennedy International,New York,United States
+N27,KJFK,arrival,3,2,2,20.7,2026-10-20,2026-10-21,,,,,John F Kennedy International,New York,United States
+ELY,EGLL,departure,10,8,6,241.1,2026-10-20,2026-10-26,El Al,LY,Israel,none,Heathrow,London,United Kingdom
+NSQ,YSSY,arrival,1,1,1,15.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+UAE,EGLL,departure,39,32,7,380.0,2026-10-20,2026-10-26,Emirates,EK,United Arab Emirates,none,Heathrow,London,United Kingdom
+TWB,LFPG,arrival,3,2,3,844.7,2026-10-21,2026-10-26,,,,,Charles de Gaulle,Paris,France
+MSR,KJFK,arrival,6,4,6,638.5,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+CAL,RJTT,arrival,13,3,7,159.0,2026-10-20,2026-10-26,China Airlines,CI,Taiwan,SkyTeam,Haneda,Tokyo,Japan
+N83,RJTT,arrival,1,1,1,54.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+MNS,LFPG,arrival,2,1,2,181.0,2026-10-22,2026-10-24,,,,,Charles de Gaulle,Paris,France
+MSR,KJFK,departure,5,4,5,548.4,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+ATN,KJFK,departure,13,9,6,98.5,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+AKX,RJTT,departure,3,3,3,61.0,2026-10-23,2026-10-26,,,,,Haneda,Tokyo,Japan
+MEA,EGLL,arrival,7,3,7,295.3,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+SVA,KJFK,arrival,10,5,7,650.5,2026-10-20,2026-10-26,Saudia,SV,Saudi Arabia,SkyTeam,John F Kennedy International,New York,United States
+THY,OMDB,departure,24,23,7,258.6,2026-10-20,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Dubai International,Dubai,United Arab Emirates
+FAD,OMDB,arrival,3,3,3,64.7,2026-10-20,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+PGT,LFPG,departure,6,5,4,175.7,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+PAL,RJTT,arrival,14,11,7,226.1,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+BAW,RJTT,arrival,14,11,8,768.4,2026-10-19,2026-10-26,British Airways,BA,United Kingdom,oneworld,Haneda,Tokyo,Japan
+LJY,KJFK,arrival,1,1,1,64.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+VJT,OMDB,arrival,6,5,4,210.0,2026-10-22,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CPA,KJFK,arrival,27,21,8,756.3,2026-10-19,2026-10-26,Cathay Pacific,CX,Hong Kong,oneworld,John F Kennedy International,New York,United States
+CCA,EGLL,arrival,16,12,7,573.9,2026-10-20,2026-10-26,Air China,CA,China,Star Alliance,Heathrow,London,United Kingdom
+YEO,YSSY,departure,2,1,2,36.5,2026-10-22,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+XAX,RJTT,departure,7,5,7,411.7,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+UBT,KJFK,departure,3,2,3,366.3,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+AM6,YSSY,arrival,1,1,1,605.0,2026-10-22,2026-10-22,,,,,Sydney Kingsford Smith,Sydney,Australia
+UZB,OMDB,arrival,7,6,5,421.0,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+N27,KJFK,departure,3,2,2,24.7,2026-10-20,2026-10-21,,,,,John F Kennedy International,New York,United States
+ANA,EGLL,departure,6,4,6,792.5,2026-10-20,2026-10-25,All Nippon Airways,NH,Japan,Star Alliance,Heathrow,London,United Kingdom
+KOW,KJFK,arrival,2,2,2,176.5,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+ALK,OMDB,departure,6,4,6,340.8,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+QTR,YSSY,departure,8,8,7,736.4,2026-10-20,2026-10-26,Qatar Airways,QR,Qatar,oneworld,Sydney Kingsford Smith,Sydney,Australia
+AUR,LFPG,departure,1,1,1,62.0,2026-10-26,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CCA,EGLL,departure,13,10,6,507.5,2026-10-20,2026-10-25,Air China,CA,China,Star Alliance,Heathrow,London,United Kingdom
+RMX,LFPG,departure,1,1,1,30.0,2026-10-21,2026-10-21,,,,,Charles de Gaulle,Paris,France
+AAL,YSSY,departure,6,6,5,793.7,2026-10-20,2026-10-26,American Airlines,AA,United States,oneworld,Sydney Kingsford Smith,Sydney,Australia
+AAL,LFPG,departure,37,28,7,499.5,2026-10-20,2026-10-26,American Airlines,AA,United States,oneworld,Charles de Gaulle,Paris,France
+ANA,KJFK,departure,13,7,7,845.8,2026-10-20,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,John F Kennedy International,New York,United States
+TLK,KJFK,departure,1,1,1,57.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+AMX,LFPG,departure,9,7,6,667.1,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+EIN,KJFK,arrival,28,15,8,421.7,2026-10-19,2026-10-26,Aer Lingus,EI,Ireland,none,John F Kennedy International,New York,United States
+AIZ,KJFK,departure,5,2,5,592.0,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+KNE,OMDB,departure,11,11,7,53.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CHZ,KJFK,arrival,1,1,1,457.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+ANA,KJFK,arrival,14,7,8,736.8,2026-10-19,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,John F Kennedy International,New York,United States
+PIA,OMDB,arrival,12,6,7,211.6,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+ALK,YSSY,arrival,4,2,3,759.0,2026-10-19,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+87X,YSSY,arrival,1,1,1,71.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+KMM,EGLL,arrival,15,6,7,195.9,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+ABR,LFPG,departure,12,4,4,89.2,2026-10-20,2026-10-23,,,,,Charles de Gaulle,Paris,France
+DLH,RJTT,departure,14,11,7,818.6,2026-10-20,2026-10-26,Lufthansa,LH,Germany,Star Alliance,Haneda,Tokyo,Japan
+GIA,RJTT,arrival,6,3,6,444.2,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+EVA,EGLL,departure,6,5,6,722.0,2026-10-20,2026-10-25,EVA Air,BR,Taiwan,Star Alliance,Heathrow,London,United Kingdom
+EWG,LFPG,arrival,9,6,6,79.4,2026-10-20,2026-10-26,Eurowings,EW,Germany,none,Charles de Gaulle,Paris,France
+THY,OMDB,arrival,25,23,8,236.4,2026-10-19,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Dubai International,Dubai,United Arab Emirates
+UAE,YSSY,departure,28,20,7,638.2,2026-10-20,2026-10-26,Emirates,EK,United Arab Emirates,none,Sydney Kingsford Smith,Sydney,Australia
+CTN,LFPG,departure,12,5,7,86.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+AAR,YSSY,departure,6,3,6,588.7,2026-10-20,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+AIP,KJFK,departure,1,1,1,20.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+AAR,LFPG,departure,4,3,4,679.8,2026-10-21,2026-10-25,Asiana Airlines,OZ,South Korea,Star Alliance,Charles de Gaulle,Paris,France
+N44,KJFK,departure,1,1,1,51.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+AIC,KJFK,departure,10,7,5,796.9,2026-10-21,2026-10-25,Air India,AI,India,Star Alliance,John F Kennedy International,New York,United States
+ISR,KJFK,arrival,4,2,4,694.0,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+THA,LFPG,arrival,5,5,5,701.2,2026-10-19,2026-10-25,Thai Airways,TG,Thailand,Star Alliance,Charles de Gaulle,Paris,France
+CHH,YSSY,arrival,3,2,3,461.3,2026-10-19,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N88,YSSY,arrival,3,3,2,263.3,2026-10-23,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+SJ4,RJTT,arrival,1,1,1,94.0,2026-10-26,2026-10-26,,,,,Haneda,Tokyo,Japan
+LXJ,KJFK,departure,9,9,4,56.8,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+ETD,YSSY,arrival,9,6,8,754.4,2026-10-19,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,Sydney Kingsford Smith,Sydney,Australia
+ASL,EGLL,arrival,7,6,7,164.1,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+BNL,OMDB,departure,1,1,1,231.0,2026-10-23,2026-10-23,,,,,Dubai International,Dubai,United Arab Emirates
+SXS,LFPG,arrival,10,10,7,209.2,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+MNB,KJFK,departure,5,3,5,453.0,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+DKH,YSSY,arrival,4,3,4,722.3,2026-10-21,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+ITY,EGLL,departure,13,9,7,114.2,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,Heathrow,London,United Kingdom
+VTM,YSSY,arrival,1,1,1,63.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+AAR,YSSY,arrival,7,3,7,589.9,2026-10-19,2026-10-26,Asiana Airlines,OZ,South Korea,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+ASL,LFPG,arrival,14,11,7,129.9,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+EJA,KJFK,arrival,13,13,7,90.4,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+GCR,YSSY,arrival,2,2,2,545.0,2026-10-19,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+TAM,EGLL,arrival,7,6,7,639.6,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+ETD,LFPG,departure,19,16,7,394.9,2026-10-20,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,Charles de Gaulle,Paris,France
+EJM,KJFK,arrival,3,3,2,94.0,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+DHK,KJFK,arrival,5,3,5,448.4,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+FIN,EGLL,departure,28,18,7,140.9,2026-10-20,2026-10-26,Finnair,AY,Finland,oneworld,Heathrow,London,United Kingdom
+CHZ,LFPG,arrival,9,3,7,345.6,2026-10-19,2026-10-26,,,,,Charles de Gaulle,Paris,France
+PE7,YSSY,arrival,2,2,2,46.5,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+AAL,YSSY,arrival,7,7,7,848.1,2026-10-20,2026-10-26,American Airlines,AA,United States,oneworld,Sydney Kingsford Smith,Sydney,Australia
+LAN,KJFK,arrival,7,6,5,1098.1,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+EXY,YSSY,departure,10,1,4,21.9,2026-10-20,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+HVN,LFPG,arrival,11,7,7,738.8,2026-10-19,2026-10-25,,,,,Charles de Gaulle,Paris,France
+JRE,KJFK,arrival,3,3,2,56.0,2026-10-20,2026-10-22,,,,,John F Kennedy International,New York,United States
+AHY,LFPG,arrival,3,3,3,324.7,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+LZB,LFPG,arrival,7,4,7,162.7,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+DWC,OMDB,departure,1,1,1,194.0,2026-10-23,2026-10-23,,,,,Dubai International,Dubai,United Arab Emirates
+XWZ,YSSY,arrival,15,1,6,39.8,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+JAF,LFPG,departure,1,1,1,130.0,2026-10-22,2026-10-22,,,,,Charles de Gaulle,Paris,France
+AFL,OMDB,arrival,16,12,6,356.9,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+JL2,RJTT,arrival,1,1,1,40.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+RJA,EGLL,arrival,7,2,7,295.4,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+DBU,RJTT,arrival,1,1,1,401.0,2026-10-26,2026-10-26,,,,,Haneda,Tokyo,Japan
+KAC,LFPG,arrival,7,4,6,624.6,2026-10-19,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ASL,KJFK,arrival,4,2,4,575.3,2026-10-22,2026-10-25,,,,,John F Kennedy International,New York,United States
+RWD,LFPG,departure,3,1,2,57.3,2026-10-22,2026-10-24,,,,,Charles de Gaulle,Paris,France
+GIA,YSSY,arrival,10,6,7,793.7,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+NBT,KJFK,arrival,5,1,5,531.2,2026-10-19,2026-10-24,,,,,John F Kennedy International,New York,United States
+AP7,YSSY,arrival,1,1,1,62.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N62,KJFK,arrival,3,2,2,59.3,2026-10-24,2026-10-25,,,,,John F Kennedy International,New York,United States
+APJ,RJTT,departure,20,16,7,138.8,2026-10-20,2026-10-26,Peach Aviation,MM,Japan,none,Haneda,Tokyo,Japan
+TGW,YSSY,departure,11,8,7,462.5,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+ENT,LFPG,departure,7,4,4,122.3,2026-10-23,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ICL,KJFK,arrival,5,3,5,543.4,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+NOZ,LFPG,departure,11,10,7,107.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+TVF,LFPG,arrival,8,8,3,151.0,2026-10-23,2026-10-26,Transavia France,TO,France,none,Charles de Gaulle,Paris,France
+UZB,KJFK,departure,4,3,4,1292.8,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+SMR,OMDB,departure,1,1,1,135.0,2026-10-20,2026-10-20,,,,,Dubai International,Dubai,United Arab Emirates
+AVA,EGLL,arrival,7,6,7,545.3,2026-10-20,2026-10-26,Avianca,AV,Colombia,Star Alliance,Heathrow,London,United Kingdom
+FGK,LFPG,departure,1,1,1,26.0,2026-10-26,2026-10-26,,,,,Charles de Gaulle,Paris,France
+AFR,RJTT,departure,16,14,7,830.9,2026-10-20,2026-10-26,Air France,AF,France,SkyTeam,Haneda,Tokyo,Japan
+KMF,OMDB,departure,3,2,3,173.7,2026-10-21,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+CSN,EGLL,arrival,16,13,7,687.6,2026-10-20,2026-10-26,China Southern,CZ,China,SkyTeam,Heathrow,London,United Kingdom
+QFA,EGLL,departure,12,9,6,869.8,2026-10-20,2026-10-25,Qantas,QF,Australia,oneworld,Heathrow,London,United Kingdom
+ETH,OMDB,departure,20,16,7,360.1,2026-10-20,2026-10-26,Ethiopian Airlines,ET,Ethiopia,Star Alliance,Dubai International,Dubai,United Arab Emirates
+AIZ,LFPG,arrival,5,1,5,267.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+UZB,KJFK,arrival,4,3,4,1031.3,2026-10-19,2026-10-24,,,,,John F Kennedy International,New York,United States
+N38,KJFK,arrival,4,1,2,27.5,2026-10-21,2026-10-23,,,,,John F Kennedy International,New York,United States
+FKB,YSSY,departure,1,1,1,38.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+OMA,LFPG,departure,3,2,3,523.7,2026-10-22,2026-10-25,,,,,Charles de Gaulle,Paris,France
+VJC,YSSY,departure,5,3,5,630.0,2026-10-21,2026-10-26,VietJet Air,VJ,Vietnam,none,Sydney Kingsford Smith,Sydney,Australia
+ABX,KJFK,departure,12,8,7,85.9,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AIC,KJFK,arrival,13,8,7,574.3,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,John F Kennedy International,New York,United States
+LPE,KJFK,departure,10,7,7,410.0,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AVA,LFPG,departure,7,6,7,762.7,2026-10-20,2026-10-26,Avianca,AV,Colombia,Star Alliance,Charles de Gaulle,Paris,France
+ETD,YSSY,departure,8,6,7,846.5,2026-10-20,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,Sydney Kingsford Smith,Sydney,Australia
+CKK,KJFK,departure,2,2,2,867.0,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+CSC,YSSY,departure,3,3,3,533.7,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+VJT,RJTT,departure,4,4,4,205.0,2026-10-21,2026-10-24,,,,,Haneda,Tokyo,Japan
+BAW,YSSY,departure,7,6,7,466.9,2026-10-20,2026-10-26,British Airways,BA,United Kingdom,oneworld,Sydney Kingsford Smith,Sydney,Australia
+XLJ,KJFK,arrival,1,1,1,168.0,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+LOT,KJFK,arrival,9,3,7,518.9,2026-10-19,2026-10-25,LOT Polish Airlines,LO,Poland,Star Alliance,John F Kennedy International,New York,United States
+MFU,OMDB,arrival,1,1,1,154.0,2026-10-26,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+MNS,LFPG,departure,2,1,2,141.0,2026-10-22,2026-10-24,,,,,Charles de Gaulle,Paris,France
+UAF,OMDB,departure,3,2,3,224.0,2026-10-23,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+QTR,YSSY,arrival,9,9,7,783.4,2026-10-19,2026-10-25,Qatar Airways,QR,Qatar,oneworld,Sydney Kingsford Smith,Sydney,Australia
+ETD,KJFK,departure,14,11,7,701.9,2026-10-20,2026-10-26,Etihad Airways,EY,United Arab Emirates,none,John F Kennedy International,New York,United States
+WP3,YSSY,departure,2,1,2,33.0,2026-10-23,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+ALK,EGLL,departure,7,3,6,671.1,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+JA9,RJTT,departure,2,2,2,92.0,2026-10-21,2026-10-22,,,,,Haneda,Tokyo,Japan
+ANZ,KJFK,departure,3,2,3,981.7,2026-10-20,2026-10-25,Air New Zealand,NZ,New Zealand,Star Alliance,John F Kennedy International,New York,United States
+PIA,OMDB,departure,12,6,6,132.1,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+LIF,YSSY,departure,2,1,2,17.5,2026-10-20,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+KAC,EGLL,arrival,9,6,7,288.6,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+RRP,KJFK,departure,1,1,1,64.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+ASP,KJFK,arrival,2,2,2,71.0,2026-10-22,2026-10-24,,,,,John F Kennedy International,New York,United States
+AEE,LFPG,departure,21,14,7,165.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ITY,RJTT,arrival,7,6,7,706.4,2026-10-19,2026-10-25,ITA Airways,AZ,Italy,SkyTeam,Haneda,Tokyo,Japan
+AMX,LFPG,arrival,10,8,6,577.4,2026-10-19,2026-10-26,,,,,Charles de Gaulle,Paris,France
+MSR,LFPG,arrival,14,7,7,360.9,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+PE2,YSSY,departure,2,2,2,26.5,2026-10-21,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+SJO,RJTT,departure,13,3,7,76.9,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+ETH,KJFK,departure,3,3,3,1143.7,2026-10-20,2026-10-25,Ethiopian Airlines,ET,Ethiopia,Star Alliance,John F Kennedy International,New York,United States
+CSN,YSSY,departure,19,12,7,536.8,2026-10-20,2026-10-26,China Southern,CZ,China,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+JAL,KJFK,departure,13,8,7,838.6,2026-10-20,2026-10-26,Japan Airlines,JL,Japan,oneworld,John F Kennedy International,New York,United States
+THY,LFPG,departure,49,43,7,166.7,2026-10-20,2026-10-26,Turkish Airlines,TK,Turkey,Star Alliance,Charles de Gaulle,Paris,France
+VJC,RJTT,arrival,7,4,7,360.0,2026-10-20,2026-10-26,VietJet Air,VJ,Vietnam,none,Haneda,Tokyo,Japan
+HVN,EGLL,departure,4,4,4,852.5,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+VIV,KJFK,departure,11,8,7,254.2,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+PE8,YSSY,arrival,8,2,5,52.3,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+QTR,KJFK,arrival,19,17,8,811.3,2026-10-19,2026-10-26,Qatar Airways,QR,Qatar,oneworld,John F Kennedy International,New York,United States
+LGL,LFPG,arrival,17,7,7,41.6,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CFG,LFPG,departure,16,10,7,51.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+AMX,EGLL,departure,6,6,6,650.7,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+ASL,LFPG,departure,14,11,7,115.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+A6F,OMDB,arrival,7,4,4,37.9,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+NUM,RJTT,departure,1,1,1,331.0,2026-10-26,2026-10-26,,,,,Haneda,Tokyo,Japan
+CCA,LFPG,arrival,11,8,6,596.1,2026-10-20,2026-10-25,Air China,CA,China,Star Alliance,Charles de Gaulle,Paris,France
+TAR,LFPG,arrival,8,7,6,122.9,2026-10-21,2026-10-26,,,,,Charles de Gaulle,Paris,France
+GIA,YSSY,departure,10,6,7,881.9,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+CAO,KJFK,arrival,7,6,7,372.7,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+TSC,LFPG,departure,18,11,7,454.1,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+NCR,KJFK,arrival,3,3,3,404.7,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+ICL,KJFK,departure,5,3,4,498.6,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+DRC,LFPG,arrival,4,1,4,34.5,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+KXL,YSSY,arrival,2,1,2,40.0,2026-10-25,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+ANA,LFPG,arrival,7,6,7,829.3,2026-10-20,2026-10-26,All Nippon Airways,NH,Japan,Star Alliance,Charles de Gaulle,Paris,France
+ETH,EGLL,arrival,5,4,5,381.6,2026-10-20,2026-10-25,Ethiopian Airlines,ET,Ethiopia,Star Alliance,Heathrow,London,United Kingdom
+AXQ,KJFK,arrival,1,1,1,34.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+IGO,EGLL,departure,9,5,5,620.1,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+PGT,LFPG,arrival,6,5,4,200.2,2026-10-21,2026-10-25,,,,,Charles de Gaulle,Paris,France
+ITY,RJTT,departure,6,5,6,855.8,2026-10-20,2026-10-26,ITA Airways,AZ,Italy,SkyTeam,Haneda,Tokyo,Japan
+LVL,KJFK,arrival,2,2,2,504.5,2026-10-22,2026-10-24,,,,,John F Kennedy International,New York,United States
+GIA,RJTT,departure,7,3,7,444.3,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+FIN,KJFK,arrival,7,5,7,601.0,2026-10-20,2026-10-26,Finnair,AY,Finland,oneworld,John F Kennedy International,New York,United States
+AMX,EGLL,arrival,7,7,7,581.3,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+LHX,LFPG,arrival,21,13,7,72.8,2026-10-20,2026-10-26,Lufthansa Global Business Aviation,LH,Germany,Star Alliance,Charles de Gaulle,Paris,France
+XAX,YSSY,departure,3,3,3,502.0,2026-10-21,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+MFX,OMDB,departure,5,3,5,274.6,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+FIN,RJTT,arrival,7,6,7,761.0,2026-10-19,2026-10-25,Finnair,AY,Finland,oneworld,Haneda,Tokyo,Japan
+GLO,KJFK,departure,2,1,2,556.0,2026-10-20,2026-10-23,,,,,John F Kennedy International,New York,United States
+WJA,KJFK,arrival,5,4,5,241.6,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+PIA,EGLL,departure,3,2,3,856.0,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+VSK,YSSY,departure,1,1,1,61.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+KQA,LFPG,departure,5,4,4,474.2,2026-10-21,2026-10-26,,,,,Charles de Gaulle,Paris,France
+N91,YSSY,departure,1,1,1,62.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+DHK,KJFK,departure,5,3,5,353.4,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+HVN,RJTT,arrival,7,6,5,820.0,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+CXS,YSSY,arrival,12,1,5,19.8,2026-10-20,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+JAL,EGLL,departure,13,9,7,764.8,2026-10-20,2026-10-26,Japan Airlines,JL,Japan,oneworld,Heathrow,London,United Kingdom
+KAL,LFPG,arrival,8,7,6,624.1,2026-10-20,2026-10-26,Korean Air,KE,South Korea,SkyTeam,Charles de Gaulle,Paris,France
+CFG,KJFK,departure,7,6,6,403.6,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+AFL,OMDB,departure,7,5,5,345.3,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+DAH,EGLL,departure,4,3,4,116.5,2026-10-20,2026-10-25,Air Algerie,AH,Algeria,none,Heathrow,London,United Kingdom
+RBA,EGLL,arrival,3,1,3,843.7,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+N61,KJFK,arrival,3,2,3,74.3,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+DAO,OMDB,arrival,2,2,2,483.5,2026-10-21,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+SEI,YSSY,arrival,2,1,2,18.0,2026-10-23,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+IOV,YSSY,departure,2,1,1,22.5,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+JGS,YSSY,arrival,3,1,3,153.7,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+RWD,EGLL,arrival,7,3,7,156.1,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+JCG,RJTT,departure,1,1,1,23.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+EXV,YSSY,departure,3,1,2,20.0,2026-10-20,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+LAN,YSSY,arrival,7,7,7,861.7,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+JAL,LFPG,departure,6,5,6,757.7,2026-10-20,2026-10-25,Japan Airlines,JL,Japan,oneworld,Charles de Gaulle,Paris,France
+CHH,LFPG,departure,3,2,3,679.0,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+N19,RJTT,arrival,1,1,1,414.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+N85,RJTT,arrival,1,1,1,689.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+MEA,OMDB,arrival,13,5,7,167.3,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+EWB,YSSY,departure,2,1,2,102.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+TAM,EGLL,departure,6,6,6,673.3,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+RWD,LFPG,arrival,6,2,4,65.5,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+EXY,YSSY,arrival,10,1,4,21.5,2026-10-20,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+SZN,LFPG,arrival,7,1,6,317.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KQA,OMDB,departure,6,4,6,288.7,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+N71,KJFK,arrival,2,2,1,139.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+N55,OMDB,departure,1,1,1,14.0,2026-10-20,2026-10-20,,,,,Dubai International,Dubai,United Arab Emirates
+GFA,KJFK,departure,3,2,3,681.3,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+N40,KJFK,arrival,7,3,5,55.4,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+N41,OMDB,arrival,1,1,1,15.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+RZO,KJFK,departure,2,1,2,434.0,2026-10-20,2026-10-24,SCAT Airlines,DV,Kazakhstan,none,John F Kennedy International,New York,United States
+TAM,KJFK,arrival,7,6,7,538.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+AHY,OMDB,arrival,2,2,2,144.5,2026-10-22,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+SEH,LFPG,arrival,12,6,7,195.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ALK,EGLL,arrival,8,3,7,684.9,2026-10-20,2026-10-26,,,,,Heathrow,London,United Kingdom
+JGS,YSSY,departure,3,1,3,73.3,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+TXI,YSSY,departure,1,1,1,51.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+TKJ,OMDB,departure,5,5,4,287.2,2026-10-22,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+T73,RJTT,departure,1,1,1,234.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+TTW,RJTT,departure,5,4,5,178.8,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+AHY,EGLL,departure,3,2,3,232.7,2026-10-20,2026-10-24,,,,,Heathrow,London,United Kingdom
+ASP,KJFK,departure,2,2,2,71.0,2026-10-22,2026-10-24,,,,,John F Kennedy International,New York,United States
+PNM,YSSY,arrival,1,1,1,105.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+TVF,LFPG,departure,8,8,3,16.3,2026-10-24,2026-10-26,Transavia France,TO,France,none,Charles de Gaulle,Paris,France
+ASA,YSSY,departure,5,4,5,582.4,2026-10-20,2026-10-25,Alaska Airlines,AS,United States,oneworld,Sydney Kingsford Smith,Sydney,Australia
+MMD,LFPG,departure,1,1,1,114.0,2026-10-20,2026-10-20,,,,,Charles de Gaulle,Paris,France
+CCA,YSSY,arrival,5,4,5,638.6,2026-10-19,2026-10-26,Air China,CA,China,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+CTN,EGLL,departure,4,4,4,103.0,2026-10-21,2026-10-26,,,,,Heathrow,London,United Kingdom
+OMA,LFPG,arrival,3,2,3,943.0,2026-10-22,2026-10-25,,,,,Charles de Gaulle,Paris,France
+LAN,KJFK,departure,7,6,6,683.1,2026-10-20,2026-10-26,,,,,John F Kennedy International,New York,United States
+THY,YSSY,arrival,5,5,5,438.6,2026-10-20,2026-10-25,Turkish Airlines,TK,Turkey,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+TTW,RJTT,arrival,6,4,6,153.3,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+P4J,OMDB,arrival,1,1,1,187.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+VJT,OMDB,departure,4,4,3,223.3,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+C68,RJTT,arrival,2,1,2,76.0,2026-10-23,2026-10-24,,,,,Haneda,Tokyo,Japan
+EXS,LFPG,arrival,3,3,3,71.7,2026-10-22,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CSZ,EGLL,departure,5,3,5,688.0,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+N96,KJFK,arrival,1,1,1,46.0,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+N98,RJTT,arrival,2,2,2,71.0,2026-10-22,2026-10-24,,,,,Haneda,Tokyo,Japan
+RSC,YSSY,arrival,9,4,6,22.3,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+HLE,EGLL,departure,1,1,1,18.0,2026-10-22,2026-10-22,,,,,Heathrow,London,United Kingdom
+DMQ,OMDB,departure,1,1,1,536.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+MNB,LFPG,arrival,3,2,3,59.3,2026-10-21,2026-10-24,,,,,Charles de Gaulle,Paris,France
+QAF,EGLL,arrival,2,2,1,241.0,2026-10-22,2026-10-22,,,,,Heathrow,London,United Kingdom
+CSN,LFPG,departure,5,4,5,745.2,2026-10-20,2026-10-25,China Southern,CZ,China,SkyTeam,Charles de Gaulle,Paris,France
+LXE,OMDB,departure,2,1,2,199.5,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+FD2,YSSY,departure,4,2,4,41.3,2026-10-21,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+N37,KJFK,departure,1,1,1,142.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+RJA,KJFK,arrival,3,3,3,689.0,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+ACI,YSSY,arrival,3,3,3,415.3,2026-10-19,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+JA5,RJTT,arrival,5,1,5,46.2,2026-10-21,2026-10-26,,,,,Haneda,Tokyo,Japan
+PAL,KJFK,departure,3,1,3,977.0,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+N62,KJFK,departure,2,2,1,71.5,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+VJH,LFPG,arrival,1,1,1,90.0,2026-10-20,2026-10-20,,,,,Charles de Gaulle,Paris,France
+FHT,OMDB,arrival,1,1,1,177.0,2026-10-21,2026-10-21,,,,,Dubai International,Dubai,United Arab Emirates
+ABV,LFPG,departure,4,1,4,49.0,2026-10-20,2026-10-23,,,,,Charles de Gaulle,Paris,France
+RXI,EGLL,arrival,1,1,1,265.0,2026-10-21,2026-10-21,,,,,Heathrow,London,United Kingdom
+MNE,LFPG,departure,1,1,1,97.0,2026-10-24,2026-10-24,,,,,Charles de Gaulle,Paris,France
+KOW,KJFK,departure,1,1,1,18.0,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+RHH,RJTT,arrival,1,1,1,740.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+APO,EGLL,arrival,2,1,2,158.5,2026-10-24,2026-10-25,,,,,Heathrow,London,United Kingdom
+CSN,KJFK,arrival,1,1,1,1222.0,2026-10-22,2026-10-22,China Southern,CZ,China,SkyTeam,John F Kennedy International,New York,United States
+THY,YSSY,departure,5,5,5,489.4,2026-10-20,2026-10-25,Turkish Airlines,TK,Turkey,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+VMS,RJTT,departure,1,1,1,82.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+N30,KJFK,departure,1,1,1,22.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+FIN,KJFK,departure,7,5,7,455.9,2026-10-20,2026-10-26,Finnair,AY,Finland,oneworld,John F Kennedy International,New York,United States
+SVA,KJFK,departure,1,1,1,500.0,2026-10-22,2026-10-22,Saudia,SV,Saudi Arabia,SkyTeam,John F Kennedy International,New York,United States
+QTR,RJTT,departure,6,6,6,690.5,2026-10-20,2026-10-25,Qatar Airways,QR,Qatar,oneworld,Haneda,Tokyo,Japan
+N91,YSSY,arrival,1,1,1,58.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+MNE,LFPG,arrival,1,1,1,131.0,2026-10-24,2026-10-24,,,,,Charles de Gaulle,Paris,France
+SCX,KJFK,arrival,4,4,4,133.8,2026-10-22,2026-10-26,,,,,John F Kennedy International,New York,United States
+SCX,KJFK,departure,4,4,4,150.0,2026-10-22,2026-10-26,,,,,John F Kennedy International,New York,United States
+NSZ,LFPG,departure,12,9,6,101.3,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+PAL,KJFK,arrival,3,1,3,893.3,2026-10-20,2026-10-24,,,,,John F Kennedy International,New York,United States
+FD2,YSSY,arrival,4,2,4,44.8,2026-10-21,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+QFA,LFPG,arrival,3,3,3,777.7,2026-10-19,2026-10-23,Qantas,QF,Australia,oneworld,Charles de Gaulle,Paris,France
+N78,KJFK,arrival,3,2,3,190.0,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+GPD,KJFK,departure,1,1,1,41.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+RNA,OMDB,arrival,2,2,2,252.0,2026-10-23,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+AFG,OMDB,departure,3,1,3,184.7,2026-10-22,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+AEA,KJFK,arrival,5,5,5,448.8,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+N68,RJTT,arrival,1,1,1,415.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+UAE,RJTT,arrival,7,6,7,542.1,2026-10-20,2026-10-26,Emirates,EK,United Arab Emirates,none,Haneda,Tokyo,Japan
+JL1,RJTT,departure,1,1,1,43.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+LHO,LFPG,departure,2,2,1,396.5,2026-10-25,2026-10-25,,,,,Charles de Gaulle,Paris,France
+4XC,LFPG,departure,1,1,1,222.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+CTN,EGLL,arrival,4,4,4,131.3,2026-10-21,2026-10-26,,,,,Heathrow,London,United Kingdom
+HLF,LFPG,departure,1,1,1,962.0,2026-10-26,2026-10-26,,,,,Charles de Gaulle,Paris,France
+UPS,LFPG,arrival,9,8,6,200.2,2026-10-20,2026-10-25,UPS Airlines,5X,United States,none,Charles de Gaulle,Paris,France
+UZB,LFPG,departure,2,1,2,730.5,2026-10-20,2026-10-23,,,,,Charles de Gaulle,Paris,France
+ATC,OMDB,arrival,5,2,5,29.6,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+QFA,KJFK,departure,5,5,3,628.8,2026-10-21,2026-10-25,Qantas,QF,Australia,oneworld,John F Kennedy International,New York,United States
+LZB,EGLL,departure,3,2,3,153.0,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+GTR,KJFK,arrival,1,1,1,487.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+HVN,RJTT,departure,6,5,6,277.3,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+FDX,KJFK,departure,19,17,7,110.8,2026-10-20,2026-10-26,FedEx Express,FX,United States,none,John F Kennedy International,New York,United States
+EVA,LFPG,arrival,6,3,6,839.5,2026-10-19,2026-10-25,EVA Air,BR,Taiwan,Star Alliance,Charles de Gaulle,Paris,France
+UBG,OMDB,arrival,9,4,6,306.7,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+CQH,RJTT,departure,2,2,2,101.0,2026-10-23,2026-10-25,,,,,Haneda,Tokyo,Japan
+FIN,RJTT,departure,6,6,6,719.3,2026-10-20,2026-10-25,Finnair,AY,Finland,oneworld,Haneda,Tokyo,Japan
+CHH,LFPG,arrival,4,3,4,622.5,2026-10-19,2026-10-25,,,,,Charles de Gaulle,Paris,France
+8PO,YSSY,arrival,2,1,2,39.0,2026-10-23,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+CYP,LFPG,arrival,4,3,4,258.8,2026-10-21,2026-10-26,,,,,Charles de Gaulle,Paris,France
+OFJ,YSSY,departure,1,1,1,75.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+N30,RJTT,arrival,2,1,2,62.5,2026-10-21,2026-10-24,,,,,Haneda,Tokyo,Japan
+DWC,OMDB,arrival,1,1,1,223.0,2026-10-20,2026-10-20,,,,,Dubai International,Dubai,United Arab Emirates
+XAX,YSSY,arrival,3,3,3,454.0,2026-10-21,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+AIC,LFPG,arrival,10,9,7,610.9,2026-10-20,2026-10-26,Air India,AI,India,Star Alliance,Charles de Gaulle,Paris,France
+RKS,RJTT,arrival,1,1,1,688.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+DU1,OMDB,departure,3,1,2,24.0,2026-10-22,2026-10-23,,,,,Dubai International,Dubai,United Arab Emirates
+WJA,LFPG,arrival,10,6,7,416.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ALK,OMDB,arrival,5,3,5,429.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+NPT,LFPG,arrival,4,1,4,60.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+ACI,YSSY,departure,3,3,3,437.7,2026-10-20,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+ANZ,KJFK,arrival,3,3,3,929.3,2026-10-22,2026-10-26,Air New Zealand,NZ,New Zealand,Star Alliance,John F Kennedy International,New York,United States
+ACA,YSSY,departure,6,4,5,842.5,2026-10-20,2026-10-25,Air Canada,AC,Canada,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+KQA,EGLL,departure,6,3,6,492.0,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+CBJ,EGLL,arrival,2,1,2,687.0,2026-10-23,2026-10-26,,,,,Heathrow,London,United Kingdom
+THA,YSSY,arrival,14,7,8,502.3,2026-10-19,2026-10-26,Thai Airways,TG,Thailand,Star Alliance,Sydney Kingsford Smith,Sydney,Australia
+TKJ,LFPG,departure,13,12,7,170.8,2026-10-20,2026-10-26,,,,,Charles de Gaulle,Paris,France
+CHH,YSSY,departure,2,1,2,459.5,2026-10-20,2026-10-22,,,,,Sydney Kingsford Smith,Sydney,Australia
+WJA,KJFK,departure,4,4,4,277.8,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+CSC,YSSY,arrival,4,3,4,647.0,2026-10-19,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+N50,YSSY,departure,1,1,1,564.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+FAD,OMDB,departure,1,1,1,59.0,2026-10-21,2026-10-21,,,,,Dubai International,Dubai,United Arab Emirates
+HLF,LFPG,arrival,1,1,1,437.0,2026-10-25,2026-10-25,,,,,Charles de Gaulle,Paris,France
+TRI,RJTT,arrival,1,1,1,78.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+MSC,LFPG,departure,3,3,1,182.0,2026-10-24,2026-10-24,,,,,Charles de Gaulle,Paris,France
+UZB,EGLL,arrival,2,2,2,252.5,2026-10-20,2026-10-23,,,,,Heathrow,London,United Kingdom
+N21,YSSY,departure,1,1,1,672.0,2026-10-24,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+HYS,LFPG,arrival,2,2,2,167.0,2026-10-21,2026-10-23,,,,,Charles de Gaulle,Paris,France
+SXS,OMDB,departure,5,5,5,236.4,2026-10-20,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+LCF,YSSY,arrival,2,1,2,24.5,2026-10-24,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+N60,YSSY,departure,1,1,1,29.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+HZA,KJFK,arrival,1,1,1,433.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+WIN,LFPG,arrival,1,1,1,623.0,2026-10-26,2026-10-26,,,,,Charles de Gaulle,Paris,France
+JA5,RJTT,departure,5,1,5,32.4,2026-10-21,2026-10-26,,,,,Haneda,Tokyo,Japan
+LHO,LFPG,arrival,3,3,3,329.0,2026-10-22,2026-10-25,,,,,Charles de Gaulle,Paris,France
+VOF,YSSY,departure,1,1,1,80.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N77,KJFK,departure,1,1,1,64.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+0,RJTT,departure,2,1,2,94.5,2026-10-20,2026-10-21,,,,,Haneda,Tokyo,Japan
+TGW,RJTT,arrival,7,7,7,368.1,2026-10-20,2026-10-26,,,,,Haneda,Tokyo,Japan
+AUA,KJFK,departure,5,2,4,423.0,2026-10-20,2026-10-24,Austrian Airlines,OS,Austria,Star Alliance,John F Kennedy International,New York,United States
+GTR,KJFK,departure,1,1,1,406.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+N58,KJFK,arrival,2,2,2,39.0,2026-10-23,2026-10-25,,,,,John F Kennedy International,New York,United States
+SYR,OMDB,arrival,4,2,4,147.5,2026-10-21,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+X8X,YSSY,arrival,1,1,1,35.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+N78,KJFK,departure,3,2,2,47.0,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+CLX,KJFK,arrival,4,4,3,364.3,2026-10-19,2026-10-25,,,,,John F Kennedy International,New York,United States
+CAO,LFPG,arrival,5,5,4,676.2,2026-10-19,2026-10-24,,,,,Charles de Gaulle,Paris,France
+FD1,OMDB,departure,1,1,1,20.0,2026-10-26,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+TAM,LFPG,arrival,7,5,6,633.3,2026-10-19,2026-10-25,,,,,Charles de Gaulle,Paris,France
+X8X,YSSY,departure,1,1,1,14.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+VTF,YSSY,departure,2,1,2,75.5,2026-10-24,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+CCA,KJFK,departure,3,2,3,982.0,2026-10-20,2026-10-23,Air China,CA,China,Star Alliance,John F Kennedy International,New York,United States
+P4K,OMDB,departure,1,1,1,14.0,2026-10-23,2026-10-23,,,,,Dubai International,Dubai,United Arab Emirates
+N89,KJFK,arrival,1,1,1,67.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+MNB,LFPG,departure,3,2,3,171.3,2026-10-21,2026-10-24,,,,,Charles de Gaulle,Paris,France
+PNM,YSSY,departure,1,1,1,97.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+B65,RJTT,departure,2,2,2,303.5,2026-10-20,2026-10-21,,,,,Haneda,Tokyo,Japan
+N60,KJFK,departure,1,1,1,49.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+CAO,KJFK,departure,4,4,3,850.8,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+FIE,LFPG,arrival,1,1,1,278.0,2026-10-24,2026-10-24,,,,,Charles de Gaulle,Paris,France
+CSN,LFPG,arrival,5,4,5,1194.6,2026-10-19,2026-10-24,China Southern,CZ,China,SkyTeam,Charles de Gaulle,Paris,France
+CKK,LFPG,departure,4,3,4,1659.0,2026-10-20,2026-10-24,,,,,Charles de Gaulle,Paris,France
+JAF,LFPG,arrival,2,1,2,142.5,2026-10-22,2026-10-26,,,,,Charles de Gaulle,Paris,France
+KQA,KJFK,departure,4,4,4,778.8,2026-10-20,2026-10-25,,,,,John F Kennedy International,New York,United States
+JA4,RJTT,arrival,2,2,2,55.0,2026-10-22,2026-10-25,,,,,Haneda,Tokyo,Japan
+ADA,YSSY,departure,1,1,1,106.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+HYS,KJFK,arrival,1,1,1,589.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+JL4,RJTT,arrival,1,1,1,57.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+SYR,OMDB,departure,3,2,3,148.3,2026-10-21,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+DCM,KJFK,arrival,1,1,1,51.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+EEV,KJFK,arrival,1,1,1,68.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+DCM,KJFK,departure,1,1,1,52.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+ETH,LFPG,departure,1,1,1,837.0,2026-10-20,2026-10-20,Ethiopian Airlines,ET,Ethiopia,Star Alliance,Charles de Gaulle,Paris,France
+CAL,EGLL,departure,4,4,4,782.0,2026-10-20,2026-10-24,China Airlines,CI,Taiwan,SkyTeam,Heathrow,London,United Kingdom
+GEC,KJFK,arrival,5,5,5,477.4,2026-10-21,2026-10-25,Lufthansa Cargo,GE,Germany,Star Alliance,John F Kennedy International,New York,United States
+GCR,EGLL,departure,2,1,2,834.5,2026-10-21,2026-10-23,,,,,Heathrow,London,United Kingdom
+ZKJ,YSSY,arrival,1,1,1,167.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+CSS,KJFK,departure,2,2,2,427.0,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+OYA,OMDB,arrival,1,1,1,297.0,2026-10-24,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+AUA,KJFK,arrival,4,1,4,505.5,2026-10-21,2026-10-24,Austrian Airlines,OS,Austria,Star Alliance,John F Kennedy International,New York,United States
+N41,KJFK,arrival,2,1,1,22.5,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+VRE,LFPG,departure,6,2,5,121.2,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+RJA,KJFK,departure,3,3,3,591.0,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+RNA,OMDB,departure,2,2,2,193.0,2026-10-20,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+VMS,RJTT,arrival,1,1,1,98.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+N20,KJFK,arrival,1,1,1,63.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+N88,KJFK,departure,1,1,1,13.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+THY,RJTT,departure,6,5,5,758.5,2026-10-21,2026-10-25,Turkish Airlines,TK,Turkey,Star Alliance,Haneda,Tokyo,Japan
+OFJ,YSSY,arrival,1,1,1,229.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+DRC,LFPG,departure,2,1,2,96.0,2026-10-23,2026-10-24,,,,,Charles de Gaulle,Paris,France
+AM6,YSSY,departure,1,1,1,67.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N72,YSSY,departure,1,1,1,784.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+QQE,OMDB,arrival,1,1,1,23.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+FHM,LFPG,arrival,1,1,1,178.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+N21,KJFK,arrival,1,1,1,99.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+N6F,KJFK,departure,1,1,1,41.0,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+AIH,KJFK,departure,3,2,3,375.7,2026-10-21,2026-10-26,,,,,John F Kennedy International,New York,United States
+FJL,OMDB,arrival,4,2,4,247.8,2026-10-20,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+TAP,LFPG,arrival,1,1,1,148.0,2026-10-24,2026-10-24,TAP Air Portugal,TP,Portugal,Star Alliance,Charles de Gaulle,Paris,France
+CMA,KJFK,departure,1,1,1,412.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+N60,KJFK,arrival,1,1,1,64.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+ASA,EGLL,departure,6,4,6,541.8,2026-10-20,2026-10-25,Alaska Airlines,AS,United States,oneworld,Heathrow,London,United Kingdom
+RZO,KJFK,arrival,2,1,2,534.5,2026-10-19,2026-10-23,SCAT Airlines,DV,Kazakhstan,none,John F Kennedy International,New York,United States
+N74,KJFK,departure,2,2,2,38.0,2026-10-20,2026-10-22,,,,,John F Kennedy International,New York,United States
+ASA,EGLL,arrival,7,4,7,529.3,2026-10-20,2026-10-26,Alaska Airlines,AS,United States,oneworld,Heathrow,London,United Kingdom
+SBI,OMDB,arrival,2,2,2,174.5,2026-10-25,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+JL4,RJTT,departure,1,1,1,52.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+TGZ,LFPG,departure,3,1,3,246.0,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+CAL,YSSY,arrival,5,5,5,514.6,2026-10-20,2026-10-25,China Airlines,CI,Taiwan,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+DKH,RJTT,departure,3,3,3,259.7,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+VPC,RJTT,arrival,3,3,3,580.3,2026-10-24,2026-10-26,,,,,Haneda,Tokyo,Japan
+HBI,RJTT,arrival,1,1,1,889.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+TGZ,LFPG,arrival,3,1,3,291.3,2026-10-20,2026-10-25,,,,,Charles de Gaulle,Paris,France
+N63,KJFK,departure,1,1,1,68.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+AHK,YSSY,departure,1,1,1,541.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+IRA,OMDB,arrival,1,1,1,116.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+ELX,KJFK,departure,1,1,1,184.0,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+THT,LFPG,arrival,5,3,5,575.6,2026-10-19,2026-10-25,,,,,Charles de Gaulle,Paris,France
+UAF,OMDB,arrival,3,2,3,71.7,2026-10-24,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+MHQ,YSSY,arrival,1,1,1,37.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+OCN,LFPG,departure,2,2,2,49.5,2026-10-20,2026-10-22,,,,,Charles de Gaulle,Paris,France
+SAM,KJFK,arrival,1,1,1,40.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+EJM,KJFK,departure,2,2,2,179.5,2026-10-23,2026-10-24,,,,,John F Kennedy International,New York,United States
+TVR,YSSY,arrival,1,1,1,501.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+DAL,YSSY,arrival,7,6,7,852.7,2026-10-20,2026-10-26,Delta Air Lines,DL,United States,SkyTeam,Sydney Kingsford Smith,Sydney,Australia
+NJE,RJTT,departure,1,1,1,705.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+THA,EGLL,arrival,6,5,4,721.0,2026-10-22,2026-10-25,Thai Airways,TG,Thailand,Star Alliance,Heathrow,London,United Kingdom
+A6V,OMDB,departure,1,1,1,21.0,2026-10-21,2026-10-21,,,,,Dubai International,Dubai,United Arab Emirates
+HYS,KJFK,departure,1,1,1,474.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+N6F,YSSY,departure,1,1,1,554.0,2026-10-24,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+FHY,LFPG,departure,2,2,1,152.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+KGC,RJTT,arrival,1,1,1,174.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+RVJ,KJFK,arrival,1,1,1,65.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+VSK,YSSY,arrival,1,1,1,61.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+AKX,RJTT,arrival,1,1,1,143.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+CRK,YSSY,departure,4,2,4,542.3,2026-10-21,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+CES,EGLL,arrival,7,6,6,852.7,2026-10-20,2026-10-25,China Eastern,MU,China,SkyTeam,Heathrow,London,United Kingdom
+NCR,KJFK,departure,3,3,3,617.3,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+CRK,YSSY,arrival,5,2,5,528.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+N99,KJFK,departure,1,1,1,97.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+N8L,KJFK,departure,1,1,1,41.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+ISR,KJFK,departure,3,2,3,566.0,2026-10-21,2026-10-25,,,,,John F Kennedy International,New York,United States
+T72,RJTT,departure,1,1,1,44.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+LZB,EGLL,arrival,3,2,3,181.0,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+BNL,OMDB,arrival,1,1,1,62.0,2026-10-26,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+C68,RJTT,departure,2,1,2,69.0,2026-10-23,2026-10-24,,,,,Haneda,Tokyo,Japan
+VJA,KJFK,arrival,3,3,2,59.3,2026-10-22,2026-10-26,,,,,John F Kennedy International,New York,United States
+VHL,YSSY,arrival,1,1,1,574.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+0,RJTT,arrival,2,1,2,94.5,2026-10-20,2026-10-21,,,,,Haneda,Tokyo,Japan
+N82,KJFK,departure,1,1,1,99.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+VLT,YSSY,departure,1,1,1,31.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+FKB,YSSY,arrival,1,1,1,19.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+ZKR,YSSY,arrival,1,1,1,715.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+EC2,YSSY,arrival,2,1,1,19.5,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+GTX,KJFK,departure,2,2,1,70.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+TKF,EGLL,departure,3,2,3,43.0,2026-10-21,2026-10-26,,,,,Heathrow,London,United Kingdom
+JA7,RJTT,arrival,2,2,2,34.0,2026-10-21,2026-10-23,,,,,Haneda,Tokyo,Japan
+JA3,RJTT,arrival,1,1,1,85.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+ZDM,YSSY,departure,1,1,1,62.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+G Z,EGLL,arrival,3,3,3,15.0,2026-10-23,2026-10-26,,,,,Heathrow,London,United Kingdom
+N65,KJFK,departure,2,2,2,67.0,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+GCR,YSSY,departure,1,1,1,535.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+N23,KJFK,arrival,1,1,1,102.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+YEO,YSSY,arrival,1,1,1,35.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+CFH,YSSY,arrival,3,1,1,11.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+IOV,YSSY,arrival,2,1,2,12.5,2026-10-22,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+VOF,YSSY,arrival,1,1,1,85.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N18,KJFK,departure,1,1,1,80.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+LCF,YSSY,departure,1,1,1,38.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+APO,EGLL,departure,1,1,1,121.0,2026-10-24,2026-10-24,,,,,Heathrow,London,United Kingdom
+QQE,RJTT,departure,3,3,3,598.7,2026-10-20,2026-10-25,,,,,Haneda,Tokyo,Japan
+N35,RJTT,departure,1,1,1,246.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+JAK,RJTT,departure,1,1,1,67.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+TCV,LFPG,arrival,2,2,2,217.0,2026-10-22,2026-10-25,,,,,Charles de Gaulle,Paris,France
+QQE,OMDB,departure,1,1,1,119.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+P4J,OMDB,departure,1,1,1,17.0,2026-10-23,2026-10-23,,,,,Dubai International,Dubai,United Arab Emirates
+FIA,LFPG,departure,1,1,1,437.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+A6M,OMDB,departure,1,1,1,475.0,2026-10-24,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+N98,RJTT,departure,1,1,1,111.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+N86,KJFK,departure,1,1,1,74.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+VQN,YSSY,departure,1,1,1,80.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+CFH,YSSY,departure,3,1,3,15.7,2026-10-20,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+TWB,LFPG,departure,2,2,2,697.0,2026-10-21,2026-10-24,,,,,Charles de Gaulle,Paris,France
+HMZ,OMDB,departure,1,1,1,150.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+LOG,LFPG,arrival,1,1,1,56.0,2026-10-22,2026-10-22,Loganair,LM,United Kingdom,none,Charles de Gaulle,Paris,France
+SMR,OMDB,arrival,2,2,2,156.5,2026-10-20,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+QQE,KJFK,departure,1,1,1,403.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+N36,YSSY,arrival,1,1,1,32.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+N35,RJTT,arrival,1,1,1,595.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+N51,OMDB,arrival,1,1,1,54.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+PJC,KJFK,arrival,1,1,1,86.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+PJC,KJFK,departure,1,1,1,50.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+N18,KJFK,arrival,1,1,1,30.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+VGG,OMDB,arrival,1,1,1,55.0,2026-10-21,2026-10-21,,,,,Dubai International,Dubai,United Arab Emirates
+AEE,OMDB,departure,2,2,2,328.5,2026-10-25,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+HYS,LFPG,departure,2,2,2,145.0,2026-10-21,2026-10-23,,,,,Charles de Gaulle,Paris,France
+P4K,OMDB,arrival,1,1,1,205.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+VTE,KJFK,departure,1,1,1,143.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+KCL,YSSY,arrival,1,1,1,45.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+CTM,LFPG,arrival,1,1,1,434.0,2026-10-21,2026-10-21,,,,,Charles de Gaulle,Paris,France
+LOG,LFPG,departure,1,1,1,52.0,2026-10-22,2026-10-22,Loganair,LM,United Kingdom,none,Charles de Gaulle,Paris,France
+FIE,LFPG,departure,1,1,1,228.0,2026-10-24,2026-10-24,,,,,Charles de Gaulle,Paris,France
+VH8,YSSY,arrival,1,1,1,176.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+RAM,OMDB,departure,1,1,1,461.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+N85,RJTT,departure,1,1,1,121.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+N12,LFPG,arrival,1,1,1,17.0,2026-10-20,2026-10-20,,,,,Charles de Gaulle,Paris,France
+ASY,YSSY,arrival,1,1,1,153.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+RHH,RJTT,departure,1,1,1,588.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+GJW,KJFK,arrival,1,1,1,88.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+CHH,EGLL,arrival,1,1,1,443.0,2026-10-21,2026-10-21,,,,,Heathrow,London,United Kingdom
+ADA,YSSY,arrival,1,1,1,18.0,2026-10-20,2026-10-20,,,,,Sydney Kingsford Smith,Sydney,Australia
+LJY,KJFK,departure,1,1,1,43.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+NUM,RJTT,arrival,1,1,1,34.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+ZDM,YSSY,arrival,1,1,1,81.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+QAF,EGLL,departure,2,2,2,390.0,2026-10-21,2026-10-23,,,,,Heathrow,London,United Kingdom
+BCP,OMDB,arrival,1,1,1,203.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+QQE,KJFK,arrival,1,1,1,791.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+KXL,YSSY,departure,1,1,1,37.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+N88,YSSY,departure,1,1,1,65.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+N55,YSSY,departure,1,1,1,394.0,2026-10-22,2026-10-22,,,,,Sydney Kingsford Smith,Sydney,Australia
+PAL,OMDB,departure,4,4,4,506.0,2026-10-21,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+VTM,YSSY,departure,1,1,1,118.0,2026-10-24,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+N13,KJFK,departure,1,1,1,13.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+N63,KJFK,arrival,1,1,1,70.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+TVR,YSSY,departure,1,1,1,556.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+N6F,KJFK,arrival,1,1,1,27.0,2026-10-26,2026-10-26,,,,,John F Kennedy International,New York,United States
+GFA,KJFK,arrival,2,2,2,782.5,2026-10-20,2026-10-23,,,,,John F Kennedy International,New York,United States
+N21,KJFK,departure,1,1,1,78.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+SAM,KJFK,departure,1,1,1,86.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+VPB,YSSY,arrival,1,1,1,423.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+FGK,LFPG,arrival,1,1,1,26.0,2026-10-26,2026-10-26,,,,,Charles de Gaulle,Paris,France
+UZB,EGLL,departure,2,2,2,1119.0,2026-10-20,2026-10-23,,,,,Heathrow,London,United Kingdom
+N77,KJFK,arrival,1,1,1,16.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+N57,RJTT,arrival,1,1,1,625.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+EEV,KJFK,departure,1,1,1,75.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+A6A,OMDB,arrival,1,1,1,11.0,2026-10-20,2026-10-20,,,,,Dubai International,Dubai,United Arab Emirates
+N50,RJTT,departure,1,1,1,192.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+CES,KJFK,arrival,2,2,2,1251.5,2026-10-19,2026-10-25,China Eastern,MU,China,SkyTeam,John F Kennedy International,New York,United States
+N57,RJTT,departure,1,1,1,569.0,2026-10-23,2026-10-23,,,,,Haneda,Tokyo,Japan
+RVJ,KJFK,departure,1,1,1,152.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+N17,YSSY,departure,1,1,1,32.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+GCR,RJTT,arrival,1,1,1,147.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+AIP,KJFK,arrival,1,1,1,282.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+TAP,LFPG,departure,1,1,1,25.0,2026-10-25,2026-10-25,TAP Air Portugal,TP,Portugal,Star Alliance,Charles de Gaulle,Paris,France
+CES,KJFK,departure,1,1,1,805.0,2026-10-21,2026-10-21,China Eastern,MU,China,SkyTeam,John F Kennedy International,New York,United States
+N68,RJTT,departure,1,1,1,346.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+N37,KJFK,arrival,1,1,1,135.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+T72,RJTT,arrival,1,1,1,100.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+N8S,OMDB,arrival,1,1,1,364.0,2026-10-26,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+VJH,OMDB,departure,1,1,1,13.0,2026-10-24,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+N21,YSSY,arrival,1,1,1,1754.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+A6F,OMDB,departure,1,1,1,11.0,2026-10-21,2026-10-21,,,,,Dubai International,Dubai,United Arab Emirates
+FHY,LFPG,arrival,1,1,1,245.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+N81,RJTT,arrival,1,1,1,50.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+NJE,RJTT,arrival,1,1,1,532.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+CFX,RJTT,arrival,1,1,1,19.0,2026-10-26,2026-10-26,,,,,Haneda,Tokyo,Japan
+BRU,OMDB,arrival,3,2,3,702.7,2026-10-20,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+RMX,LFPG,arrival,1,1,1,123.0,2026-10-21,2026-10-21,,,,,Charles de Gaulle,Paris,France
+VJH,OMDB,arrival,1,1,1,298.0,2026-10-24,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+N11,KJFK,arrival,1,1,1,112.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+CGS,RJTT,arrival,1,1,1,77.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+EFW,EGLL,departure,1,1,1,20.0,2026-10-22,2026-10-22,,,,,Heathrow,London,United Kingdom
+N18,RJTT,departure,1,1,1,564.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+FYN,KJFK,departure,1,1,1,25.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+NCA,KJFK,arrival,2,2,2,271.5,2026-10-21,2026-10-24,Nippon Cargo Airlines,KZ,Japan,none,John F Kennedy International,New York,United States
+4XC,LFPG,arrival,1,1,1,283.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+VLT,YSSY,arrival,1,1,1,120.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+MHQ,YSSY,departure,1,1,1,28.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+POL,YSSY,departure,1,1,1,13.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+AN4,RJTT,arrival,1,1,1,46.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+SIF,OMDB,departure,2,1,2,133.0,2026-10-21,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+T7R,YSSY,departure,1,1,1,75.0,2026-10-25,2026-10-25,,,,,Sydney Kingsford Smith,Sydney,Australia
+N43,KJFK,arrival,1,1,1,49.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+QAF,RJTT,arrival,1,1,1,564.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+GLO,KJFK,arrival,1,1,1,538.0,2026-10-22,2026-10-22,,,,,John F Kennedy International,New York,United States
+EH5,RJTT,arrival,1,1,1,87.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+RRF,EGLL,arrival,1,1,1,16.0,2026-10-26,2026-10-26,,,,,Heathrow,London,United Kingdom
+N60,YSSY,arrival,2,1,2,53.0,2026-10-20,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+NH1,RJTT,departure,1,1,1,136.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+VJH,LFPG,departure,1,1,1,76.0,2026-10-20,2026-10-20,,,,,Charles de Gaulle,Paris,France
+P4E,OMDB,arrival,1,1,1,28.0,2026-10-22,2026-10-22,,,,,Dubai International,Dubai,United Arab Emirates
+KCL,YSSY,departure,1,1,1,45.0,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+N36,YSSY,departure,1,1,1,96.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+MUS,OMDB,arrival,1,1,1,49.0,2026-10-26,2026-10-26,,,,,Dubai International,Dubai,United Arab Emirates
+FXC,KJFK,arrival,1,1,1,36.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+EWG,LFPG,departure,9,6,6,85.2,2026-10-20,2026-10-26,Eurowings,EW,Germany,none,Charles de Gaulle,Paris,France
+LXE,OMDB,arrival,2,1,2,157.0,2026-10-20,2026-10-24,,,,,Dubai International,Dubai,United Arab Emirates
+JA1,RJTT,departure,5,3,4,60.6,2026-10-21,2026-10-25,,,,,Haneda,Tokyo,Japan
+PIA,LFPG,arrival,2,2,2,305.5,2026-10-23,2026-10-25,,,,,Charles de Gaulle,Paris,France
+CXA,EGLL,departure,3,2,3,821.3,2026-10-21,2026-10-25,,,,,Heathrow,London,United Kingdom
+CSZ,EGLL,arrival,5,3,5,747.8,2026-10-20,2026-10-25,,,,,Heathrow,London,United Kingdom
+G Z,EGLL,departure,3,3,3,15.0,2026-10-23,2026-10-26,,,,,Heathrow,London,United Kingdom
+FIA,LFPG,arrival,1,1,1,172.0,2026-10-23,2026-10-23,,,,,Charles de Gaulle,Paris,France
+JA3,RJTT,departure,1,1,1,91.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+N89,KJFK,departure,1,1,1,45.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+JL5,RJTT,arrival,2,2,2,79.5,2026-10-20,2026-10-24,,,,,Haneda,Tokyo,Japan
+ZKR,YSSY,departure,1,1,1,141.0,2026-10-22,2026-10-22,,,,,Sydney Kingsford Smith,Sydney,Australia
+AJT,YSSY,arrival,1,1,1,32.0,2026-10-24,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+NV1,YSSY,departure,1,1,1,21.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+AUR,LFPG,arrival,1,1,1,57.0,2026-10-26,2026-10-26,,,,,Charles de Gaulle,Paris,France
+GTX,KJFK,arrival,2,2,1,139.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+N65,KJFK,arrival,2,2,2,50.5,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+PE7,YSSY,departure,2,2,1,77.5,2026-10-26,2026-10-26,,,,,Sydney Kingsford Smith,Sydney,Australia
+GCR,RJTT,departure,1,1,1,202.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+AP7,YSSY,departure,1,1,1,64.0,2026-10-23,2026-10-23,,,,,Sydney Kingsford Smith,Sydney,Australia
+JL6,RJTT,arrival,1,1,1,88.0,2026-10-25,2026-10-25,,,,,Haneda,Tokyo,Japan
+N82,KJFK,arrival,1,1,1,134.0,2026-10-21,2026-10-21,,,,,John F Kennedy International,New York,United States
+LIF,YSSY,arrival,2,1,2,22.0,2026-10-20,2026-10-24,,,,,Sydney Kingsford Smith,Sydney,Australia
+VTE,KJFK,arrival,1,1,1,61.0,2026-10-25,2026-10-25,,,,,John F Kennedy International,New York,United States
+CNS,KJFK,departure,2,2,2,40.5,2026-10-23,2026-10-25,,,,,John F Kennedy International,New York,United States
+T73,RJTT,arrival,1,1,1,349.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+000,RJTT,departure,1,1,1,63.0,2026-10-22,2026-10-22,,,,,Haneda,Tokyo,Japan
+AN6,RJTT,arrival,1,1,1,47.0,2026-10-24,2026-10-24,,,,,Haneda,Tokyo,Japan
+CSS,KJFK,arrival,2,2,2,376.5,2026-10-23,2026-10-26,,,,,John F Kennedy International,New York,United States
+LVL,KJFK,departure,2,2,2,404.0,2026-10-23,2026-10-25,,,,,John F Kennedy International,New York,United States
+MAC,LFPG,departure,1,1,1,145.0,2026-10-21,2026-10-21,,,,,Charles de Gaulle,Paris,France
+TJD,LFPG,arrival,1,1,1,77.0,2026-10-25,2026-10-25,,,,,Charles de Gaulle,Paris,France
+BCP,OMDB,departure,1,1,1,459.0,2026-10-25,2026-10-25,,,,,Dubai International,Dubai,United Arab Emirates
+ZKJ,YSSY,departure,1,1,1,160.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
+GES,RJTT,arrival,1,1,1,65.0,2026-10-20,2026-10-20,,,,,Haneda,Tokyo,Japan
+N30,KJFK,arrival,1,1,1,52.0,2026-10-20,2026-10-20,,,,,John F Kennedy International,New York,United States
+000,RJTT,arrival,1,1,1,101.0,2026-10-21,2026-10-21,,,,,Haneda,Tokyo,Japan
+MJF,OMDB,arrival,1,1,1,60.0,2026-10-21,2026-10-21,,,,,Dubai International,Dubai,United Arab Emirates
+TJD,LFPG,departure,1,1,1,57.0,2026-10-25,2026-10-25,,,,,Charles de Gaulle,Paris,France
+HLE,EGLL,arrival,1,1,1,11.0,2026-10-22,2026-10-22,,,,,Heathrow,London,United Kingdom
+CTM,LFPG,departure,1,1,1,61.0,2026-10-21,2026-10-21,,,,,Charles de Gaulle,Paris,France
+N20,KJFK,departure,1,1,1,54.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+N23,KJFK,departure,1,1,1,136.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+HZA,KJFK,departure,1,1,1,329.0,2026-10-24,2026-10-24,,,,,John F Kennedy International,New York,United States
+MAC,LFPG,arrival,1,1,1,141.0,2026-10-21,2026-10-21,,,,,Charles de Gaulle,Paris,France
+ETH,KJFK,arrival,1,1,1,1954.0,2026-10-20,2026-10-20,Ethiopian Airlines,ET,Ethiopia,Star Alliance,John F Kennedy International,New York,United States
+CMA,KJFK,arrival,1,1,1,492.0,2026-10-23,2026-10-23,,,,,John F Kennedy International,New York,United States
+EWB,YSSY,arrival,1,1,1,87.0,2026-10-21,2026-10-21,,,,,Sydney Kingsford Smith,Sydney,Australia
